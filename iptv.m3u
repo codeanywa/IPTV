@@ -335,8 +335,6 @@ http://187.120.222.12:8000/play/GloboNews/index.m3u8
 http://187.188.147.165:8000/play/a007
 #EXTINF:-1, CNN Prima News
 http://213.81.133.130:8000/play/CNNPrimaNews 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rLcwgqf.png", CNN Brasil
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1, Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?sd=10&rebase=on
 #EXTINF:-1, Record News
