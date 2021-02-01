@@ -2618,8 +2618,7 @@ http://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Iraq-Flag-icon.png", Iraque
 https://upload.wikimedia.org/wikipedia/commons/1/16/United_States_Navy_Band_-_Mawtini.ogg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/apOGmpj.jpg", MBC Iraq
-http://95.170.215.103/hls/m3u8/MBC-IRAQ-Backup.m3u8 
- 
+http://95.170.215.103/hls/m3u8/MBC-IRAQ-Backup.m3u8
  
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Uganda-Flag-icon.png", Uganda
@@ -3022,11 +3021,11 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
 #EXTINF:-1, BBC One
 https://edge-1192-ch-gv.filmon.com/live/4139.high.stream/playlist.m3u8
 #EXTINF:-1, BBC Two
-https://edge-1192-ch-gv.filmon.com/live/4142.high.stream/playlist.m3u8
+http://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BBC Four
 http://51.52.156.22:8888/http/003
 #EXTINF:-1, CBBC
-http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
 #EXTINF:-1, CBBC
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/29?protocol=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CBeebies.png", CBeebies
