@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 30.01.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 02.02.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -455,17 +455,15 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XXxJf8.png", Sports
-#EXTINF:-1, Bein Sports Xtra
-https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-#EXTINF:-1, Sony Six
-http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Eurosport 1
+http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
+#EXTINF:-1, Eurosport 2
+http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
 #EXTINF:-1, Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-https://dai.google.com/linear/hls/event/onLv29SuSWKUAry_Z7h-Qg/master.m3u8
-https://dai.google.com/linear/hls/event/E0MqwlqrRF-JYuFX1F-6qw/master.m3u8
 https://ott-dai.olympicchannel.com/linear/hls/pa/event/E0MqwlqrRF-JYuFX1F-6qw/stream/a9275400-e2be-4312-87cd-0f46bb4ee9fc:BRU/variant/c11e1858039bc58d60141782622627e3/bandwidth/hdntl=exp=1607281322~acl=%2f*~id=36879ff2-2008-4415-9898-d7af74b3e22d~data=hdntl~hmac=0217cf4db4ed5399218719e033a41cf2640f423eb289fdcf380f759c65c804bd/000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
