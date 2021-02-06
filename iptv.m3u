@@ -947,7 +947,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1, TV Senado
 http://www.tvmpf.mpf.mp.br:1935/event455/event455.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vY8jL1a.png", TV Justiça
-http://www.tvmpf.mpf.mp.br:1935/event1900/event1900.stream_720p/playlist.m3u8
+https://www.youtube.com/embed/nV01TG64COU
 #EXTINF:-1, NTV
 https://hls.brasilstream.com.br/live/ntv/ntv/mono.m3u8?token=9004833049085463000
 #EXTINF:-1, 3TV
