@@ -2574,10 +2574,6 @@ http://chromecast.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Ca
 http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png", VTV
 http://ad.mysisli.com/live/vtvuru/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Canal M
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/1024x1024.png", Television Nacional del Uruguai
-https://vxlive.cdn.antel.net.uy/auth_livesignal_835,vxttoken=/vxfmt=hls/h_e2bcc1d5b2b6deece6477ebc69a69929/var3000000/playlist.m3u8
  
 EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Guyana-Flag-icon.png", Guiana
 https://upload.wikimedia.org/wikipedia/commons/8/85/National_Anthem_of_Guyana.ogg
