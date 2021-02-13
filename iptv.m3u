@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 12.02.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 13.02.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
@@ -89,7 +89,7 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NAFhzA.png", Love Nature
 http://177.20.208.58:8000/play/a04o/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aw0sPst.png", News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aw0sPst.png", 
 #EXTINF:-1, Hechos Ecuador
 http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1, Aljazeera
@@ -234,6 +234,8 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/playlist.m3u8
+#EXTINF:-1, Telefe Noticias
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 #EXTINF:-1, TN
 https://www.youtube.com/embed/wHn1_QVoXGM
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", A24
@@ -243,18 +245,10 @@ https://g2.mc-slo.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-1000
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="", A24
 https://pubads.g.doubleclick.net/ssai/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
-#EXTINF:-1, C5N Teste
-https://www.youtube.com/user/c5n/live
-#EXTINF:-1, C5N
-https://www.youtube.com/embed/eO9CLpZlrKc
 #EXTINF:-1, C5N
 http://inliveserver.com:1936/8012_1/8012_1/playlist.m3u8
 #EXTINF:-1, LN
 https://www.youtube.com/watch?v=Lnsp9CFTIh4
-#EXTINF:-1, 24 Horas Chile
-https://www.youtube.com/watch?v=-dha9EjsMyI
-#EXTINF:-1, Mega Noticias
-https://www.youtube.com/watch?v=Et4i_BymLGQ
 #EXTINF:-1, C9N
 http://181.15.110.6/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4.m3u8
 #EXTINF:-1, Noticias Paraguay
@@ -315,6 +309,8 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR
 https://video-auth7.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8?
 #EXTINF:-1, CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png", CNN Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=15e245b2-6641-11eb-ba7b-198429cca5be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6e42e2a-3a62-4489-95f6-c64384123e4b&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png", Reuters Now
 https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/e4ac1198-a0dc-4d0b-a1bd-1cc26638d42c/7.m3u8
 #EXTINF:-1, Estrella News
@@ -684,7 +680,7 @@ http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1, TV Diário
 https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x7txn7q&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
-https://akamai2-br.cdn.booyah.live/hls/1000029/34850987_1080.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000029/master_34850987.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ytaP7P.png", RBA - Band
