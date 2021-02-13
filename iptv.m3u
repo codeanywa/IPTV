@@ -673,6 +673,8 @@ http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
 https://hls.brasilstream.com.br/live/tvsucesso/tvsucesso/mono.m3u8
 #EXTINF:-1, TV Cultura
 https://evpp.mm.uol.com.br/cultura1/cultura_720.sdp/playlist.m3u8
+#EXTINF:-1, UPF TV - TV Cultura
+https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FmNb_zE9kZs)r(fVR9ug)a(uxqALQ)p(d(2xc)k(q8U)m(d1KEYKFjt2nwEJ6fY5pTog)n(a(_jsc1Q)s(21I)'a(kmTiWQ)s(yAQ)))s(s(n7Q)b(9yyZrWYfDUcrcOoRd0kF9cPx6o5gsww6t35NuAun8ju4gzTkU3VGzcqDuKhdRpgUvDEKCb2cxZoxLIX3JA)'s(_HQ)b(ekN74TC2NQqsJWB4Vp1NtqWkdpB2brH5UVXQVSltCdhGvNhrq_6pGyk0fBuTeKb6sNWN5L7lHgRZSBdDA5mxPPfHF1NsZSg2e4bbr1E6)'s(KOA)b(QLg-X20X))m(0))/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YBuHNaj.png", TVE Cultura MS
 https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBuIEyp.jpg", TV Paraná Turismo
