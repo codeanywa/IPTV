@@ -748,7 +748,7 @@ http://pge0907stz35.nethorizontes.tv:1935/pge0907stz35/stzwebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w0KEsce.png", TV Bom - TV Brasil
 http://srvstreaming.wctecnologia.com.br/LiveApp/streams/400290085166414614175500.m3u8?token=null
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7MEjvg.png", TV Thathi
-https://thathi.akamaized.net/edge/live_d4f1bcf0e51f11e984d8672fa9a5f10a/index.m3u8
+https://thathi.akamaized.net/edge-en/ngrp:live_d4f1bcf0e51f11e984d8672fa9a5f10a_all/playlist.m3u8
 #EXTINF:-1, TV RP
 https://5b7f3c45ab7c2.streamlock.net/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1a84cc19a0726828478ab6bfd33ea08c.png", TV Altiora
