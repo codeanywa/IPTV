@@ -2,8 +2,8 @@
 #EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 12.02.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
-https://booyah.live/standalone/liveplayer/34850987?room_id=34659740
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
+rtp://@239.192.251.53:2000?payload=mp2t/rtp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste 3
