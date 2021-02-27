@@ -684,7 +684,7 @@ http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1, TV Diário
 https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x7txn7q&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
-https://akamai2-br.cdn.booyah.live/hls/1000006/master_34850987.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000006/master_34850987_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ytaP7P.png", RBA - Band
