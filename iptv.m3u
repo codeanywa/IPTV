@@ -88,6 +88,8 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NAFhzA.png", Love Nature
 http://177.20.208.58:8000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NAFhzA.png", Love Nature
+https://origin-02.nxplay.com.br/LOVENATURE_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Saber Más
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
  
@@ -638,7 +640,7 @@ https://www.youtube.com/embed/ABVQXgr2LW4?controls=1&enablejsapi=1&rel=0&showinf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLSEJFp.png", SBT Interior
 https://5a1c76baf08c0.streamlock.net/sbtinterior/1mav5vdk7hchgyjpwulrjtxf7lywjz24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oJsGK5r.png", Rede Massa - SBT
-https://cdn-radio-8465-1.ciclano.io:1443/radio-8465-1/radio-8465-1/playlist.m3u8
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLSEJFp.png", Bem TV - SBT
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WX07l7V.png", TV Cidade Verde - SBT
@@ -684,13 +686,17 @@ http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1, TV Diário
 https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x7txn7q&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
+https://origin-02.nxplay.com.br/IDEAL_TV_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
 https://akamai2-br.cdn.booyah.live/hls/1000006/master_34850987_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ytaP7P.png", RBA - Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1, RBI
-https://www.youtube.com/embed/HRSh1q0657c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qhdEHgA.png", Rede 21
+https://origin-02.nxplay.com.br/CANAL_21/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXZAwK6.png", TV WA
+https://origin-02.nxplay.com.br/PLAY_TV_NXPLAY/video.m3u8
 #EXTINF:-1, Rede TVT
 https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x6ph7x7&f=.m3u8
 #EXTINF:-1, Rede TV!
@@ -822,7 +828,7 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede Brasil Amazonas - Rede Brasil
 https://5eaa6849d0971.streamlock.net/8098/8098/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3x76zeE.png", TV Marajoara - Rede Brasil
-http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YMrxHCv.png", TV Brasil Oeste - Rede Brasil
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist-480p.m3u8
 #EXTINF:-1, TV Brusque - Rede Brasil
@@ -836,9 +842,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvc21/_definst_/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://portal.tvdopovo.com/wp-content/uploads/2019/02/tv1.png", TV do Povo - Meio Norte
 https://5cf4a2c2512a2.streamlock.net/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1XB60i.png", Rede Metrópole - Meio Norte
-http://177.130.81.30/hls/metropole.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d1XB60i.png", Rede Metrópole - Meio Norte
-https://h3buijf2fd.singularcdn.net.br/hls/metropole.m3u8
+http://187.33.200.235:9000/hls/redemetropole.m3u8
 #EXTINF:-1 tvg-logo="http://tvcapital.com.br/home/wp-content/themes/canal54/images/logo-tvcapital.png", TV Capital Fortaleza
 https://stmv1.srvif.com/rbc/rbc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcwKKcy.png", TV União
@@ -862,7 +866,7 @@ https://video.unesp.br/live/indoor.m3u8
 #EXTINF:-1, Futura
 https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vVAwXjv.png", TV O Povo - Futura
-http://srv3.zoeweb.tv:1935/z01-live/stream/master.m3u8
+https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCowLHD.png", TV UFOP - Futura
 https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(FgeHKD_gR9w)r(TOqkzw)a(utDKDQ)p(d(lCo)k(oxA)m(3XDTlSIJkk76oCj617uq9A)n(a(XwnF_A)s(iGM)'a(tts-fQ)s(dVs)))s(s(lYU)b(DPPZlNE-GrCiYsebiVYepkhsAQWHl6BAIvAhNWgdW77TPDrSPCYfU8RJlztuy2NVo1LAZo1BosSIzpCQ4g)'s(jYw)b(mUn7wAXIHR5zKuFDbA2nxA5DWu0lT8FmmO-pGaOeH0yfasNlMy66JtgWU4Ue9XPD5hSbqCGW7dfF8F-fjhJp1sXxxUvd-6e1ALz5P1-1)'s(fx8)b(xi86yMu3))m(0))/q8ev-scy8-9cfa-b8jh_index.m3u8
 #EXTINF:-1, Novo Tempo
@@ -910,15 +914,13 @@ https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pa.srvsite.com/arquivos/4381/cabecalho-4381-20190829131710.jpg", Canal da Pecuária
 https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.luciafaria.com.br/wp-content/uploads/2016/10/canalruralb.png", Canal Rural
-https://5f1838950758d.streamlock.net/live/aovivo.smil/playlist.m3u8
+https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png", Canal do Criador
-https://5f1838950758d.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
+https://5fa18afd2e74c.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/SescTV_%282013%29.png", SescTV
-https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8?sts
-#EXTINF:-1, Ideal TV
-http://189.91.128.150:5555/udp/227.10.20.143:1234
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/f39450b4-2e14-4454-b052-71971d56897f_index1080p.m3u8
 #EXTINF:-1 tvg-logo="http://tvmar.tv.br/img/logo.png", TV Mar
-https://v7.ciclano.io:1443/tvmar/tvmar/playlist.m3u8
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
 #EXTINF:-1, TV Mar Rio Grande
 https://59f2354c05961.streamlock.net:1443/tvmarrg/_definst_/tvmarrg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBpPAT1.png", TV Jornal de Limeira
@@ -974,7 +976,9 @@ https://emdhn5hr4n.singularcdn.net.br/Content/HLS_HLS_Clear/Live/channel(Telenov
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
 #EXTINF:-1, Multishow
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
- 
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY", Urban Doc
+https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDYwNDc0NzIsIm5iZiI6MTYwNjA0NzQ3MiwiZXhwIjoxNjA2MDQ3NzcyLCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTAyNzA0MDUzMDVmYmE1NmYwYzg5NWYwLjEyNTc5MDM4IiwiY2xpZW50ZSI6IjE3Mi4zMS40Ny41MSJ9.3hi2AFdknbtCRXhjWRpMjkfHPbSKGpKpqCyMdqsOtVI 
+
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Portugal-Flag-icon.png", Portugal
 https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
 #EXTINF: -1 tvg-logo="https://imgur.com/95K3Pqq.png", Assim é Portugal
@@ -3665,9 +3669,11 @@ http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1, MTV Live HD
 https://origin-02.nxplay.com.br/MTVNI_HD_NX/index.m3u8
 #EXTINF:-1, VH1
-http://193.126.18.184:4022/udp/239.100.25.15:1234
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32302
 #EXTINF:-1, VH1
-http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/3226
+https://d3pu3hnym3eusd.cloudfront.net/VH1.m3u8
+#EXTINF:-1, VH1 Teste
+https://edge1-ccast-sl.cvattv.com.ar/live/live/VH1/verimatrix_rotating_FTA/VH1-video=508000.m3u8 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1203580988699414529/X-BrNawy_200x200.jpg", Radio Monte Carlo TV
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1214687460011192321/2S4PFFlr_200x200.jpg", Radio 105 TV
