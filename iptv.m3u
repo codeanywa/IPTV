@@ -93,7 +93,7 @@ https://origin-02.nxplay.com.br/LOVENATURE_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Saber Más
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aw0sPst.png", 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aw0sPst.png", News
 #EXTINF:-1, Hechos Ecuador
 http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1, Aljazeera
@@ -323,32 +323,18 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1, Band News
 https://nxplay-srv1.nxplay.com.br/BAND_NEWS/index.m3u8
-#EXTINF:-1, Band News
-http://201.159.95.118:8000/play/a08g/index.m3u8 
 #EXTINF:-1, Agro+ Band
 https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w722149607.m3u8
-#EXTINF:-1, Globo News
-http://201.159.95.118:8000/play/a064/index.m3u8
-#EXTINF:-1, Globo News
-http://187.120.222.12:8000/play/GloboNews/index.m3u8 
 #EXTINF:-1, CNN en Español
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/300/12?f=.m3u8
-#EXTINF:-1, CNN Prima News
-http://213.81.133.130:8000/play/CNNPrimaNews 
 #EXTINF:-1, Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?sd=10&rebase=on
 #EXTINF:-1, Record News
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
 #EXTINF:-1, Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XoNEBGq.png", Pura Noticia TV
-https://mediaserver5.janus.cl/puranoticia/en-vivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CaracolTV2019.png", Caracol Ahora
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1, NTN 24
-https://miniproxy-php.appspot.com/index.php/https://rcnhd.cdn.net.co/live04/ntn24.m3u8
-#EXTINF:-1, NTN 24
-https://emdhn5hr4n.singularcdn.net.br/Content/HLS_HLS_Clear/Live/channel(NTN24_Internacional)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XUDLm7Q.jpg", RNN
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 #EXTINF:-1, Hispan TV
@@ -359,30 +345,12 @@ https://live.presstv.com/liveprs/smil:liveprs/playlist.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fk4TREX.png", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fk4TREX.png", Channel News Asia
-https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master01.m3u8
 #EXTINF:-1, RTU
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BFM-TV_225x225.png?raw=true", BFM TV
 https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BFM-Business_325x325.png?raw=true", BFM Business
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NmnXn2z.jpg", Channel 2 News
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-p.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9tXsTxp.png", Canais Internacionais
-#EXTINF:-1, Sun Channel
-http://170.247.204.9:8000/play/a0aj
-#EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png", TV GE - Guiné Equatorial
-http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
-#EXTINF:-1, VE Plus
-http://190.122.96.187:8888/http/006
-#EXTINF:-1, Duna World
-http://78.109.108.62:1002/dunaworld
-#EXTINF:-1, NHK World
-https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg", NHK 华语视界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/CNews.fr.png", CNews
 https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x3b68jn&f=.m3u8
 #EXTINF:-1, France 24
@@ -393,40 +361,20 @@ http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1, TV5 Info
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/master.m3u8
-#EXTINF:-1 tvg-logo="http://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png", TV5 Monde Asie
-https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
-#EXTINF:-1 tvg-logo="http://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png",TV5 Monde Asie (English)
-https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-#EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png", TV5 Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png",TV5 Monde Pacifique (Korea)
-https://tv5pacifiqueko-i.akamaihd.net/hls/live/630177/tv5pacifiqueko/index.m3u8
-#EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png",TV5 Monde Pacifique 
-https://tv5pacifiquehls-i.akamaihd.net/hls/live/630173/tv5pacifiquehls/index.m3u8
-#EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png",TV5 Monde Pacifique (Japan)
-https://tv5pacifiquejp-i.akamaihd.net/hls/live/630199/tv5pacifiquejp/index.m3u8
-#EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png",TV5 Monde Pacifique 
-https://tv5pacifiquefr-i.akamaihd.net/hls/live/630174/tv5pacifiquefr/index.m3u8
-#EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png",TV5 Monde Pacifique 
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/index.m3u8
-#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png", TV5 Monde Info
-https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8
-#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png", TV5 Monde Info (English)
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
-#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png", TV5 Monde Info (Chinese)
-https://tv5stylechi-i.akamaihd.net/hls/live/631673/tv5stylechi/index.m3u8
-#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png", TV5 Monde Info (Taiwan)
-https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
-#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg", TV5 Monde Style
-https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8
-#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg", TV5 Monde Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
-#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg", TV5 Monde Style Taiwan
-https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
-#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg", TV5 Monde Style Chinese
-https://tv5stylechi-i.akamaihd.net/hls/live/631673/tv5stylechi/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9tXsTxp.png", Canais Internacionais
+#EXTINF:-1, Sun Channel
+http://170.247.204.9:8000/play/a0aj
+#EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png", TV GE - Guiné Equatorial
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
+#EXTINF:-1, VE Plus
+http://190.122.96.187:8888/http/006
+#EXTINF:-1, NHK World
+https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg", NHK 华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1, Cubavision Internacional
-https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lR58xod.png", CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plUEa8O.png", Chosŏn Chungang T'ellebijyon
@@ -438,8 +386,6 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icDGduB.png", DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5F7aCj0.png", RTP Internacional
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5F7aCj0.png", RTP Internacional
 http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5F7aCj0.png", RTP Internacional
 http://45.126.83.51/qwr9ew/s/s38/index.m3u8
@@ -447,12 +393,6 @@ http://45.126.83.51/qwr9ew/s/s38/index.m3u8
 http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1, TV Chile
 https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CubaPlay_Logo.png", Cubaplay
-http://d31c1svk0i6vkc.cloudfront.net/cubaplay/index.m3u8
-#EXTINF:-1, Zee Café
-http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
-#EXTINF:-1, Zee Smile
-http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1, Zee Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
  
@@ -462,87 +402,35 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5205c7b916108f
 #EXTINF:-1, Sport TV 2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b34a752e6302c4b.m3u8
 #EXTINF:-1, Sport TV 4
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6565668c520548c.m3u8
-#EXTINF:-1, Sport TV 5
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d73a83c60dd69f3.m3u8
+#EXTINF:-1, Sport TV 5
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6565668c520548c.m3u8
 #EXTINF:-1, Eurosport 1
 http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
 #EXTINF:-1, Eurosport 2
 http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
 #EXTINF:-1, Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-https://ott-dai.olympicchannel.com/linear/hls/pa/event/E0MqwlqrRF-JYuFX1F-6qw/stream/a9275400-e2be-4312-87cd-0f46bb4ee9fc:BRU/variant/c11e1858039bc58d60141782622627e3/bandwidth/hdntl=exp=1607281322~acl=%2f*~id=36879ff2-2008-4415-9898-d7af74b3e22d~data=hdntl~hmac=0217cf4db4ed5399218719e033a41cf2640f423eb289fdcf380f759c65c804bd/000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC6_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC7_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC8_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC9_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC10_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC11_1.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
-#EXTINF:-1 tvg-logo="http://www.alkass.net/alkass/images/foot-logo2.png", Al Kass One
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 tvg-logo="http://www.alkass.net/alkass/images/foot-logo2.png", Al Kass Two
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 tvg-logo="http://www.alkass.net/alkass/images/foot-logo2.png", Al Kass Three
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 tvg-logo="http://www.alkass.net/alkass/images/foot-logo2.png", Al Kass Four
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 tvg-logo="http://www.alkass.net/alkass/images/foot-logo2.png", Al Kass Five
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1, Bahrain Sports
 http://185.105.4.106:1935/live/Bahrain%20Sports/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CzsBnvf.png", Horizon Sports
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 #EXTINF:-1, Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1, Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1, Band Sports
 https://nxplay-srv1.nxplay.com.br/BAND_SPORTS/index.m3u8
 #EXTINF:-1, ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8?sd=10&rebase=on
-#EXTINF:-1, ESPN Brasil
-https://emdhn5hr4n.singularcdn.net.br/Content/HLS_HLS_Clear/Live/channel(ESPN_BR)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ck1qmrN.png", ESPN
-https://emdhn5hr4n.singularcdn.net.br/Content/HLS_HLS_Clear/Live/channel(ESPN)/index.m3u8
 #EXTINF:-1, ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8?sd=10&rebase=on
 #EXTINF:-1, ESPN 2
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8?sd=10&rebase=on
-#EXTINF:-1, ESPN 2
-https://emdhn5hr4n.singularcdn.net.br/Content/HLS_HLS_Clear/Live/channel(ESPN_2)/index.m3u8
 #EXTINF:-1, ESPN Extra
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8?sd=10&rebase=on
-#EXTINF:-1, ESPN Extra
-https://emdhn5hr4n.singularcdn.net.br/Content/HLS_HLS_Clear/Live/channel(ESPN_Extra)/index.m3u8
 #EXTINF:-1, Claro Sports
 http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
 #EXTINF:-1, FS 2
 https://gma2.blab.email/fs2.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066077184048152576/jemQ8FEk_200x200.jpg", DeporTV
-https://www.youtube.com/embed/q4CTql4ZWOc
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066077184048152576/jemQ8FEk_200x200.jpg", DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLKKNQf.png", ESPNEWS
@@ -555,10 +443,6 @@ https://gma2.blab.email/espnu.m3u8
 https://www.youtube.com/embed/1SmKEIpmcLU
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mZKxIBA.jpg", ERT Sports HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mZKxIBA.jpg", ERT Sports 1
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mZKxIBA.jpg", ERT Sports 2
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ytmwqy2.png", YAS TV
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnJCCYn.png", AD Sports 1
@@ -569,34 +453,19 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ubFT00C.png", AD Sports 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1, CBS Sports HQ
-https://dai.google.com/linear/hls/event/lKh5_XooSbam79G4T7KvYQ/master.m3u8?iu=/8264/vaw-can/desktop/cbssportshq
 #EXTINF:-1, TUDN
 https://dai.google.com/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
 #EXTINF:-1, TUDN
 https://pubads.g.doubleclick.net/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
-#EXTINF:-1, TUDN 2
-https://dai.google.com/ssai/event/3WfvFwf9RWKeJ4pRTQa5Vw/master.m3u8
-#EXTINF:-1, TUDN 2
-https://pubads.g.doubleclick.net/ssai/event/3WfvFwf9RWKeJ4pRTQa5Vw/master.m3u8
-#EXTINF:-1, CBC Sports
-http://streams2.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710547_ico.png?v=1", Setanta Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0.12; SM-G550T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.912 Mobile Safari/537.36 Vinebre Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
-http://ott-cdn.ucom.am/s81/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710549_ico.png?v=1", Setanta Sports +
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710549_ico.png?v=1", Setanta Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0.12; SM-G550T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.912 Mobile Safari/537.36 Vinebre Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
 http://ott-cdn.ucom.am/s82/index.m3u8
-#EXTINF:-1, Movistar Liga de Campeones
-http://root:jonathan11@jonatejero.ddns.net:5001/1:0:19:74D5:3F8:1:C00000:0:0:0:
 #EXTINF:-1, Gol TV
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
-#EXTINF:-1, Looksport
-https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEVfAjy.jpg", Shopping
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC 1 EUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC
 https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/index_2500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9ddiIy.jpg", QVC 2 EUA
 https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/index_2500_av-p.m3u8?sd=10&rebase=on
