@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 26.02.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 06.03.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
@@ -190,8 +190,8 @@ http://95.170.215.107/hls/m3u8/BBCArabic-Backup.m3u8
 https://vs-dash-ww-live.bbcfmt.hs.llnwd.net/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/pc_hd_abr_v2_dash.mpd
 #EXTINF:-1, ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1, Fox News
-https://cdn008.teleuptv.net/AsEAeOtIxz/playlist.m3u8
+#EXTINF:-1, MSNBC
+http://c2.gunsnrose.club:8880/ice12m0702/20720860/3111
 #EXTINF:-1, CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1q3qEqF.png", CBSN Los Angeles
@@ -457,6 +457,14 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XXxJf8.png", Sports
+#EXTINF:-1, Sport TV 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5205c7b916108f9.m3u8
+#EXTINF:-1, Sport TV 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b34a752e6302c4b.m3u8
+#EXTINF:-1, Sport TV 4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6565668c520548c.m3u8
+#EXTINF:-1, Sport TV 5
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d73a83c60dd69f3.m3u8
 #EXTINF:-1, Eurosport 1
 http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
 #EXTINF:-1, Eurosport 2
@@ -1224,6 +1232,8 @@ http://194.158.80.31:1935/live/rtva/playlist.m3u8
 https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Spangled_Banner_instrumental.ogg
 #EXTINF:-1, ABC
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
+#EXTINF:-1, ABC
+http://c2.gunsnrose.club:8880/ice12m0702/20720860/3166 
 #EXTINF:-1, CBS
 http://190.122.96.187:8888/http/007
 #EXTINF:-1, CBS 57 Kentucky (WYMT)
@@ -1236,22 +1246,24 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
 #EXTINF:-1, FOX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533
-#EXTINF:-1, KTLA 5
-https://cdn006.teleuptv.net/N8qwnqgUq2/playlist.m3u8
+#EXTINF:-1, FOX
+http://c2.gunsnrose.club:8880/ice12m0702/20720860/3166 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b67Gft0.png", WTGS FOX 28
 https://dai2-playlistserver.aws.syncbak.com/playlist/893553/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjcyMzUsImlzcyI6IldMUyIsIm1kNSI6IjM5YWE1ZjczMTgyYTg0NThiY2QzOTcxMjQzYzVhZDc1IiwibWlkIjoiODkzNTUzIn0.v4oZTq8PnYSg_UAfc_nt9tO2ThQy44A-F8-colQ2Ijg
 #EXTINF:-1, The CW
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
 #EXTINF:-1, The CW
-https://cdn006.teleuptv.net/rTK2EQCVCX/playlist.m3u8
+http://c2.gunsnrose.club:8880/ice12m0702/20720860/3145
 #EXTINF:-1 tvg-logo="https://i.imgur.com/caaZ2Aq.png", The CW Seed
 http://status.tehw00t.net/miniProxy.php/https://cwseedlive.cwtv.com/ingest/playlist.m3u8
-#EXTINF:-1, PIX 11 - The CW
-https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8 
 #EXTINF:-1, My 9
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
+#EXTINF:-1, Cozi TV
+http://c2.gunsnrose.club:8880/ice12m0702/20720860/64360
 #EXTINF:1, MyNetwork Texas (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:1, iON
+http://c2.gunsnrose.club:8880/ice12m0702/20720860/59215
 #EXTINF:1, iON Plus
 http://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1, Get TV
@@ -3826,3 +3838,5 @@ https://18a6ff4fa5424e6797030b139ca98e6c.mediatailor.us-west-2.amazonaws.com/v1/
 https://v2.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU", CM
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/axXipp8.png", Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
