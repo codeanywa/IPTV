@@ -506,8 +506,6 @@ https://www.youtube.com/embed/3Z-K958GtSY?controls=1&enablejsapi=1&rel=0&showinf
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Brazil-Flag-icon.png", Brasil
 https://upload.wikimedia.org/wikipedia/commons/0/0d/Hino-Nacional-Brasil-instrumental-mec.ogg
-#EXTINF:-1, Tastemade Brasil
-https://tastemadeb-latam-plutolive-vo.akamaized.net/l/hlslive/tastemadeb.m3u8?chname=tastemadeb&pub=4233f0e7-76be-4539-b82b-762305c6f34d&ctype=0&acsurl=pluto-latam-tass-elb.adsparx.net&mcdn=tastemadeb-latam-plutolive-vo.akamaized.net%2Fl&userParams=ccp%3DeyJkZXZpY2VJZCI6IjNlYjIwZDMzLWM4OGYtNDM4NC1hZDg1LWIyZWUyYTM1NTc1YyIsImRldmljZVZlcnNpb24iOiI4NC4wIiwiYXBwVmVyc2lvbiI6IjUuMTMuMC1iNWE5ZDIzYjA5OTczNDhmODM2ZjAwYzNmYWU3YTc4NTk4ZjgwMDA3IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZU1ha2UiOiJGaXJlZm94IiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6Ii0yMC45NDU1IiwiZGV2aWNlTG9uIjoiLTQ4LjUzODAiLCJkZXZpY2VNb2RlbCI6IndlYiIsInVzZXJJZCI6IiIsImFwcE5hbWUiOiJ3ZWIiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi41MC4xIiwic3RpdGNoZXJSZXFJZCI6IjQzY2VhZjhjLWVmZTktNGE0YS05ZGVkLWQzMDc2ZDI2NmQwZSIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMjgwNDo0MDphMDJiOjA6NzE1YjozMDY4OmU3ODE6YzJlYyIsImRldmljZUROVCI6MCwiZGV2aWNlX3VhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84NC4wIiwidHJhbnNhY3Rpb25faWQiOiI0NDY1NDBkNS0xYjkzLTQwNzUtYmQ1MC1iNWU2MmZjZTFiOWYiLCJkZXZpY2VVc2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiLCJpcEFkZHJlc3MiOiIyODA0OjQwOmEwMmI6MDo3MTViOjMwNjg6ZTc4MTpjMmVjIiwiY2hJZCI6IjVmZDE0MTlhM2I0ZjRiMDAwNzczYmE4NSIsInRpbWVsaW5lSWQiOiI2MDEyYzExNTZlYmUxMjAwMDdlZWE4NmIiLCJjbGlwSWQiOiI1ZmRkM2MwZGI2MWYxMjAwMDcyYzFmNzciLCJzZXNzaW9uSWQiOiI1YjNmMzJkMi02MjQxLTExZWItOWUwZi0wMjQyYWMxMTAwMDIiLCJlcGlzb2RlSWQiOiI2MDEwNDc0ZDE0ZTE2MTAwMDcxYmJhZmMiLCJwYXJ0bmVyQ29kZSI6IlRhc3RlbWFkZSIsInBhcnRuZXJfaWQiOiI1ODg2NGY5NWRkYzcwNzBjMzgzOGE0YjgiLCJvcmlnaW4iOiJhZFNwYXJ4IiwiZnJvbV9zdGl0Y2hlciI6dHJ1ZX0%3D
 #EXTINF:-1, Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1, Globo
@@ -515,7 +513,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLSEJFp.png", SBT
 https://www.youtube.com/embed/ABVQXgr2LW4?controls=1&enablejsapi=1&rel=0&showinfo=0&autoplay=0&mute=0&modestbranding=1&embed_config=%7B%22autonavRelatedVideos%22%3Afalse%2C%22disableRelatedVideos%22%3Atrue%2C%22hideInfoBar%22%3Atrue%2C%22primaryThemeColor%22%3A%22%22%2C%22relatedChannels%22%3A%5B%5D%2C%22relatedVideos%22%3A%5B%5D%2C%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F1011235%2FSBT_Videos%2FEspeciais%2FSBT_Live%2Fvideo%22%2C%22cust_params%22%3A%22%22%2C%22ppid%22%3A%22%22%2C%22pp%22%3A%22%22%7D%2C%22disableAds%22%3Afalse%2C%22nonPersonalizedAd%22%3Afalse%7D%7D&origin=https%3A%2F%2Fwww.sbt.com.br&widgetid=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLSEJFp.png", SBT Interior
-https://5a1c76baf08c0.streamlock.net/sbtinterior/1mav5vdk7hchgyjpwulrjtxf7lywjz24/playlist.m3u8
+https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oJsGK5r.png", Rede Massa - SBT
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLSEJFp.png", Bem TV - SBT
