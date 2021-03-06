@@ -620,16 +620,12 @@ https://5829cb6b64c3c.streamlock.net/2063/2063/playlist.m3u8
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ootzXUB.png", STZ TV - TV Brasil
 https://video01.kshost.com.br/fundacao6272/fundacao6272/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w0KEsce.png", TV Bom - TV Brasil
-http://srvstreaming.wctecnologia.com.br/LiveApp/streams/400290085166414614175500.m3u8?token=null
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7MEjvg.png", TV Thathi
 https://thathi.akamaized.net/edge-en/ngrp:live_d4f1bcf0e51f11e984d8672fa9a5f10a_all/playlist.m3u8
 #EXTINF:-1, TV RP
 https://5b7f3c45ab7c2.streamlock.net/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1a84cc19a0726828478ab6bfd33ea08c.png", TV Altiora
 https://live.desdobrar.com/hls/altiora.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U5GKOZQ.jpg", TVU Recife
-http://150.161.93.220/hls/720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9AMG9v.png", ISTV
 https://stmv1.voxtvhd.com.br/istv/istv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvonix.com.br/wp-content/uploads/2018/07/LGFooter.png", TV Onix
@@ -639,7 +635,7 @@ https://srv3.zcast.com.br/tvmaceio/tvmaceio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C6pRTQk.jpg", RDC TV
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vxJXI30.png", TV Nova Nordeste - Cultura
-https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+https://live.comets.com.br/LiveApp/streams/689608265797795173392570.m3u8
 #EXTINF:-1 tvg-logo="http://www.panorama.tv.br/images/Foto-Globo-Logo.png", TV Litoral Panorama - Cultura
 http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1f0mAFz.png", Rede Atividade - TV Brasil
