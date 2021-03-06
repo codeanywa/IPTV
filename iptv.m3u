@@ -1062,8 +1062,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://c2.gunsnrose.club:8880/ice12m0702/20720860/3145
 #EXTINF:-1 tvg-logo="https://i.imgur.com/caaZ2Aq.png", The CW Seed
 http://status.tehw00t.net/miniProxy.php/https://cwseedlive.cwtv.com/ingest/playlist.m3u8
-#EXTINF:-1, Bounce
-http://status.tehw00t.net/miniProxy.php?https://atl.locastnet.org/proxy/atl/variant/1XVGm4YSY4NyuTIaK2Jovlt9fT9gZg5OhSZRAS4D57Ab8lUvqKtNzZFWHxX8psCgPR1kGy7FnP6fYrGCAkzVAOhUu7Fqnot0tHnLzXafDtSW.m3u8
+#EXTINF:-1, Ion test
+http://status.tehw00t.net/miniProxy.php?https://atl.locastnet.org/proxy/atl/wpxa_high269189004.ts
 #EXTINF:-1, My 9
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 #EXTINF:-1, Cozi TV
