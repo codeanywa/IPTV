@@ -1532,11 +1532,11 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmvS5vF.png", Sipse TV Mérida
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzJu6QT.png", RCG 1
-https://miniproxy-php.appspot.com/index.php/https://5caf24a595d94.streamlock.net:1937/stream34/stream34/playlist.m3u8
+http://status.tehw00t.net/miniProxy.php/https://5caf24a595d94.streamlock.net:1937/stream34/stream34/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzJu6QT.png", RCG 2
-https://miniproxy-php.appspot.com/index.php/https://5caf24a595d94.streamlock.net:1937/stream23/stream23/playlist.m3u8
+http://status.tehw00t.net/miniProxy.php/https://5caf24a595d94.streamlock.net:1937/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzJu6QT.png", RCG 3
-https://miniproxy-php.appspot.com/index.php/https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
+http://status.tehw00t.net/miniProxy.php/https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dcMr7ZG.png", Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bbSlAkM.png", AMX Noticias
@@ -1566,7 +1566,7 @@ https://5e7aa30977cb7.streamlock.net/telesec/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cbF92y.png", Telesecundaria+
 https://5e7aa30977cb7.streamlock.net/telesecmas/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YayUMeY.png", Aprende TV
-https://miniproxy-php.appspot.com/index.php/https://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8
+http://status.tehw00t.net/miniProxy.php/https://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8m9ZoOJ.png", Capacita TV
 https://5e7aa30977cb7.streamlock.net/capacitatv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c4kWST5.jpg", Canal 7 SLP
@@ -2161,7 +2161,7 @@ http://190.122.96.187:8888/http/004
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C8xGQ7FXcAA3qcV.png", Caracol
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="http://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/Canal_RCN_logo-1.jpg", RCN 
-https://miniproxy-php.appspot.com/index.php/https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
+http://status.tehw00t.net/miniProxy.php/https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 #EXTINF:-1 tvg-logo="", Canal Uno
 http://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-logo="http://www.redmas.com.co/wp-content/themes/RedMas/img/logoredmas.jpg", Red Mas
@@ -2328,7 +2328,7 @@ https://unlimited2-cl.dps.live/tctc/tctc.smil/tctc/livestream1/chunks.m3u8
 #EXTINF:-1, Telecanal Santa Cruz
 https://unlimited2-cl.dps.live/tcsc/tcsc.smil/tcsc/livestream1/chunks.m3u8
 #EXTINF:-1, T13
-https://miniproxy-php.appspot.com/index.php/http://t13-movil-live.cdn.nedmedia.io/index.m3u8
+http://status.tehw00t.net/miniProxy.php/http://t13-movil-live.cdn.nedmedia.io/index.m3u8
 #EXTINF:-1, TVN
 https://miniproxy-php.appspot.com/index.php/http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
 #EXTINF:-1, TVN de Culto
@@ -3547,7 +3547,7 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CXoannD.jpg", Retro
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w822962013.m3u8
 #EXTINF:-1, Deluxe Music
-https://www.fishbeam.com/mediaComponents/showcase/proxy.php/https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/chunklist_b1000000_slde.m3u8
+http://status.tehw00t.net/miniProxy.php/https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/chunklist_b1000000_slde.m3u8
 #EXTINF:-1, Deluxe Music
 https://www.fishbeam.com/mediaComponents/showcase/proxy.php/https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
 #EXTINF:-1, Otto FM TV
