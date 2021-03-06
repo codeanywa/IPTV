@@ -1068,9 +1068,9 @@ https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:1, iON
 http://c2.gunsnrose.club:8880/ice12m0702/20720860/59215
-#EXTINF:1, iON Plus
+#EXTINF:-1 subtitles="eng" ,iON Plus
 http://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 subtitles="000" ,Get TV1
+#EXTINF:-1 subtitles="eng" ,Get TV2
 https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
 #EXTINF:-1, Mhz
 http://mhz-samsung-linear.samsung.wurl.com/manifest/playlist.m3u8
