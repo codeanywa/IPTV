@@ -642,8 +642,6 @@ http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MFqouZD.png", TV Cultura do Pará - TV Cultura
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7vFUvg.png", TV Baiana - Cultura
-http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 #EXTINF:-1 tvg-logo="https://catve.com/portal/img/catve_hd_branca2.png", CATVE
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:-1, Master TV
@@ -686,8 +684,6 @@ https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede UTV Brasil
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede Brasil Amazonas - Rede Brasil
 https://5eaa6849d0971.streamlock.net/8098/8098/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3x76zeE.png", TV Marajoara - Rede Brasil
@@ -698,10 +694,10 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/p
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1, TV Brusque - Rede Brasil
 https://59f1cbe63db89.streamlock.net:1443/tvbrusque/_definst_/tvbrusque/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1KDq7TC.png", TV Vitória PE - Rede Brasil
-https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
 #EXTINF:-1, TVC - Rede Brasil
 https://59f1cbe63db89.streamlock.net:1443/tvc21/_definst_/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1KDq7TC.png", TV Vitória PE - TV Evangelizar
+https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://portal.tvdopovo.com/wp-content/uploads/2019/02/tv1.png", TV do Povo - Meio Norte
 https://5cf4a2c2512a2.streamlock.net/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1XB60i.png", Rede Metrópole - Meio Norte
@@ -716,62 +712,36 @@ https://5ea08e6dcbfc8.streamlock.net/tvuniao/_definst_/tvuniao/playlist.m3u8
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Esl6qqJ.png", Central TV
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kKObGKA.png", TV Transamérica
-http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kKObGKA.png", TV Transamérica
-http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dyc9YTA.png", TV das Artes
-http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s27.postimg.org/707q1016r/tvu.png", TV Urbana
-https://livefocamundo.com:8081/8166/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ekqMXvj.png", TV UNESP
-https://video.unesp.br/live/indoor.m3u8
-#EXTINF:-1, Futura
-https://tv.unisc.br/hls/test.m3u8
+https://5e36c064a2f6a.streamlock.net:1936/8616/8616/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vVAwXjv.png", TV O Povo - Futura
 https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCowLHD.png", TV UFOP - Futura
-https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(FgeHKD_gR9w)r(TOqkzw)a(utDKDQ)p(d(lCo)k(oxA)m(3XDTlSIJkk76oCj617uq9A)n(a(XwnF_A)s(iGM)'a(tts-fQ)s(dVs)))s(s(lYU)b(DPPZlNE-GrCiYsebiVYepkhsAQWHl6BAIvAhNWgdW77TPDrSPCYfU8RJlztuy2NVo1LAZo1BosSIzpCQ4g)'s(jYw)b(mUn7wAXIHR5zKuFDbA2nxA5DWu0lT8FmmO-pGaOeH0yfasNlMy66JtgWU4Ue9XPD5hSbqCGW7dfF8F-fjhJp1sXxxUvd-6e1ALz5P1-1)'s(fx8)b(xi86yMu3))m(0))/q8ev-scy8-9cfa-b8jh_index.m3u8
 #EXTINF:-1, Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tcmhd.com.br/wp-content/uploads/2016/08/143-rede-seculo21.png", Rede Século 21
 https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z9cLnsl.png", TV Claret
-http://rtmp.cdn.upx.net.br/5ec3_2/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0uIilxL.png", TV Evangelizar
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0uIilxL.png", TV Sete Lagoas - TV Evangelizar
-http://wz4.dnip.com.br/tvsetelagoas/tvsetelagoas.sdp/playlist.m3u8
 #EXTINF:-1, Canção Nova
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Logo_rede_aparecida_comunicacao.png", Rede Aparecida
 https://origin-02.nxplay.com.br/TV_APARECIDA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Sn8I7b.png", PUC TV - Rede Aparecida
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kDGSieL.jpg", TV Tubá - Rede Aparecida
-http://caikron.com.br:1935/rcr_tuba/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GYhYaZ2.png", TV UFG - TV Brasil
 http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bOMWG5K.png", TV Educadora Batatais - TV Brasil
 https://5a57bda70564a.streamlock.net/tveducadora/tveducadora.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2qakEGZ.png", Master TV
-http://live.master.tv.br:1935/mastertvsd/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dB21yh9.png", Rede Família
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1097520875497246722/O6lgtqkB_400x400.jpg", Rede América
-http://mdstrm.com/live-stream-playlist/5daf001b15674d3b61e8f1bd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Logotipo_da_Amazon_Sat.png", Amazon Sat
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Tvescolalogo2014.jpg", TV Escola
 https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FlE5tg4OVmY)r(fVR9ug)a(vQYUzQ)p(d(2xc)k(q8M)m(ZzE4hJZn9R-Ay3gWTdDEMA)n(a(KI5nwQ)s(5bI)'a(L7-Juw)s(s9A)))s(s(0S8)b(AXF7LsnWzzCqXL_A59oM603MtBmG8WRSqilYm0wIFl3kdEWMeG_SG97R8thW6q0LS--CT7ciCkUpFhuktQ)'s(LVU)b(JkAGUcvzdhfLEikAgnqNT0UIhHmKeqCAX_8dwCb1qgskWp_ftKkrdTfSdYO1lGBts0shM4LL1O6uGs3RcDkSxT3ZiewD6mhcHoGn9p09)'s(kBY)b(hS0iCvvv))m(0))/tvescola_index.m3u8
 #EXTINF:-1 tvg-logo="https://sba1.com/img/canais/canaldoboi.jpg", Canal do Boi
 https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sba1.com/img/canais/agrocanal.jpg", Agro Canal
-https://5e38d79ac4439.streamlock.net/agrocanal/live/playlist.m3u8?wowzatokenhash=DAuhBUFN79vA6d2_wnRURedYCjUla4R0-cjzXBm4Gzw=
 #EXTINF:-1 tvg-logo="http://www.flixtv.com.br/player/agromixtv/player.jpg", Agro Brasil
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png", Terra Viva
 https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pa.srvsite.com/arquivos/4381/cabecalho-4381-20190829131710.jpg", Canal da Pecuária
@@ -788,12 +758,6 @@ https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/tvmarrg/_definst_/tvmarrg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBpPAT1.png", TV Jornal de Limeira
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvu.com.br/images/logo_tvu.png", TV União São João da Boa Vista
-http://rtmp.cdn.upx.net.br/cf59/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oAgZfRq.png", TV Rio Preto
-http://186.227.165.118:1935/insatv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.guialocalchannel.tv/pt/logo.png", Guia Local Channel
-https://glc.pedromoter.com/f.m3u8
 #EXTINF:-1, MultiRio
 http://187.111.97.45:1935/webtv/webtv/live.m3u8
 #EXTINF:-1, Canal Saúde
@@ -802,23 +766,12 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 http://streaming.tvguarapari.com:1935/tvguarapari/smil:TV_GUARAPARI.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvmetropolecanal16.com.br/images/logo-tv-metropole.png", TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/master.m3u8
-#http://serv1.videovox.pw/eduardo2183/eduardo2183/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UI1vgpZ.png", Bah!
-https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/2/2/4/1/22415682/22415682,192x192,r:2.jpg", TV Vila Velha PR
-https://cdn.jmvstream.com/w/LVW-8497/LVW8497_dapTBZ4cm4/playlist.m3u8
 #EXTINF:-1, TV Aberta SP
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 #EXTINF:-1, TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1, TV Senado
-http://www.tvmpf.mpf.mp.br:1935/event455/event455.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/vY8jL1a.png", TV Justiça
-https://www.youtube.com/embed/nV01TG64COU
 #EXTINF:-1, NTV
 https://hls.brasilstream.com.br/live/ntv/ntv/mono.m3u8?token=9004833049085463000
-#EXTINF:-1, 3TV
-https://59f1cbe63db89.streamlock.net:1443/gabotv3/_definst_/gabotv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png", Pluto TV Retrô
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png", Pluto TV - Os Três Patetas
@@ -844,8 +797,6 @@ https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/p
 
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Portugal-Flag-icon.png", Portugal
 https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
-#EXTINF: -1 tvg-logo="https://imgur.com/95K3Pqq.png", Assim é Portugal
-https://livefocamundo.com:8081/8174/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png", RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?pxt_rtp
 #EXTINF:-1 tvg-logo="https://imgur.com/LzqmBLQ.png", RTP 2
@@ -1111,6 +1062,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://c2.gunsnrose.club:8880/ice12m0702/20720860/3145
 #EXTINF:-1 tvg-logo="https://i.imgur.com/caaZ2Aq.png", The CW Seed
 http://status.tehw00t.net/miniProxy.php/https://cwseedlive.cwtv.com/ingest/playlist.m3u8
+#EXTINF:-1, Bounce
+http://status.tehw00t.net/miniProxy.php?https://atl.locastnet.org/proxy/atl/variant/1XVGm4YSY4NyuTIaK2Jovlt9fT9gZg5OhSZRAS4D57Ab8lUvqKtNzZFWHxX8psCgPR1kGy7FnP6fYrGCAkzVAOhUu7Fqnot0tHnLzXafDtSW.m3u8
 #EXTINF:-1, My 9
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 #EXTINF:-1, Cozi TV
