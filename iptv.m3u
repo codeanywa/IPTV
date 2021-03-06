@@ -548,8 +548,6 @@ http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/seyJFq1.png", TV Conquista - Record
 http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/XG5Sqlk.png", TV Sucesso - Record
-https://hls.brasilstream.com.br/live/tvsucesso/tvsucesso/mono.m3u8
 #EXTINF:-1, TV Cultura
 https://evpp.mm.uol.com.br/cultura1/cultura_720.sdp/playlist.m3u8
 #EXTINF:-1, UPF TV - TV Cultura
@@ -562,8 +560,6 @@ http://200.189.113.201/hls/tve.m3u8
 https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x7txn7q&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
 https://origin-02.nxplay.com.br/IDEAL_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
-https://akamai2-br.cdn.booyah.live/hls/1000006/master_34850987_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ytaP7P.png", RBA - Band
@@ -602,8 +598,6 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador.m3u8
 https://d1s664t39qub1o.cloudfront.net/live/cnt-cuiaba.m3u8
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT Belém
 https://d1s664t39qub1o.cloudfront.net/live/cnt-belem.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pJ3LC7u.png", Canal de São Paulo
-http://srv02.cyberti.com.br:1935/canalsp/canalsp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eeGsuH.png", TV Brasil
 https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FlM1wl5KB-Y)r(fVR9ug)a(qLWpag)p(d(2xc)k(q8M)m(xNer0KtizPDEQRmD_fYWEA)n(a(xQatgg)s(e0c)'a(JrQ5mg)s(eyo)))s(s(-78)b(3XZWwPbOo1QIl0CB4ftHCFJZF_0GU1O5aYWVu0oroCIDkhbJc1iG4bFJderJsOGJCNL7YiitDktHssRosg)'s(WNQ)b(uXPS4-uLuUHopZbGtBMTf5i3P4NpRkzM1j1baUj2AI_3RLqPhgCLnaHHQ5TNOLoc_y9-ac3eEiUUvjOjFY5AjJTabrLiHyFaaOHsZMNs)'s(F8U)b(qX7axyDP))m(0))/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eeGsuH.png", TV Brasil 2
@@ -624,10 +618,8 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 https://5829cb6b64c3c.streamlock.net/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MnBhGlC.jpg", Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmTs2SM.png", TV Rio Preto - Rede Minas
-https://livefocamundo.com:8081/8162/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ootzXUB.png", STZ TV - TV Brasil
-http://pge0907stz35.nethorizontes.tv:1935/pge0907stz35/stzwebtv/playlist.m3u8
+https://video01.kshost.com.br/fundacao6272/fundacao6272/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w0KEsce.png", TV Bom - TV Brasil
 http://srvstreaming.wctecnologia.com.br/LiveApp/streams/400290085166414614175500.m3u8?token=null
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7MEjvg.png", TV Thathi
