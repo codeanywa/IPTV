@@ -473,13 +473,13 @@ https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/index_2500_av-p.m3u8?sd=10
 https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/index_2500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC Now
 https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/index_2500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/ShopHQ_2019_Logo.png/200px-ShopHQ_2019_Logo.png", Shop HQ EUA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/ShopHQ_2019_Logo.png/200px-ShopHQ_2019_Logo.png", Shop HQ
 https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/HSN.png", HSN EUA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/HSN.png", HSN
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/hsn2.png", HSN 2 EUA
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/hsn2.png", HSN 2
 https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ippOk0.png", Shop LC EUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ippOk0.png", Shop LC
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 #EXTINF:-1, QVC UK
 https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
@@ -491,8 +491,8 @@ https://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi7/2/prog_ind
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1, Japanet
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1, QVC Italy
-http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/index_b2592000.m3u8
+#EXTINF:-1, QVC Italia
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.45.png", TVSN - Nova Zelândia
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Snau0u.png", Mediashop TV
