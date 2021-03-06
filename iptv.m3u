@@ -1062,12 +1062,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://c2.gunsnrose.club:8880/ice12m0702/20720860/3145
 #EXTINF:-1 tvg-logo="https://i.imgur.com/caaZ2Aq.png", The CW Seed
 http://status.tehw00t.net/miniProxy.php/https://cwseedlive.cwtv.com/ingest/playlist.m3u8
-#EXTINF:-1, Ion test
-http://status.tehw00t.net/miniProxy.php?https://atl.locastnet.org/proxy/atl/wpxa_high269189004.ts
 #EXTINF:-1, My 9
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
-#EXTINF:-1, Cozi TV
-http://c2.gunsnrose.club:8880/ice12m0702/20720860/64360
 #EXTINF:1, MyNetwork Texas (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:1, iON
@@ -1109,7 +1105,7 @@ https://dai.google.com/ssai/event/SIvlK2VmTsqL_hgyKeFIPg/master.m3u8
 #EXTINF:-1, Galavision
 https://pubads.g.doubleclick.net/ssai/event/SIvlK2VmTsqL_hgyKeFIPg/master.m3u8
 #EXTINF:-1, Telemundo
-https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
+http://status.tehw00t.net/miniProxy.php/https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 #EXTINF:-1, Telemundo New York
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
 #EXTINF:-1 type="closedcaptions", USA Network
@@ -1341,13 +1337,13 @@ https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dB5I4s0.png", Charge
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dB5I4s0.png", Charge
-https://miniproxy-php.appspot.com/index.php/https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+http://status.tehw00t.net/miniProxy.php/https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oVdCpVv.png", Comet
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oVdCpVv.png", Comet
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oVdCpVv.png", Comet
-https://miniproxy-php.appspot.com/index.php/https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+http://status.tehw00t.net/miniProxy.php/https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1, TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1, PBS America
