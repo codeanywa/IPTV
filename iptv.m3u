@@ -467,11 +467,11 @@ http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_slen
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC
 https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/index_2500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9ddiIy.jpg", QVC 2 EUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9ddiIy.jpg", QVC 2
 https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/index_2500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Kl4kif.jpg", QVC 3 EUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Kl4kif.jpg", QVC 3
 https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/index_2500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC 4 EUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC Now
 https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/index_2500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/ShopHQ_2019_Logo.png/200px-ShopHQ_2019_Logo.png", Shop HQ EUA
 https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8
