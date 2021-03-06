@@ -90,6 +90,8 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 http://177.20.208.58:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NAFhzA.png", Love Nature
 https://origin-02.nxplay.com.br/LOVENATURE_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sansung Wild Life
+https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
 #EXTINF:-1, Saber Más
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
  
@@ -1072,6 +1074,12 @@ http://c2.gunsnrose.club:8880/ice12m0702/20720860/59215
 http://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 subtitles="eng", Get TV
 https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
+#EXTINF:-1 subtitles="eng", Grit
+https://bozztv.com/teleyupp/teleup-grit/playlist.m3u8
+#EXTINF:-1 subtitles="eng", Laff
+https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
+#EXTINF:-1 subtitles="eng", Qubo
+http://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Mhz
 http://mhz-samsung-linear.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HWu4ote.png", Estrella TV
