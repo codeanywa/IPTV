@@ -1068,9 +1068,9 @@ https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:1, iON
 http://c2.gunsnrose.club:8880/ice12m0702/20720860/59215
-#EXTINF:-1 subtitles="eng" ,iON Plus
+#EXTINF:-1 subtitles="eng", iON Plus
 http://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 subtitles="eng" ,Get TV2
+#EXTINF:-1 subtitles="eng", Get TV
 https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
 #EXTINF:-1, Mhz
 http://mhz-samsung-linear.samsung.wurl.com/manifest/playlist.m3u8
@@ -1078,7 +1078,7 @@ http://mhz-samsung-linear.samsung.wurl.com/manifest/playlist.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true", Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1, Univisión
+#EXTINF:-1 subtitles="spa", Univisión
 https://dai.google.com/ssai/event/pa2-p-dKTaCqDOi0eFyHXw/master.m3u8
 #EXTINF:-1, Univisión
 https://pubads.g.doubleclick.net/ssai/event/pa2-p-dKTaCqDOi0eFyHXw/master.m3u8
