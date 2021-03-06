@@ -481,17 +481,17 @@ https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ippOk0.png", Shop LC
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
-#EXTINF:-1, QVC UK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC UK
 https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:-1, The Shopping Network
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1, QVC DE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC DE
 https://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi7/2/prog_index.m3u8
-#EXTINF:-1, QVC JP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC JP
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1, Japanet
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1, QVC Italia1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC Italia
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.45.png", TVSN - Nova Zelândia
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
