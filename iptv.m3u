@@ -491,7 +491,7 @@ https://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi7/2/prog_ind
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1, Japanet
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1, QVC Italia
+#EXTINF:-1, QVC Italia1
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.45.png", TVSN - Nova Zelândia
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
