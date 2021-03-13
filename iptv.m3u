@@ -193,7 +193,7 @@ https://vs-dash-ww-live.bbcfmt.hs.llnwd.net/pool_902/live/nonuk/bbc_persian_tv/b
 #EXTINF:-1, ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1, MSNBC
-http://c2.gunsnrose.club:8880/ice12m0702/20720860/3111
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596
 #EXTINF:-1, CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1q3qEqF.png", CBSN Los Angeles
@@ -409,14 +409,10 @@ https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XXxJf8.png", Sports
-#EXTINF:-1, Sport TV 1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5205c7b916108f9.m3u8
-#EXTINF:-1, Sport TV 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b34a752e6302c4b.m3u8
-#EXTINF:-1, Sport TV 4
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d73a83c60dd69f3.m3u8
-#EXTINF:-1, Sport TV 5
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6565668c520548c.m3u8
+#EXTINF:-1, Star Sports 1
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
+#EXTINF:-1, Sony Ten 1
+http://103.102.136.106:8080/cmcltv/livesports-2.m3u8 
 #EXTINF:-1, Eurosport 1
 http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
 #EXTINF:-1, Eurosport 2
