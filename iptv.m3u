@@ -421,6 +421,8 @@ http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
 http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
 #EXTINF:-1, Eurosport 2
 http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7lKXcM8.png", Jordan Sports
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 #EXTINF:-1, Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1, Bahrain Sports
@@ -1615,11 +1617,7 @@ http://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
 #EXTINF:-1, WORO Canal 13
 https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/playlist.m3u8
 #EXTINF:-1, Mega
-https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/playlist.m3u8?uhd=4&rebase=on
-#EXTINF:-1, Mega
-https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/playlist.m3u8
-#EXTINF:-1, Mega
-https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/chunklist_w938703891_b984144.m3u8
+https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Argentina-Flag-icon.png", Argentina
 https://upload.wikimedia.org/wikipedia/commons/e/ef/United_States_Navy_Band_-_Himno_Nacional_Argentino.ogg
@@ -1800,14 +1798,24 @@ http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8
 https://upload.wikimedia.org/wikipedia/commons/f/f0/United_States_Navy_Band_-_Gloria_al_Bravo_Pueblo.ogg
 #EXTINF:-1, Venezolana de Televisión
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8
+#EXTINF:-1, ViVe
+http://186.148.186.252:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tGy297T.png", Canal i
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SKXwxpj.png", Televen
-http://178.162.128.44:1935/televen/televenweb/playlist.m3u8
+https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
+#EXTINF:-1, Venevision
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xHzLMi.png", TVEs
 https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KL4FEKp.png", Vepaco TV
 http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MAoDriU.png", Catatumbo TV
+http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvo.com.ve/images/logo.png", TVO Venezuela
+http://vcp1.myplaytv.com:1935/tvo/tvo/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvo.com.ve/images/logo.png", TVO Venezuela
+http://vpn58.hdtv.lorini.net:1935/tvo/tvo/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DjtM3vU.jpg", TV Familia
 https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
 #EXTINF:-1, Telearagua
@@ -1819,17 +1827,12 @@ http://184.173.181.2:1935/8248/8248/playlist.m3u8
 #EXTINF:-1, TLT
 https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8
 https://vcp.myplaytv.com/ecua/ecua/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvo.com.ve/images/logo.png", TVO Venezuela
-http://vcp1.myplaytv.com:1935/tvo/tvo/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvo.com.ve/images/logo.png", TVO Venezuela
-http://vpn58.hdtv.lorini.net:1935/tvo/tvo/live.m3u8
 #EXTINF:-1, Vale TV
 http://vcp1.myplaytv.com:1935/valetv/valetv/playlist.m3u8
 #EXTINF:-1, Global TV
 http://vcp1.myplaytv.com:1935/globaltv/globaltv/playlist.m3u8
 #EXTINF:-1, Canal 11
-http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
- 
+http://200.6.154.43:1935/canal11/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Paraguay-Flag-icon.png", Paraguai
 https://upload.wikimedia.org/wikipedia/commons/a/a6/Paraguayan_National_Anthem.oga
 #EXTINF:-1 tvg-logo="https://www.abc.com.py/pf/resources/images/OG-Image-ABC-TV.png?d=507", ABC TV
@@ -2362,6 +2365,8 @@ http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Chile-Flag-icon.png", Chile
 https://upload.wikimedia.org/wikipedia/commons/6/6e/United_States_Navy_Band_-_National_Anthem_of_Chile.ogg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png", UCV
+https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1, Telecanal Talca
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1, Telecanal Talca
@@ -2371,7 +2376,7 @@ https://unlimited2-cl.dps.live/tcsc/tcsc.smil/tcsc/livestream1/chunks.m3u8
 #EXTINF:-1, T13
 http://status.tehw00t.net/miniProxy.php/http://t13-movil-live.cdn.nedmedia.io/index.m3u8
 #EXTINF:-1, TVN
-https://miniproxy-php.appspot.com/index.php/http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
+http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 #EXTINF:-1, TVN de Culto
 https://miniproxy-php.appspot.com/index.php/http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/Logolared2019.png/revision/latest?cb=20190305231926", La Red
