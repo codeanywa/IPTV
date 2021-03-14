@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 13.03.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 14.03.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
@@ -238,6 +238,8 @@ http://200.115.193.177/live/26hd-720/.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RnQJ0Bc.png", Cronica TV
 https://g1.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnQJ0Bc.png", Cronica TV
+https://g1.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/playlist.m3u8
 #EXTINF:-1, Radio Caracas Radio
@@ -254,7 +256,7 @@ http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/a24.playlist.m3u
 #EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
 https://g2.mc-slo.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 #EXTINF:-1 tvg-logo="", A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/playlist.m3u8
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 #EXTINF:-1 tvg-logo="", A24
 https://pubads.g.doubleclick.net/ssai/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 #EXTINF:-1, C5N
@@ -365,6 +367,8 @@ https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/87
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/CNews.fr.png", CNews
 https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x3b68jn&f=.m3u8
+#EXTINF:-1, France 24 Español
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 #EXTINF:-1, France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1, France 24
@@ -809,16 +813,20 @@ https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/p
 https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
 #EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png", RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?pxt_rtp
+#EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png", RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LzqmBLQ.png", RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?pxt_rtp
+https://streaming-live.rtp.pt/liverepeater/rtp2.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LzqmBLQ.png", RTP 2
 https://streaming-live.rtp.pt/livetvhlsDVR/rtp2dvr.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://imgur.com/PS4BvOZ.png", RTP 3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://imgur.com/IqQSxc5.png", RTP INTERNACIONAL
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?pxt_rtp
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpEExkC.png", RTP MEMORIA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8?pxt_rtp
+#EXTINF:-1 tvg-logo="https://imgur.com/RpEExkC.png", RTP MEMORIA
+https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NClRT5z.png", RTP MADEIRA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8?pxt_rtp
 #EXTINF:-1 tvg-logo="https://imgur.com/3cDYXmE.png", RTP ACORES
@@ -1475,8 +1483,6 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/194/12?f=.m3u8
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1, Azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1, MVS TV
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/307/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GziXSha.png", Nu9ve
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GziXSha.png", Nu9ve
@@ -1489,6 +1495,8 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H69I4hZ.jpg", Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhGBqexw7gKt90ff-uk2JGggAwdjenVwy-j_nZuZg=s900-c-k-c0x00ffffff-no-rj", Vibe TV
+https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/.m3u8
 #EXTINF:-1, Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1, Canal 22
@@ -1617,16 +1625,22 @@ https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/chunklist_w938703
 https://upload.wikimedia.org/wikipedia/commons/e/ef/United_States_Navy_Band_-_Himno_Nacional_Argentino.ogg
 #EXTINF:-1, America
 http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/americatv.playlist.m3u8
+#EXTINF:-1, America
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1, TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
+#EXTINF:-1, TV Publica
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/Playlist.m3u8
 #EXTINF:-1, Telefe
 http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/telefe.playlist.m3u8
+#EXTINF:-1, El Nueve
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1NzIyNDM5LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODkuMjE2LjE4My44NSIsIjI4MDA6ODEwOjQ3Mzo5ZTk5OjE4YzI6OTI1ZDo2NzBiOjlmOWIiXX0sInNpZ25hdHVyZSI6IjQzNzFkOGViZmFkOWM2Mzg5NWZiNDBiOTUyMmU1NGQwNjdlMTEzODcifQ%3D%3D
 #EXTINF:-1, El Trece
-http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/eltrece_default.m3u8
+http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
+#EXTINF:-1, El Trece
+http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD_Mauro/SA_Live_fta/ArtearHD_Mauro.m3u8
 #EXTINF:-1, El Siete Mendoza
 http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/canal7mza.playlist.m3u8
-#EXTINF:-1, TV Publica
-http://pro.elotroiptv.com:36995/ewFQuQ2HLZ/34ha4d74pe/491
 #EXTINF:-1, Unirio TV
 https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/playlist.m3u8
 #EXTINF:-1, Ciudad Magazine
@@ -1635,7 +1649,8 @@ https://g1.vxral-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_a
 https://g1.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
 #EXTINF:-1, Rural
 https://cda2.streaming.ws/elrural/live/chunklist_w135960963.m3u8
-https://g1.vxral-hor.transport.edge-access.net/a17/ngrp:rural_live01-100083_all/rural_live01-100083_540p.m3u8
+#EXTINF:-1, Rural
+https://g1.vxral-hor.transport.edge-access.net/a17/ngrp:rural_live01-100083_all/Playlist.m3u8
 #EXTINF:-1, El Garage
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-1, TEC TV
@@ -1644,14 +1659,16 @@ https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:-1, Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1, Viajar
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0025
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg", Mirador
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8 
 #EXTINF:-1, Canal 10 General Roca
 https://59c5c86e10038.streamlock.net/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1j9qL9O.png", America Tucumán
 http://45.6.4.50:50601/America_Tucuman/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGuqcse.png", America
 https://g1.vxral-hor.transport.edge-access.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGuqcse.png", America
+http://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGuqcse.png", America
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGuqcse.png", America
@@ -1660,7 +1677,7 @@ https://dai.google.com/ssai/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 #EXTINF:-1, 24/7 Neuquén
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-#EXTINF:-1, San Luis TV
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521", San Luis TV
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 #EXTINF:-1, Canal 3 Pinamar
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
