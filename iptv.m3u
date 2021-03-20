@@ -503,6 +503,8 @@ https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC DE
 https://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi7/2/prog_index.m3u8
+#EXTINF:-1, 123.tv
+http://188.195.58.187:8000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC JP
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1, Japanet
@@ -894,7 +896,7 @@ http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 #EXTINF:-1, La 2
 http://cdn2.interlibre.net/hls/468/index.m3u8
 #EXTINF:-1, Antena 3 
-http://cdn2.interlibre.net/hls/149/index.m3u8
+http://91.126.141.13:1935/live/11/playlist.m3u8
 #EXTINF:-1, Cuatro
 http://forocable.webcindario.com/mitele.php?ch=cuatro&amp;f=.m3u8?
 #EXTINF:-1, Telecinco
@@ -939,10 +941,12 @@ http://cdn2.interlibre.net/hls/101/index.m3u8
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RRdBdIw.jpg", ¡Hola! TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
-#EXTINF:-1, National Geographic
-http://root:jonathan11@jonatejero.ddns.net:5001/1:0:19:7829:428:1:C00000:0:0:0:
+#EXTINF:-1, Paramount Network
+http://91.126.39.101:1935/live/smil:paramount.smil/playlist.m3u8
+#EXTINF:-1, Paramount Network
+http://flus1.sanpedrowifi.com/live/paramount.sd.ird/mono.m3u8
 #EXTINF:-1, Neox
-http://185.251.208.2:8080/Neox/index.m3u8
+http://91.126.138.142:1935/live/smil:neox.smil/playlist.m3u8
 #EXTINF:-1, Nova
 http://cdn2.interlibre.net/hls/154/index.m3u8
 #EXTINF:-1, Mega
@@ -956,7 +960,7 @@ http://cdn2.interlibre.net/hls/188/index.m3u8
 #EXTINF:-1, Energy
 http://forocable.webcindario.com/mitele.php?ch=energy&amp;f=.m3u8?
 #EXTINF:-1, Energy
-http://cdn2.interlibre.net/hls/192/index.m3u8
+http://91.126.138.142:1935/live/smil:energy-Stream.smil/playlist.m3u8
 #EXTINF:-1, Be Mad
 http://forocable.webcindario.com/mitele.php?ch=bemad&amp;f=.m3u8?
 #EXTINF:-1, Be Mad
@@ -1045,6 +1049,8 @@ http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/
 http://cdn2.interlibre.net/hls/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YkAEkOM.png", Aragon TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YkAEkOM.png", Aragon TV
+http://91.126.138.140:1935/live/aragontv-streamnntv/playlist.m3u8
 #EXTINF:-1, Canárias TV
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8
  
@@ -1082,8 +1088,8 @@ http://c2.gunsnrose.club:8880/ice12m0702/20720860/3166
 https://dai2-playlistserver.aws.syncbak.com/playlist/893553/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjcyMzUsImlzcyI6IldMUyIsIm1kNSI6IjM5YWE1ZjczMTgyYTg0NThiY2QzOTcxMjQzYzVhZDc1IiwibWlkIjoiODkzNTUzIn0.v4oZTq8PnYSg_UAfc_nt9tO2ThQy44A-F8-colQ2Ijg
 #EXTINF:-1, The CW
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
-#EXTINF:-1, The CW
-http://c2.gunsnrose.club:8880/ice12m0702/20720860/3145
+#EXTINF:-1, KTLA - The CW
+https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/caaZ2Aq.png", The CW Seed
 http://status.tehw00t.net/miniProxy.php/https://cwseedlive.cwtv.com/ingest/playlist.m3u8
 #EXTINF:-1, My 9
