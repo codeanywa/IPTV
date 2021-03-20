@@ -379,6 +379,8 @@ http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9tXsTxp.png", Canais Internacionais
+#EXTINF:-1, 5Star
+http://5.101.140.110:8000/playlist.m3u8
 #EXTINF:-1, Sun Channel
 http://170.247.204.9:8000/play/a0aj
 #EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png", TV GE - Guiné Equatorial
@@ -503,8 +505,6 @@ https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC DE
 https://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi7/2/prog_index.m3u8
-#EXTINF:-1, 123.tv
-http://188.195.58.187:8000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC JP
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1, Japanet
