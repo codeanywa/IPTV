@@ -380,7 +380,7 @@ https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9tXsTxp.png", Canais Internacionais
 #EXTINF:-1, 5Star
-http://5.101.140.110:8000/playlist.m3u8
+http://5.101.140.110:8000/play/a00m/index.m3u8
 #EXTINF:-1, Sun Channel
 http://170.247.204.9:8000/play/a0aj
 #EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png", TV GE - Guiné Equatorial
