@@ -2107,7 +2107,7 @@ https://d1fq81ey3uivxy.cloudfront.net/canal4/index.m3u8
 #EXTINF:-1 tvg-logo="http://wowelsalvador.com/imagenes/logooff.fw.png",Canal 6
 https://d34041nkkqfcnk.cloudfront.net/canal6/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TUTV_11_2014.png",Tutv
-https://5d07d2ec59d7c.streamlock.net/Canal11/Canal11/playlist.m3u8
+https://grupocsanetwork.com:1936/canal11/canal11/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVX_El_Salvador.png",Canal TVX
 https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://wowelsalvador.com/imagenes/logooff.fw.png", Canal Wow
@@ -2144,7 +2144,7 @@ https://gt-chapintv-canal23-live-0-cdn-0.ned.media/chapintv/smil:canal23.smil/pl
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Dominican-republic-Flag-icon.png", República Dominicana
 https://upload.wikimedia.org/wikipedia/commons/b/bb/Dominican_Republic_National_Anthem.ogg
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cinevision_canal19.jpg", Cinevision 19
-http://cinevision01.streamprolive.com/hls/live.m3u8
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSJoFTp.png", Vallevision
 http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teleimpacto52.com/wp-content/uploads/2018/12/logofull.png", Teleimpacto 52
