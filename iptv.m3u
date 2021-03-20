@@ -2098,10 +2098,8 @@ https://upload.wikimedia.org/wikipedia/commons/4/4e/El_Salvador_National_Anthem.
 https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://www.tele1.sv/wp-content/uploads/2019/06/TELE1_WHITE.png",Tele 1
 https://5ca9af4645e15.streamlock.net/canaluno/smil:canaluno.smil/playlist.m3u8
-#EXTINF:-1, Megavision 19
-http://m3ukodi.com/canales/grupomegavision.php?v=0
-#EXTINF:-1 tvg-logo="http://www.tele1.sv/wp-content/uploads/2019/06/TELE1_WHITE.png",Tele 1
-https://5ca9af4645e15.streamlock.net/canaluno/smil:canaluno.smil/chunklist_w1745478778_b478000_DVR_sleng.m3u8 
+#EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png", Canal 33
+https://5ca9af4645e15.streamlock.net/canal33/videocanal33/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sv/Canal2Nacional.sv.png",Canal 2
 https://d34041nkkqfcnk.cloudfront.net/canal2/index.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-4-El-Salvador.png",Canal 4
