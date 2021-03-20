@@ -900,6 +900,8 @@ http://91.126.141.13:1935/live/11/playlist.m3u8
 #EXTINF:-1, Cuatro
 http://forocable.webcindario.com/mitele.php?ch=cuatro&amp;f=.m3u8?
 #EXTINF:-1, Telecinco
+http://91.126.141.13:1935/live/61/playlist.m3u8 
+#EXTINF:-1, Telecinco
 http://forocable.webcindario.com/mitele.php?ch=telecinco&amp;f=.m3u8?
 #EXTINF:-1, Telecinco
 http://cdn2.interlibre.net/hls/190/index.m3u8
