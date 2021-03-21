@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 20.03.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 21.03.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
@@ -415,10 +415,8 @@ https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XXxJf8.png", Sports
-#EXTINF:-1, Star Sports 1
-http://103.102.136.106:8080/cmcltv/livesports.m3u8
-#EXTINF:-1, Sony Ten 1
-http://103.102.136.106:8080/cmcltv/livesports-2.m3u8 
+#EXTINF:-1, Tigo Sports
+https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
 #EXTINF:-1, Eurosport 1
 http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
 #EXTINF:-1, Eurosport 2
@@ -907,6 +905,8 @@ http://forocable.webcindario.com/mitele.php?ch=telecinco&amp;f=.m3u8?
 http://cdn2.interlibre.net/hls/190/index.m3u8
 #EXTINF:-1, La Sexta
 http://cdn2.interlibre.net/hls/151/index.m3u8
+#EXTINF:-1, Hollywood
+http://84.120.59.138:8001/1:0:19:750C:420:1:C00000:0:0:0:
 #EXTINF:-1, El Toro TV
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1, PTV Granada
