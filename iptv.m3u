@@ -333,6 +333,8 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/e4ac1198-a0dc-4d0b-a1bd-1cc26638d42c/7.m3u8
 #EXTINF:-1, Estrella News
 https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1, CNN Chile
+http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1, Band News
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1, Band News
@@ -415,10 +417,14 @@ https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XXxJf8.png", Sports
+#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg", Tigo Sports
+https://d107hql7o7vd84.cloudfront.net/out/v1/ce38156ea93a47709cec829647e9b0ce/index.m3u8
 #EXTINF:-1, Tigo Sports
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
+https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
 #EXTINF:-1, Eurosport 1
 http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
+#EXTINF:-1, Eurosport 1
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 #EXTINF:-1, Eurosport 2
 http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7lKXcM8.png", Jordan Sports
@@ -441,6 +447,12 @@ https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8?sd=10&rebase=o
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8?sd=10&rebase=on
 #EXTINF:-1, ESPN Extra
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8?sd=10&rebase=on
+#EXTINF:-1, ESPN Deportes
+http://38.18.238.42:2095/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1, Fox Deportes
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png", Canal 11 
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 #EXTINF:-1, Claro Sports
 http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
 #EXTINF:-1, FS 2
@@ -451,6 +463,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/AmericaSpo.playlist.m3u8
 #EXTINF:-1, America Sports
 https://www.youtube.com/embed/1SmKEIpmcLU
+#EXTINF:-1, NBCSN
+http://38.18.238.35:2095/9466NBCSP/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLKKNQf.png", ESPNEWS
 https://gma2.blab.email/espnews.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlJHXXQ.png", ESPN 2 USA
@@ -459,6 +473,16 @@ https://gma2.blab.email/espn2.m3u8
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mZKxIBA.jpg", ERT Sports HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png", EPT Sports 1
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png", EPT Sports 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png", EPT Sports 3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png", EPT Sports 4
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png", EPT Sports 5
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ytmwqy2.png", YAS TV
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnJCCYn.png", AD Sports 1
@@ -473,11 +497,21 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m
 https://dai.google.com/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
 #EXTINF:-1, TUDN
 https://pubads.g.doubleclick.net/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
+#EXTINF:-1, #EXTINF:-1, WAPA Deportes
+http://38.18.238.35:2095/0000/CH=%C2%A0PR-%C2%A0WAPA2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710549_ico.png?v=1", Setanta Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0.12; SM-G550T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.912 Mobile Safari/537.36 Vinebre Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
 http://ott-cdn.ucom.am/s82/index.m3u8
 #EXTINF:-1, Gol TV
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/CanalPlusSport.pl.png", Canal+ Sports
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Diema_Sport_HD_logo.png/revision/latest/scale-to-width-down/340?cb=20150207141244", Diema Sport
+http://136.243.177.164/DIEMASPORT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Diema_Sport_HD_logo.png/revision/latest/scale-to-width-down/340?cb=20150207141244", Diema Sport 2
+http://136.243.177.164/DIEMASPORT2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png", Sky Sport 24
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEVfAjy.jpg", Shopping
  
@@ -1114,6 +1148,8 @@ http://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
 http://mhz-samsung-linear.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HWu4ote.png", Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1, Estrella TV
+http://208.88.246.11:2095/eventox3/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true", Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1, Univisión
@@ -1627,7 +1663,11 @@ https://upload.wikimedia.org/wikipedia/commons/8/8d/United_States_Navy_Band_-_La
 #EXTINF:-1, Univision
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/548/12?f=.m3u8
 #EXTINF:-1, Univision
+http://38.18.238.42:2095/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1, Unimas
 http://38.18.238.42:2095/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1, WLII
+http://38.18.238.35:2095/0000/CH=%C2%A0PR-WLII/chunks.m3u8
 #EXTINF:-1, Telemundo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/544/12?f=.m3u8
 #EXTINF:-1, Punto 2
@@ -1637,7 +1677,9 @@ http://23.237.29.98:2095/live/punto2pr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%
 #EXTINF:-1, WAPA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/545/12?f=.m3u8
 #EXTINF:-1, WAPA
-http://208.88.246.11:2095/eventox3/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+http://38.18.238.42:2095/0000/CH=%C2%A0PR-%C2%A0WAPA/playlist.m3u8
+#EXTINF:-1, WAPA Deportes
+http://38.18.238.35:2095/0000/CH=%C2%A0PR-%C2%A0WAPA2/playlist.m3u8
 #EXTINF:-1, WIPR
 http://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
 #EXTINF:-1, WORO Canal 13
@@ -1660,13 +1702,15 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1, Telefe
 http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/telefe.playlist.m3u8
 #EXTINF:-1, El Nueve
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1NzIyNDM5LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODkuMjE2LjE4My44NSIsIjI4MDA6ODEwOjQ3Mzo5ZTk5OjE4YzI6OTI1ZDo2NzBiOjlmOWIiXX0sInNpZ25hdHVyZSI6IjQzNzFkOGViZmFkOWM2Mzg5NWZiNDBiOTUyMmU1NGQwNjdlMTEzODcifQ%3D%3D
+http://45.170.40.2:8000/play/a007
 #EXTINF:-1, El Trece
 http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 #EXTINF:-1, El Trece
 http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD_Mauro/SA_Live_fta/ArtearHD_Mauro.m3u8
 #EXTINF:-1, El Siete Mendoza
 http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/canal7mza.playlist.m3u8
+#EXTINF:-1, El Gourmet
+http://p83s242.distributed.host:25461/streaming/clients_live.php?username=bXs3gZYlIc&password=QNMnMn2TKr&stream=378609&extension=ts&play_token=ASYWD5WLTh&token=Q0ZaWEpdEAkSUFZTBVsCAAJYAldUAQJXBwRRWQcGBlsJVQpcWAcLUAFBThRATRYGUAxtXVYUCFcGCwJQBRwWF0sBQGZQURAJElJSDgoLVkEdQ0ZdX1MQXgAFBVcNBAFWCFYeG0lcVhEKQVAPAQ5XQR1DV0xGU0AKUF9rBVBGXQFdRghXTFleHxIMDGlXXAkCXwUQDhAHEEgTWkcRFwpaF1QIHhtbXEZBURcHFAkbVlMEVRAYEFVdEV9HRhgXChYna0YeG1xNRlZeEAtZXRteQUUSEBgQX0E7Q1ZHFUdVVQ9dFhADGwUQHxIOA05sWgsNXwRRQFtZXBcTCRZQFxwWD1cKW01WR21DWQdADBEIVVAGVhBJ
 #EXTINF:-1, Unirio TV
 https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/playlist.m3u8
 #EXTINF:-1, Ciudad Magazine
@@ -1863,6 +1907,8 @@ http://vcp1.myplaytv.com:1935/globaltv/globaltv/playlist.m3u8
 http://200.6.154.43:1935/canal11/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Paraguay-Flag-icon.png", Paraguai
 https://upload.wikimedia.org/wikipedia/commons/a/a6/Paraguayan_National_Anthem.oga
+#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2014/12/logoParaguayTv.jpg", Paraguay TV
+http://hidraplay.tv/live/Cubill/123457/43471.m3u8
 #EXTINF:-1 tvg-logo="https://www.abc.com.py/pf/resources/images/OG-Image-ABC-TV.png?d=507", ABC TV
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1-218x150.png", Paravision
@@ -1870,7 +1916,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/latele_m.jpg", La Tele
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-video=1532000-audio_20000=144800.m3u8
 #EXTINF:-1, SNT
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SNT_C4/verimatrix_rotating_FTA/SNT_C4-video=3000000-audio_20000=144800.m3u8
+http://201.182.242.194:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mpEfr2H.jpg", Unicanal
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5LIK5a8.png", Trece Paraguay
@@ -1879,7 +1925,8 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg", Sur TV
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png", Red Chaqueña de Comunicaciones
+#EXTINF:-1, Mi TV
+https://tigocloud.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=20d50a447f7cccb7fa6094795156e6901f2fd143e0676fb6a127994f429f42cf&exp=1602611739#EXTINF:-1 tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png", Red Chaqueña de Comunicaciones
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 #EXTINF:-1, Intercable
 http://201.217.3.212/TV/intercable/playlist.m3u8
@@ -2247,9 +2294,7 @@ https://liveingesta119.cdnmedia.tv/canaltrecelive/smil:live.smil/playlist.m3u8
 #EXTINF:-1, Cali TV
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1, Senal Colombia
-https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-1500/index.m3u8
-#EXTINF:-1, Senal Colombia
-https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/mobile/playlist.m3u8
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1, Senal Institucional
 https://live-edge-bhs-1.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/live-1500/index.m3u8
 #EXTINF:-1, Teleantioquia
@@ -2440,6 +2485,8 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 https://upload.wikimedia.org/wikipedia/commons/2/2b/United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9gh4gh.jpg", 4
 http://chromecast.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Canal4_URU.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg", Canal 10 Uruguay
+http://cdn.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/Canal10_URU.m3u8
 #EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2018/06/logo-latele-2016-2-1-3.png", TELEDOCE
 http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png", VTV
