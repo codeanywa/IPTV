@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 21.03.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 27.03.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
@@ -1116,6 +1116,8 @@ http://mhz-samsung-linear.samsung.wurl.com/manifest/playlist.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true", Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1, Univisión
+http://38.18.238.42:2095/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 subtitles="spa", Univisión
 https://dai.google.com/ssai/event/pa2-p-dKTaCqDOi0eFyHXw/master.m3u8
 #EXTINF:-1, Univisión
@@ -1142,6 +1144,10 @@ https://pubads.g.doubleclick.net/ssai/event/fQCAqHLkSPeYW0FmDm7aOQ/master.m3u8
 https://dai.google.com/ssai/event/SIvlK2VmTsqL_hgyKeFIPg/master.m3u8
 #EXTINF:-1, Galavision
 https://pubads.g.doubleclick.net/ssai/event/SIvlK2VmTsqL_hgyKeFIPg/master.m3u8
+#EXTINF:-1, NBC Universo
+http://208.88.246.11:2095/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1, NBC Universo
+http://38.18.238.42:2095/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1, Telemundo
 http://status.tehw00t.net/miniProxy.php/https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 #EXTINF:-1, Telemundo New York
@@ -1467,6 +1473,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 #EXTINF:-1, Azteca Uno
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/12?f=.m3u8
+#EXTINF:-1, Azteca Uno
+http://208.88.246.11:2095/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 #EXTINF:-1, Las Estrellas
 http://api.new.livestream.com/accounts/26891487/events/8338033/broadcasts/216782296.m3u8
 #EXTINF:-1, Las Estrellas
@@ -1618,18 +1626,26 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8
 https://upload.wikimedia.org/wikipedia/commons/8/8d/United_States_Navy_Band_-_La_Borinque%C3%B1a.ogg
 #EXTINF:-1, Univision
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/548/12?f=.m3u8
+#EXTINF:-1, Univision
+http://38.18.238.42:2095/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1, Telemundo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/544/12?f=.m3u8
 #EXTINF:-1, Punto 2
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97812/12?f=.m3u8
+#EXTINF:-1, Punto 2
+http://23.237.29.98:2095/live/punto2pr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1, WAPA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/545/12?f=.m3u8
+#EXTINF:-1, WAPA
+http://208.88.246.11:2095/eventox3/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 #EXTINF:-1, WIPR
 http://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
 #EXTINF:-1, WORO Canal 13
 https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/playlist.m3u8
 #EXTINF:-1, Mega
 https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
+#EXTINF:-1, Mega
+http://38.18.238.42:2095/megatvpr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Argentina-Flag-icon.png", Argentina
 https://upload.wikimedia.org/wikipedia/commons/e/ef/United_States_Navy_Band_-_Himno_Nacional_Argentino.ogg
