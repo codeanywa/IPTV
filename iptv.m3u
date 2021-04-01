@@ -269,6 +269,8 @@ https://pubads.g.doubleclick.net/ssai/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/c5n.playlist.m3u8
 #EXTINF:-1, C5N
 http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/c5n.playlist.m3u8
+#EXTINF:-1,C5N
+http://45.170.40.2:8000/play/a018/index.m3u8
 #EXTINF:-1, LN
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/lntv.playlist.m3u8
 #EXTINF:-1, LN
@@ -1694,7 +1696,6 @@ https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/playlist.m
 https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
 #EXTINF:-1, Mega
 http://38.18.238.42:2095/megatvpr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Argentina-Flag-icon.png", Argentina
 https://upload.wikimedia.org/wikipedia/commons/e/ef/United_States_Navy_Band_-_Himno_Nacional_Argentino.ogg
 #EXTINF:-1, America
@@ -1717,8 +1718,10 @@ http://45.170.40.2:8000/play/a007
 http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 #EXTINF:-1, El Trece
 http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD_Mauro/SA_Live_fta/ArtearHD_Mauro.m3u8
+#EXTINF:-1, El Trece
+http://45.170.40.2:8000/play/a03i/index.m3u8
 #EXTINF:-1, El Gourmet
-http://p83s242.distributed.host:25461/streaming/clients_live.php?username=bXs3gZYlIc&password=QNMnMn2TKr&stream=378609&extension=ts&play_token=ASYWD5WLTh&token=Q0ZaWEpdEAkSUFZTBVsCAAJYAldUAQJXBwRRWQcGBlsJVQpcWAcLUAFBThRATRYGUAxtXVYUCFcGCwJQBRwWF0sBQGZQURAJElJSDgoLVkEdQ0ZdX1MQXgAFBVcNBAFWCFYeG0lcVhEKQVAPAQ5XQR1DV0xGU0AKUF9rBVBGXQFdRghXTFleHxIMDGlXXAkCXwUQDhAHEEgTWkcRFwpaF1QIHhtbXEZBURcHFAkbVlMEVRAYEFVdEV9HRhgXChYna0YeG1xNRlZeEAtZXRteQUUSEBgQX0E7Q1ZHFUdVVQ9dFhADGwUQHxIOA05sWgsNXwRRQFtZXBcTCRZQFxwWD1cKW01WR21DWQdADBEIVVAGVhBJ
+http://45.170.40.2:8000/play/a036/index.m3u8
 #EXTINF:-1, Unirio TV
 https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/playlist.m3u8
 #EXTINF:-1, Ciudad Magazine
