@@ -229,7 +229,9 @@ http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1, Foro TV
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF:-1, Imagen Multicast
-http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/excelsior.playlist.m3u8
+http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/excelsior.playlist.m3u8
+#EXTINF:-1, Imagen Multicast
+http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/excelsior.playlist.m3u8
 #EXTINF:-1, 324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IC46hyc.png", Canal 26
@@ -242,16 +244,20 @@ https://g1.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_
 https://g1.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/playlist.m3u8
-#EXTINF:-1, Radio Caracas Radio
-http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/RADIOCARACAS.playlist.m3u8
 #EXTINF:-1, Globovision
-http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/Globovision.playlist.m3u8
+http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/Globovision.playlist.m3u8
+#EXTINF:-1, Globovision
+http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/Globovision.playlist.m3u8
 #EXTINF:-1, TN
 https://www.youtube.com/embed/wHn1_QVoXGM
 #EXTINF:-1, TN
-http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/tn.playlist.m3u8
+http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/tn.playlist.m3u8
+#EXTINF:-1, TN
+http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/tn.playlist.m3u8
 #EXTINF:-1, A24
-http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/a24.playlist.m3u8
+http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/a24.playlist.m3u8
+#EXTINF:-1, A24
+http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/a24.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", A24
 #EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
 https://g2.mc-slo.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
@@ -260,11 +266,13 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 tvg-logo="", A24
 https://pubads.g.doubleclick.net/ssai/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 #EXTINF:-1, C5N
-http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/c5n.playlist.m3u8
+http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/c5n.playlist.m3u8
 #EXTINF:-1, C5N
-http://inliveserver.com:1936/8012_1/8012_1/playlist.m3u8
+http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/c5n.playlist.m3u8
 #EXTINF:-1, LN
-http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/lntv.playlist.m3u8
+http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/lntv.playlist.m3u8
+#EXTINF:-1, LN
+http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/lntv.playlist.m3u8
 #EXTINF:-1, LN
 https://www.youtube.com/watch?v=Lnsp9CFTIh4
 #EXTINF:-1, C9N
@@ -459,8 +467,6 @@ http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(jjoo2016ch01)/S
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066077184048152576/jemQ8FEk_200x200.jpg", DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1, America Sports
-http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/AmericaSpo.playlist.m3u8
 #EXTINF:-1, America Sports
 https://www.youtube.com/embed/1SmKEIpmcLU
 #EXTINF:-1, NBCSN
@@ -1692,7 +1698,9 @@ http://38.18.238.42:2095/megatvpr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Argentina-Flag-icon.png", Argentina
 https://upload.wikimedia.org/wikipedia/commons/e/ef/United_States_Navy_Band_-_Himno_Nacional_Argentino.ogg
 #EXTINF:-1, America
-http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/americatv.playlist.m3u8
+http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/americatv.playlist.m3u8
+#EXTINF:-1, America
+http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/americatv.playlist.m3u8
 #EXTINF:-1, America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1, TV Publica
@@ -1701,14 +1709,14 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/Playlist.m3u8
 #EXTINF:-1, Telefe
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/telefe_720.m3u8
+#EXTINF:-1, Telefe
+http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/telefe.playlist.m3u8
 #EXTINF:-1, El Nueve
 http://45.170.40.2:8000/play/a007
 #EXTINF:-1, El Trece
 http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 #EXTINF:-1, El Trece
 http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD_Mauro/SA_Live_fta/ArtearHD_Mauro.m3u8
-#EXTINF:-1, El Siete Mendoza
-http://45.225.68.249:7779/Live/05c1c90c74bbc75aa65a99a83236d099/canal7mza.playlist.m3u8
 #EXTINF:-1, El Gourmet
 http://p83s242.distributed.host:25461/streaming/clients_live.php?username=bXs3gZYlIc&password=QNMnMn2TKr&stream=378609&extension=ts&play_token=ASYWD5WLTh&token=Q0ZaWEpdEAkSUFZTBVsCAAJYAldUAQJXBwRRWQcGBlsJVQpcWAcLUAFBThRATRYGUAxtXVYUCFcGCwJQBRwWF0sBQGZQURAJElJSDgoLVkEdQ0ZdX1MQXgAFBVcNBAFWCFYeG0lcVhEKQVAPAQ5XQR1DV0xGU0AKUF9rBVBGXQFdRghXTFleHxIMDGlXXAkCXwUQDhAHEEgTWkcRFwpaF1QIHhtbXEZBURcHFAkbVlMEVRAYEFVdEV9HRhgXChYna0YeG1xNRlZeEAtZXRteQUUSEBgQX0E7Q1ZHFUdVVQ9dFhADGwUQHxIOA05sWgsNXwRRQFtZXBcTCRZQFxwWD1cKW01WR21DWQdADBEIVVAGVhBJ
 #EXTINF:-1, Unirio TV
