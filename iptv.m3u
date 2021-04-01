@@ -1689,6 +1689,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97812/12?f=.m3u8
 #EXTINF:-1, Punto 2
 http://23.237.29.98:2095/live/punto2pr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1, WAPA
+http://contentheinentv.ddns.net/Contenido/xtreamcodes/iptv_xtream_codes/streams/16071_.m3u8
+#EXTINF:-1, WAPA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/545/12?f=.m3u8
 #EXTINF:-1, WAPA
 http://38.18.238.42:2095/0000/CH=%C2%A0PR-%C2%A0WAPA/playlist.m3u8
