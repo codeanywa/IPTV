@@ -94,6 +94,8 @@ https://origin-02.nxplay.com.br/LOVENATURE_NX/tracks-v1a1/mono.m3u8
 https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
 #EXTINF:-1, Saber Más
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMvMf72.png", Telemundo Internacional
+https://vp01-telemundosd.delivery.fuugo.com/ngrp:vp01-Telemundo_SD-147c97bb_all/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aw0sPst.png", News
 #EXTINF:-1, Hechos Ecuador
@@ -232,6 +234,8 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/excelsior.playlist.m3u8
 #EXTINF:-1, Imagen Multicast
 http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/excelsior.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/udgnot.png", Canal 44 Noticias
+https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
 #EXTINF:-1, 324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IC46hyc.png", Canal 26
@@ -520,6 +524,8 @@ http://136.243.177.164/DIEMASPORT/playlist.m3u8
 http://136.243.177.164/DIEMASPORT2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png", Sky Sport 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/263iWYY.png", Meridiano Television
+http://170.79.233.222:8500/play/a0h3/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEVfAjy.jpg", Shopping
  
@@ -951,6 +957,10 @@ http://cdn2.interlibre.net/hls/151/index.m3u8
 http://84.120.59.138:8001/1:0:19:750C:420:1:C00000:0:0:0:
 #EXTINF:-1, El Toro TV
 https://live1-eltorotv.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuJMNzd.png", Life TV
+http://media.profesionalhosting.com:1935/8201/8201/chunklist_w1047512158.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Spc1n7c.png", Red TV
+http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1060324053.m3u8
 #EXTINF:-1, PTV Granada
 https://streamer.zapitv.com/GRANADA/tracks-v2a1/mono.m3u8
 #EXTINF:-1, Telecrimen
@@ -1113,17 +1123,17 @@ https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Spangled_Banner_instrum
 #EXTINF:-1, ABC
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
 #EXTINF:-1, ABC
-http://c2.gunsnrose.club:8880/ice12m0702/20720860/3166 
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93841/12?f=.m3u8
 #EXTINF:-1, CBS
-http://190.122.96.187:8888/http/007
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93842/12?f=.m3u8
 #EXTINF:-1, CBS 57 Kentucky (WYMT)
 https://dai2-playlistserver.aws.syncbak.com/playlist/893557/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAwMDc1MDQsImlzcyI6IldMUyIsIm1kNSI6IjMyMjE4MzNhYzRiOTJkOTRiMDBjMDFjZjY5MDM2NmY1IiwibWlkIjoiODkzNTU3In0.arYOsp9fiM8UzYcTRIxI7GlDdA3RAgQUCX6JRb88wxQ
 #EXTINF:-1, CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1, NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PZzrkTF.png", NBC New York
-http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+#EXTINF:-1, NBC
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93843/12?f=.m3u8
 #EXTINF:-1, FOX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533
 #EXTINF:-1, FOX
@@ -1512,6 +1522,8 @@ http://api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Mexico-Flag-icon.png", México
 https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg
 #EXTINF:-1, Azteca Uno
+https://blackghost.live/play/wistream-330.php?cat=latinos&ch=azteca&k=black-ghost&f=.m3u8
+#EXTINF:-1, Azteca Uno
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
 #EXTINF:-1, Azteca Uno
 http://contentheinentv.ddns.net/Contenido/xtreamcodes/iptv_xtream_codes/streams/5333_.m3u8
@@ -1522,7 +1534,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/12?f=.m3u8
 #EXTINF:-1, Azteca Uno
 http://208.88.246.11:2095/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 #EXTINF:-1, Las Estrellas
-http://api.new.livestream.com/accounts/26891487/events/8338033/broadcasts/216782296.m3u8
+https://blackghost.live/play/wistream-330.php?cat=latinos&ch=canalestrellas&k=black-ghost&f=.m3u8
 #EXTINF:-1, Las Estrellas
 http://contentheinentv.ddns.net/Contenido/xtreamcodes/iptv_xtream_codes/streams/5331_.m3u8
 #EXTINF:-1, Las Estrellas
@@ -1544,6 +1556,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/598/12?f=.m3u8
 #EXTINF:-1, Imagen Television
 http://contentheinentv.ddns.net/Contenido/xtreamcodes/iptv_xtream_codes/streams/10786_.m3u8
 #EXTINF:-1, Canal 5
+https://blackghost.live/play/wistream-330.php?cat=latinos&ch=canal5televisa&k=black-ghost&f=.m3u8
+#EXTINF:-1, Canal 5
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 #EXTINF:-1, Canal 5
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/192/12?f=.m3u8
@@ -1552,7 +1566,7 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF:-1, Azteca 7
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/194/12?f=.m3u8
 #EXTINF:-1, Azteca 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+https://blackghost.live/play/wistream-330.php?cat=latinos&ch=azteca7&k=black-ghost&f=.m3u8
 #EXTINF:-1, Azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GziXSha.png", Nu9ve
@@ -1565,12 +1579,18 @@ https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x792196&f=.m3u8
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/05/canal-once.jpg", Once TV Internacional
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1, MVS TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/313/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H69I4hZ.jpg", Canal Catorce
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H69I4hZ.jpg", Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhGBqexw7gKt90ff-uk2JGggAwdjenVwy-j_nZuZg=s900-c-k-c0x00ffffff-no-rj", Vibe TV
-https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/.m3u8
+#EXTINF:-1, NRT Canal 4
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1, NRT Canal 10
+https://59e88b197fb16.streamlock.net:4443/live/canal10/playlist.m3u8
+#EXTINF:-1, NRT Canal 10
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1, Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1, Canal 22
@@ -1671,7 +1691,7 @@ https://5e7aa30977cb7.streamlock.net/capacitatv/myStream/playlist.m3u8
 https://mvtvstream.com:444/live/603d046595b62/index.m3u8
 #EXTINF:-1, Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvdxtips.com/canal10chiapas2015.jpg", Canal 10 Chiapas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/diez.png", Canal 10 Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Puerto-Rico-Flag-icon.png", Porto Rico
