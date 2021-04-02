@@ -1666,7 +1666,7 @@ http://status.tehw00t.net/miniProxy.php/https://srvstream01.televisioneducativa.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8m9ZoOJ.png", Capacita TV
 https://5e7aa30977cb7.streamlock.net/capacitatv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c4kWST5.jpg", Canal 7 SLP
-https://mvtvstream.com:444/live/5fede34f6075e/index.m3u8
+https://mvtvstream.com:444/live/603d046595b62/index.m3u8
 #EXTINF:-1, Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvdxtips.com/canal10chiapas2015.jpg", Canal 10 Chiapas
@@ -1889,16 +1889,22 @@ http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8
 https://upload.wikimedia.org/wikipedia/commons/f/f0/United_States_Navy_Band_-_Gloria_al_Bravo_Pueblo.ogg
 #EXTINF:-1, Venezolana de Televisión
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8
+#EXTINF:-1, Venezolana de Televisión
+http://200.54.19.131:8500/play/a0h2/index.m3u8
 #EXTINF:-1, ViVe
-http://186.148.186.252:1935/live/myStream/playlist.m3u8
+http://200.54.19.131:8500/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tGy297T.png", Canal i
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SKXwxpj.png", Televen
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SKXwxpj.png", Televen
+http://200.54.19.131:8500/play/a0iv/index.m3u8
 #EXTINF:-1, Venevision
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
+#EXTINF:-1, Venevision
+http://200.54.19.131:8500/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xHzLMi.png", TVEs
-https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
+http://200.54.19.131:8500/play/a0gz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KL4FEKp.png", Vepaco TV
 http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAoDriU.png", Catatumbo TV
@@ -1919,7 +1925,7 @@ http://184.173.181.2:1935/8248/8248/playlist.m3u8
 https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8
 https://vcp.myplaytv.com/ecua/ecua/playlist.m3u8
 #EXTINF:-1, Vale TV
-http://vcp1.myplaytv.com:1935/valetv/valetv/playlist.m3u8
+http://200.54.19.131:8500/play/a0gy/index.m3u8
 #EXTINF:-1, Global TV
 http://vcp1.myplaytv.com:1935/globaltv/globaltv/playlist.m3u8
 #EXTINF:-1, Canal 11
@@ -2345,6 +2351,8 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Ecuador-Flag-icon.png", Equador
 https://upload.wikimedia.org/wikipedia/commons/6/6e/Anthem_of_Ecuador.ogg
+#EXTINF:-1, Gamavision
+http://200.54.19.131:8500/play/a0eg/index.m3u8
 #EXTINF:-1, Ecuador TV
 http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
 #EXTINF:-1, Ecuavisa
