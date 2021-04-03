@@ -1581,6 +1581,8 @@ https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x792196&f=.m3u8
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/05/canal-once.jpg", Once TV Internacional
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1, TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 #EXTINF:-1, MVS TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/313/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H69I4hZ.jpg", Canal Catorce
