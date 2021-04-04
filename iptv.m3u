@@ -96,6 +96,14 @@ https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMvMf72.png", Telemundo Internacional
 https://vp01-telemundosd.delivery.fuugo.com/ngrp:vp01-Telemundo_SD-147c97bb_all/playlist.m3u8
+#EXTINF:-1, Travel XP
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Planet Knowledge
+https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png", Smithsonian
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png", Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aw0sPst.png", News
 #EXTINF:-1, Hechos Ecuador
@@ -399,8 +407,6 @@ https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9tXsTxp.png", Canais Internacionais
 #EXTINF:-1, 5Star
 http://5.101.140.110:8000/play/a00m/index.m3u8
-#EXTINF:-1, Sun Channel
-http://170.247.204.9:8000/play/a0aj
 #EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png", TV GE - Guiné Equatorial
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1, VE Plus
@@ -1998,8 +2004,6 @@ http://192.240.114.58/tvs/tvs/playlist.m3u8
 https://upload.wikimedia.org/wikipedia/commons/2/2c/%22O_Canada%22%2C_performed_by_the_United_States_Third_Marine_Aircraft_Wing_Band.oga
 #EXTINF:-1, TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#EXTINF:-1, CJIL 17.1 Miracle
-http://d9ruw6nhj5a52.cloudfront.net/live/live/master.m3u8
 #EXTINF:-1, Net TV Toronto
 http://live.streams.ovh:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/CJON-TV.PNG/200px-CJON-TV.PNG", NTV Newfoundland
