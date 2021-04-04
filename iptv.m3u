@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 03.04.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 04.04.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
@@ -1448,6 +1448,8 @@ http://status.tehw00t.net/miniProxy.php/https://usgeowall.sinclairstoryline.com/
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1, PBS America
 http://51.52.156.22:8888/http/012
+#EXTINF:-1, PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXALC8s.png", Zee Mundo Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3se2VEB.png", Youtoo America
@@ -1994,6 +1996,8 @@ http://192.240.114.58/tvs/tvs/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Canada-Flag-icon.png", Canadá
 https://upload.wikimedia.org/wikipedia/commons/2/2c/%22O_Canada%22%2C_performed_by_the_United_States_Third_Marine_Aircraft_Wing_Band.oga
+#EXTINF:-1, TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1, CJIL 17.1 Miracle
 http://d9ruw6nhj5a52.cloudfront.net/live/live/master.m3u8
 #EXTINF:-1, Net TV Toronto
