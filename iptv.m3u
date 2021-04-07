@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 04.04.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 07.04.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
@@ -176,6 +176,8 @@ http://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 http://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
 #EXTINF:-1, Euronews
 http://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Euronews
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Euronews Português
 https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x2j7lv2&f=.m3u8
 #EXTINF:-1, Bloomberg
@@ -296,7 +298,7 @@ http://181.15.110.6/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4.m3u8
 #EXTINF:-1, Noticias Paraguay
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
 #EXTINF:-1, Franceinfo
-https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x4rdeu6&f=.m3u8
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/franceinfo-14390660/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/LCI_-_Logo_%28Ao%C3%BBt_2017%29.png", LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png", LN24
@@ -534,6 +536,10 @@ http://136.243.177.164/DIEMASPORT2/playlist.m3u8
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/263iWYY.png", Meridiano Television
 http://170.79.233.222:8500/play/a0h3/index.m3u8
+#EXTINF:-1, Movistar Futbol
+http://31.220.41.88:8081/live/es-movistar-futbol.stream/playlist.m3u8
+#EXTINF:-1, Movistar La Liga
+http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEVfAjy.jpg", Shopping
  
@@ -2874,15 +2880,9 @@ https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/master_4000000.m3u8
 #EXTINF:-1, TF1 Series Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/master_4000000.m3u8
 #EXTINF:-1, France 2
-http://51.15.3.161:8080/france2/index.m3u8?token=test
-#EXTINF:-1, France 2
-http://178.132.2.14/FRANCE2HD/mpegts
-#EXTINF:-1, France 2
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/06.m3u8 
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 #EXTINF:-1, France 3
-http://51.15.3.161:8080/france3/index.m3u8?token=test
-#EXTINF:-1, France 3
-http://178.132.2.14/FRANCE3HD/mpegts
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france3live-12472/hls/index.m3u8
 #EXTINF:-1, France 4
 http://51.15.3.161:8080/france4/index.m3u8?token=test
 #EXTINF:-1, France 4
