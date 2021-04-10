@@ -964,11 +964,11 @@ http://cdn2.interlibre.net/hls/468/index.m3u8
 #EXTINF:-1, Antena 3 
 http://91.126.141.13:1935/live/11/playlist.m3u8
 #EXTINF:-1, Cuatro
-http://forocable.webcindario.com/mitele.php?ch=cuatro&amp;f=.m3u8?
+http://forocable2.webcindario.com/mitele.php?ch=cuatro&amp;f=.m3u8?
 #EXTINF:-1, Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8 
 #EXTINF:-1, Telecinco
-http://forocable.webcindario.com/mitele.php?ch=telecinco&amp;f=.m3u8?
+http://forocable2.webcindario.com/mitele.php?ch=telecinco&amp;f=.m3u8?
 #EXTINF:-1, Telecinco
 http://cdn2.interlibre.net/hls/190/index.m3u8
 #EXTINF:-1, La Sexta
@@ -1026,25 +1026,25 @@ http://cdn2.interlibre.net/hls/154/index.m3u8
 #EXTINF:-1, Mega
 http://cdn2.interlibre.net/hls/155/index.m3u8
 #EXTINF:-1, FDF
-http://forocable.webcindario.com/mitele.php?ch=fdf&amp;f=.m3u8?
+http://forocable2.webcindario.com/mitele.php?ch=fdf&amp;f=.m3u8?
 #EXTINF:-1, FDF
 http://91.126.141.201:1935/live/fdf/playlist.m3u8
 #EXTINF:-1, FDF
 http://cdn2.interlibre.net/hls/188/index.m3u8
 #EXTINF:-1, Energy
-http://forocable.webcindario.com/mitele.php?ch=energy&amp;f=.m3u8?
+http://forocable2.webcindario.com/mitele.php?ch=energy&amp;f=.m3u8?
 #EXTINF:-1, Energy
 http://91.126.138.142:1935/live/smil:energy-Stream.smil/playlist.m3u8
 #EXTINF:-1, Be Mad
-http://forocable.webcindario.com/mitele.php?ch=bemad&amp;f=.m3u8?
+http://forocable2.webcindario.com/mitele.php?ch=bemad&amp;f=.m3u8?
 #EXTINF:-1, Be Mad
 http://91.126.138.140:1935/live/bemad/playlist.m3u8
 #EXTINF:-1, Boing
-http://forocable.webcindario.com/mitele.php?ch=boing&amp;f=.m3u8?
+http://forocable2.webcindario.com/mitele.php?ch=boing&amp;f=.m3u8?
 #EXTINF:-1, Boing
 http://cdn2.interlibre.net/hls/193/index.m3u8
 #EXTINF:-1, Divinity
-http://forocable.webcindario.com/mitele.php?ch=divinity&amp;f=.m3u8?
+http://forocable2.webcindario.com/mitele.php?ch=divinity&amp;f=.m3u8?
 #EXTINF:-1, Divinity
 http://cdn2.interlibre.net/hls/189/index.m3u8
 #EXTINF:-1, DMax
@@ -1538,25 +1538,7 @@ http://api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Mexico-Flag-icon.png", México
 https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg
 #EXTINF:-1, Azteca Uno
-https://blackghost.live/play/wistream-330.php?cat=latinos&ch=azteca&k=black-ghost&f=.m3u8
-#EXTINF:-1, Azteca Uno
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
-#EXTINF:-1, Azteca Uno
-http://contentheinentv.ddns.net/Contenido/xtreamcodes/iptv_xtream_codes/streams/5333_.m3u8
-#EXTINF:-1, Azteca Uno
-https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
-#EXTINF:-1, Azteca Uno
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/12?f=.m3u8
-#EXTINF:-1, Azteca Uno
-http://208.88.246.11:2095/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1, Las Estrellas
-https://blackghost.live/play/wistream-330.php?cat=latinos&ch=canalestrellas&k=black-ghost&f=.m3u8
-#EXTINF:-1, Las Estrellas
-http://contentheinentv.ddns.net/Contenido/xtreamcodes/iptv_xtream_codes/streams/5331_.m3u8
-#EXTINF:-1, Las Estrellas
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/191/12?f=.m3u8
-#EXTINF:-1, Las Estrellas
-http://187.188.147.165:8000/play/a01g
 #EXTINF:-1, Las Estrellas
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
 #EXTINF:-1, Las Estrellas
