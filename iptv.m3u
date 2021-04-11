@@ -710,6 +710,8 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 https://video01.kshost.com.br/fundacao6272/fundacao6272/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7MEjvg.png", TV Thathi
 https://thathi.akamaized.net/edge-en/ngrp:live_d4f1bcf0e51f11e984d8672fa9a5f10a_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUQtx1J.png", TV Rio Preto
+http://186.227.165.118:8081/live/livestream/playlist.m3u8
 #EXTINF:-1, TV RP
 https://5b7f3c45ab7c2.streamlock.net/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1a84cc19a0726828478ab6bfd33ea08c.png", TV Altiora
