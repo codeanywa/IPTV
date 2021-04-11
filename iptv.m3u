@@ -731,7 +731,9 @@ https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MFqouZD.png", TV Cultura do Pará - TV Cultura
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/master.m3u8
 #EXTINF:-1 tvg-logo="https://catve.com/portal/img/catve_hd_branca2.png", CATVE
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://catve.com/portal/img/catve_hd_branca2.png", CATVE 2
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 #EXTINF:-1, Master TV
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:-1, TV Futuro - TV Cultura
