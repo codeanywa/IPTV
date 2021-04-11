@@ -752,6 +752,12 @@ https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist.m3u8
 https://nxplay-srv1.nxplay.com.br/TV_GAZETA/tracks-v1a1/mono.m3u8?sd=10&rebase=on 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeKwZOS.gif", TV Alternativa - Gazeta Maranhão
 https://stmv4.srvstm.com/wagner1168/wagner1168/playlist.m3u8?wowzasessionid=408470504
+#EXTINF:-1, WSN TV
+http://api.new.livestream.com/accounts/28829714/events/8868229.m3u8?
+#EXTINF:-1, WSN TV
+http://api.new.livestream.com/accounts/28829714/events/8868229.m3u8?token=6072fca6_819a5f6c63d8bba76e9d3852ac846d97b796fc0b
+#EXTINF:-1, WSN TV
+https://api.new.livestream.com/accounts/28829714/events/8868229/videos/219512010.secure.m3u8?token=6072fca6_24c759012f514258d3df7f1a3d7376284987a316
 #EXTINF:-1, Rede Super
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bd7faf92fdaec94b7a0b2ca5f5f362b1.png", RCI
