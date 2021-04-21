@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 17.04.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 21.04.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
@@ -1757,11 +1757,15 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1, TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/Playlist.m3u8
 #EXTINF:-1, Telefe
-http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/telefe_720.m3u8
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/20-hls/live-media.m3u8
 #EXTINF:-1, Telefe
 http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/telefe.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", El Nueve
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/fa7d9c49-2cb8-4da9-b6c1-214a26efdf1c/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5MDAzNTQ0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODYuMTU4LjU2LjExOSIsIjE3OS4wLjIzOC41OSIsIjE4Ni4xNDguODMuMjUzIiwiMjgwMDo4MTA6NDczOjllOTk6NzgyZjpkNzFmOmViNDE6N2EyNiJdfSwic2lnbmF0dXJlIjoiZmNmYjYwYjBhZjhkNTllYWQzOTUzZThiY2M3ZjJjNDAzMmM1OTM5NyJ9
 #EXTINF:-1, El Nueve
 http://45.170.40.2:8000/play/a007
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", El Trece
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8
 #EXTINF:-1, El Trece
 http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 #EXTINF:-1, El Trece
@@ -1786,6 +1790,8 @@ https://nd106.republicaservers.com:4433/canal2misiones.mp4
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-1, TEC TV
 https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
+#EXTINF:-1, TEC TV
+https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 #EXTINF:-1, Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:-1, Paka Paka
@@ -1992,8 +1998,9 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg", Sur TV
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
-#EXTINF:-1, Mi TV
-https://tigocloud.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=20d50a447f7cccb7fa6094795156e6901f2fd143e0676fb6a127994f429f42cf&exp=1602611739#EXTINF:-1 tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png", Red Chaqueña de Comunicaciones
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/GKj8jW44eq__taywN5N3m6B1KYuQ2bznKzsbcad-PtT2fh8W0D61iEvZyG2VeRP8nw", Mi TV Itapua
+https://tigocloud.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=20d50a447f7cccb7fa6094795156e6901f2fd143e0676fb6a127994f429f42cf&exp=1602611739
+#EXTINF:-1 tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png", Red Chaqueña de Comunicaciones
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 #EXTINF:-1, Intercable
 http://201.217.3.212/TV/intercable/playlist.m3u8
