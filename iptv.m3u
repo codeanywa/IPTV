@@ -780,8 +780,9 @@ https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/master.m3u8
+https://59f1cbe63db89.streamlock.net:1443/rbtv01/rbtv01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede Brasil
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/rbtv01/_definst_/rbtv01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede Brasil Amazonas - Rede Brasil
 https://5eaa6849d0971.streamlock.net/8098/8098/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3x76zeE.png", TV Marajoara - Rede Brasil
@@ -933,7 +934,7 @@ https://59f2354c05961.streamlock.net:1443/tvnovus/_definst_/tvnovus/playlist.m3u
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Angola-Flag-icon.png", Angola
 https://upload.wikimedia.org/wikipedia/en/d/d0/Angola%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band_%28March_1996_arrangement%29.ogg
 #EXTINF:-1 tvg-logo="http://haitiantvchannel.com/wp-content/uploads/2015/03/TPA-ANGOLA.jpg", TPA
-http://api.new.livestream.com/accounts/1181452/events/8865379/live.m3u8
+http://api.new.livestream.com/accounts/1181452/events/9496693/live.m3u8
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Cape-Verde-Flag-icon.png", Cabo Verde
 https://upload.wikimedia.org/wikipedia/commons/b/b6/C%C3%A2ntico_da_Liberdade_%28instrumental%29.ogg
