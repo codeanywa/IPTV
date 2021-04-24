@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 21.04.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 24.04.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
@@ -729,13 +729,15 @@ https://srv3.zcast.com.br/tvmaceio/tvmaceio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C6pRTQk.jpg", RDC TV
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TV_Nova_Nordeste.png", TV Nova Nordeste - Cultura
-https://live.comets.com.br/LiveApp/streams/689608265797795173392570.m3u8
+https://live.comets.com.br/tvnovanordeste/aovivo/chunklist_w345615428.m3u8
 #EXTINF:-1 tvg-logo="http://www.panorama.tv.br/images/Foto-Globo-Logo.png", TV Litoral Panorama - Cultura
 http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1f0mAFz.png", Rede Atividade - TV Brasil
 https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MFqouZD.png", TV Cultura do Pará - TV Cultura
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFqouZD.png", TV Cultura do Pará - TV Cultura
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
 #EXTINF:-1 tvg-logo="https://catve.com/portal/img/catve_hd_branca2.png", CATVE
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://catve.com/portal/img/catve_hd_branca2.png", CATVE 2
@@ -779,12 +781,9 @@ https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gwy8dnJ.png", Top TV Paraná
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede Brasil
-https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/master.m3u8
-https://59f1cbe63db89.streamlock.net:1443/rbtv01/rbtv01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede Brasil
-https://59f1cbe63db89.streamlock.net:1443/rbtv01/_definst_/rbtv01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede Brasil Amazonas - Rede Brasil
-https://5eaa6849d0971.streamlock.net/8098/8098/playlist.m3u8
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qWCXst5.png", SIC TV - Rede Brasil
+http://177.11.96.110:9080/hls/sictv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3x76zeE.png", TV Marajoara - Rede Brasil
 https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YMrxHCv.png", TV Brasil Oeste - Rede Brasil
