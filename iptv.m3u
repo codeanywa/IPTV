@@ -374,6 +374,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/300/12?f=.m3u8
 #EXTINF:-1, Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?sd=10&rebase=on
 #EXTINF:-1, Record News
+https://canal1.proxy.tokplay.com.br/videos/event8/auto.m3u8
+#EXTINF:-1, Record News
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
 #EXTINF:-1, Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
@@ -594,6 +596,8 @@ https://upload.wikimedia.org/wikipedia/commons/0/0d/Hino-Nacional-Brasil-instrum
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1, Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1, Globo
+https://canal1.proxy.tokplay.com.br/videos/event1/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRb8CaM.png", TV Santa Cruz
 http://177.20.208.58:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tkqCU8t.png", TV Sudoeste
@@ -623,6 +627,8 @@ https://5e36c064a2f6a.streamlock.net:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wpZMBm.png", TV Cidade Verde MT
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record
+https://canal1.proxy.tokplay.com.br/videos/event2/auto.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record DF
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
@@ -638,6 +644,8 @@ https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playli
 http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
 #EXTINF:-1, TV Cultura
 https://evpp.mm.uol.com.br/cultura1/cultura_720.sdp/playlist.m3u8
+#EXTINF:-1, TV Cultura
+https://canal1.proxy.tokplay.com.br/videos/event5/auto.m3u8
 #EXTINF:-1, UPF TV - TV Cultura
 https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FmNb_zE9kZs)r(fVR9ug)a(uxqALQ)p(d(2xc)k(q8U)m(d1KEYKFjt2nwEJ6fY5pTog)n(a(_jsc1Q)s(21I)'a(kmTiWQ)s(yAQ)))s(s(n7Q)b(9yyZrWYfDUcrcOoRd0kF9cPx6o5gsww6t35NuAun8ju4gzTkU3VGzcqDuKhdRpgUvDEKCb2cxZoxLIX3JA)'s(_HQ)b(ekN74TC2NQqsJWB4Vp1NtqWkdpB2brH5UVXQVSltCdhGvNhrq_6pGyk0fBuTeKb6sNWN5L7lHgRZSBdDA5mxPPfHF1NsZSg2e4bbr1E6)'s(KOA)b(QLg-X20X))m(0))/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YBuHNaj.png", TVE Cultura MS
@@ -650,6 +658,8 @@ https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x7txn7q&f=.m3u8
 https://origin-02.nxplay.com.br/IDEAL_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
+https://canal1.proxy.tokplay.com.br/videos/event3/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ytaP7P.png", RBA - Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhdEHgA.png", Rede 21
@@ -666,6 +676,8 @@ https://cdn.jmvstream.com/w/AVJ-9028/playlist/playlist.m3u8
 https://stmv1.srvstm.com/tvmetropole/tvmetropole/playlist.m3u8
 #EXTINF:-1, Rede TV!
 http://177.20.208.58:8000/play/a03x/index.m3u8
+#EXTINF:-1, Rede TV!
+https://canal1.proxy.tokplay.com.br/videos/event6/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TdeTg4F.png", TV Arapuan - Rede TV!
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZ5O9Dw.png", Rede TV! Tocantins
@@ -758,6 +770,8 @@ https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
 https://stmv3.samcast.com.br/hugo3090/hugo3090/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TV_Gazeta.svg", Rede Gazeta
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TV_Gazeta.svg", Rede Gazeta
+https://canal1.proxy.tokplay.com.br/videos/event4/auto.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TV_Gazeta.svg", TV Gazeta São Paulo
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TV_Gazeta.svg", Gazeta
@@ -820,6 +834,8 @@ https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 https://5e36c064a2f6a.streamlock.net:1936/8616/8616/playlist.m3u8
 #EXTINF:-1, Futura
 http://170.81.248.45:8000/play/a019/index.m3u8
+#EXTINF:-1, Futura
+https://canal1.proxy.tokplay.com.br/videos/event9/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vVAwXjv.png", TV O Povo - Futura
 https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1, Novo Tempo
