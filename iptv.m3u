@@ -904,7 +904,7 @@ https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/p
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Portugal-Flag-icon.png", Portugal
 https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
 #EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png", RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?pxt_rtp
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?token=1619496000_5c2e5a1f416018bfbcc3cdeabd9fa9738496989e
 #EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png", RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LzqmBLQ.png", RTP 2
