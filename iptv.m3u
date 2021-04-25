@@ -2277,7 +2277,7 @@ https://d34041nkkqfcnk.cloudfront.net/tcshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Guatemala-Flag-icon.png", Guatemala
 https://upload.wikimedia.org/wikipedia/en/a/a9/Guatemala%27s_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VaSEPs9.png", Guatevision
-http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5d6821172cdced7698d5a329/playlist.m3u8
 #EXTINF:-1, Azteca
 http://aztecalive-lh.akamaihd.net/i/0j674ifgl_1@500584/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6pIEhlL.png", Canal Antigua
