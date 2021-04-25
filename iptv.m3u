@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 24.04.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 25.04.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
@@ -2199,7 +2199,7 @@ https://upload.wikimedia.org/wikipedia/commons/b/b3/Honduras_National_Anthem.ogg
 #EXTINF:-1, Azteca Honduras
 http://190.122.96.187:8888/http/002
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RzgolVF.jpg", Canal 6
-https://ott.streann.com/loadbalancer/services/public/channels-secure/56bd45f5e4b0ba125fe8a866/playlist.m3u8
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ba026492cdc1a7124d02fb7/playlist.m3u8
 #EXTINF:-1, Sotel Canal 11
 http://181.189.225.36:9100/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJloOlK.png", Canal 5 El Lider
