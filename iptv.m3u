@@ -139,7 +139,7 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MjIMmPo.png", Negocios TV
 https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXUZTd6.png", 24h TVE
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXUZTd6.png", 24h TVE Canárias
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4vJyy9.png", The Weather Channel
@@ -970,6 +970,8 @@ https://upload.wikimedia.org/wikipedia/commons/c/c8/Marcha_Real-Royal_March_by_U
 #EXTINF:-1, La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1, La 1
+https://rtvelivestream.akamaized.net/la1_main_dvr_1080.m3u8
+#EXTINF:-1, La 1
 http://cdn2.interlibre.net/hls/464/index.m3u8
 #EXTINF:-1, La 1
 https://rtvelivestream.akamaized.net/la1.m3u8
@@ -977,6 +979,8 @@ https://rtvelivestream.akamaized.net/la1.m3u8
 https://rtvelivestream.akamaized.net/la2.m3u8
 #EXTINF:-1, La 2
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+#EXTINF:-1, La 2
+https://rtvelivestream.akamaized.net/la2_main_dvr_1080.m3u8
 #EXTINF:-1, La 2
 http://cdn2.interlibre.net/hls/468/index.m3u8
 #EXTINF:-1, Antena 3 
@@ -1762,7 +1766,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
 #EXTINF:-1, TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/Playlist.m3u8
-#EXTINF:-1, Telefe
+#EXTINF:-1, Telefe Internacional
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/20-hls/live-media.m3u8
 #EXTINF:-1, Telefe
 http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/telefe.playlist.m3u8
@@ -1770,7 +1774,7 @@ http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/telefe.playlist.m
 https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/fa7d9c49-2cb8-4da9-b6c1-214a26efdf1c/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5MDAzNTQ0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODYuMTU4LjU2LjExOSIsIjE3OS4wLjIzOC41OSIsIjE4Ni4xNDguODMuMjUzIiwiMjgwMDo4MTA6NDczOjllOTk6NzgyZjpkNzFmOmViNDE6N2EyNiJdfSwic2lnbmF0dXJlIjoiZmNmYjYwYjBhZjhkNTllYWQzOTUzZThiY2M3ZjJjNDAzMmM1OTM5NyJ9
 #EXTINF:-1, El Nueve
 http://45.170.40.2:8000/play/a007
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", El Trece
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", El Trece Internacional
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8
 #EXTINF:-1, El Trece
 http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
@@ -3839,5 +3843,9 @@ https://18a6ff4fa5424e6797030b139ca98e6c.mediatailor.us-west-2.amazonaws.com/v1/
 https://v2.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU", CM
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/axXipp8.png", Spotlight TV
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1, XITE DE
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w293276790_b3328000_slNLD.m3u8
+#EXTINF:-1, XITE NE
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w1841126747_b3328000_slNLD.m3u8
+#EXTINF:-1, XITE RU
+https://strm.yandex.ru/kal/1hd/ysign1=f3b3942f9d58789b8c8279fedc09877997cad88ba9b98ddb3b15cfe90ca62303,dar=169,pfx,res=480,sfx,ts=608618e6/index-v1-a1.m3u8?vsid=61vz77fx4kabdf8
