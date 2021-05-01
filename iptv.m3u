@@ -3871,3 +3871,5 @@ https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w293276790_b3328000_
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w1841126747_b3328000_slNLD.m3u8
 #EXTINF:-1, XITE RU
 https://strm.yandex.ru/kal/1hd/ysign1=f3b3942f9d58789b8c8279fedc09877997cad88ba9b98ddb3b15cfe90ca62303,dar=169,pfx,res=480,sfx,ts=608618e6/index-v1-a1.m3u8?vsid=61vz77fx4kabdf8
+#EXTINF:-1, XITE DE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
