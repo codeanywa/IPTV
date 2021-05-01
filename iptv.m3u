@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 25.04.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 01.05.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
@@ -666,8 +666,10 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 https://origin-02.nxplay.com.br/CANAL_21/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXZAwK6.png", TV WA
 https://origin-02.nxplay.com.br/PLAY_TV_NXPLAY/video.m3u8
-#EXTINF:-1, Rede América
-https://usher.ttvnw.net/api/channel/hls/redeamericaetelevisao.m3u8?allow_source=true&fast_bread=true&p=5893008&play_session_id=aea0ab3f456616e1668da4ad5a9f7c34&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=3176f9d55527eba99e4104e2556c80166aed72ce&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22redeamericaetelevisao%22%2C%22channel_id%22%3A547441861%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22W46NPANUURcKOoxhQDvI3vnzDD6WlETX%22%2C%22expires%22%3A1618146106%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Afalse%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22187.73.157.145%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.3.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yEquRBd.png", Kiss TV 33.2
+https://cast.cdnseguro.com:19360/8094/8094.m3u8
+#EXTINF:-1, TV da Cidade de São Paulo 52.1
+https://cast.cdnseguro.com:19360/8012/8012.m3u8
 #EXTINF:-1, Rede TVT
 https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x6ph7x7&f=.m3u8
 #EXTINF:-1, TV Balcão MG
@@ -861,7 +863,11 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Tvescolalogo2014.jpg", TV Escola
 https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FlE5tg4OVmY)r(fVR9ug)a(vQYUzQ)p(d(2xc)k(q8M)m(ZzE4hJZn9R-Ay3gWTdDEMA)n(a(KI5nwQ)s(5bI)'a(L7-Juw)s(s9A)))s(s(0S8)b(AXF7LsnWzzCqXL_A59oM603MtBmG8WRSqilYm0wIFl3kdEWMeG_SG97R8thW6q0LS--CT7ciCkUpFhuktQ)'s(LVU)b(JkAGUcvzdhfLEikAgnqNT0UIhHmKeqCAX_8dwCb1qgskWp_ftKkrdTfSdYO1lGBts0shM4LL1O6uGs3RcDkSxT3ZiewD6mhcHoGn9p09)'s(kBY)b(hS0iCvvv))m(0))/tvescola_index.m3u8
 #EXTINF:-1 tvg-logo="https://sba1.com/img/canais/canaldoboi.jpg", Canal do Boi
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/537752524217285392219396.m3u8
+#EXTINF:-1 tvg-logo="https://sba1.com/img/canais/canaldoboi.jpg", Canal do Boi
 https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png", Agro Canal
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/798304914679493065280297.m3u8
 #EXTINF:-1 tvg-logo="http://www.flixtv.com.br/player/agromixtv/player.jpg", Agro Brasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png", Terra Viva
