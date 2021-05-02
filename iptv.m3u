@@ -2,18 +2,10 @@
 #EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 02.05.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
-http://status.tehw00t.net/miniProxy.php/https://bal.locastnet.org/proxy/bal/master/5WLK5nUnscuPlIeA3yHzc6NPAMgl8KB0DSSfZ5v9s0m3yUDDUa0BmniXl8EMwJwxXgcaLKSybIGGRyIqzJCbtPkTgExiZAs0W5uSwApmF9cQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste 3
-https://vkvsd67.mycdn.me/dash/stream_1052309195449/stream.manifest/sig/R1_2Z_mTmRI/expires/1610891685852/srcIp/187.73.157.145/clientType/13/srcAg/GECKO/mid/2834706082745/stream-medium.hdr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
-https://livestream.com/accounts/26891487/events/8338037
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png", Pluto TV Guide
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/553838c8c0b860c11a631f3a/featuredImage.jpg", Pluto TV 4K
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png", Pluto TV Series
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png", Pluto TV Series Retro
@@ -62,10 +54,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true", MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8?hdnts=st=1589671397~exp=1589757797~acl=/i/*~hmac=6970274b30b054c8a768be4c559a5ca306dedff5e317f58c6ac582de252a4b29&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true",K2
-https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1589671603~exp=1589758003~acl=/i/*~hmac=c7b17960467e4f7cde6f0ccc3430265a9f41ac5c112c609e2bfa6cdbe6dc08de&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true",Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8?hdnts=st=1589671629~exp=1589758029~acl=/i/*~hmac=d9c1bd58626851e83d2951ffada2fd18511d8d205621183583a9c9aadcc5cc53&mux_audio=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true",Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8?hdnts=st=1589671655~exp=1589758055~acl=/i/*~hmac=38f487242f4664f2546cad64e395f8ad9fe79a46fbf216e309b35b4eb93720bd&mux_audio=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true",Real Time
@@ -74,30 +62,20 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=15896717
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8?hdnts=st=1589671774~exp=1589758174~acl=/i/*~hmac=29c9bfdffe78b980782305038aa3dcb39aeae0fa7646d0a5a3ba690859928db3&mux_audio=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true",Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?hdnts=st=1589671793~exp=1589758193~acl=/i/*~hmac=64f4d865b9e99fbd79b8a24a4a49d12d87c0550a131c39cc206bc22ad1ffae39&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true",Frisbee
-https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8?hdnts=st=1589671810~exp=1589758210~acl=/i/*~hmac=942cbb65aa72d72ad9b53d33efe3ca0fddccfc1fd395dec0191e3b37e0c83443&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true",HGTV
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MediaSet-Play_250x250.png?raw=true", Focus 
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MediaSet-Play_250x250.png?raw=true", Top crime
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LT)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg", Tastemade en Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NAFhzA.png", Love Nature
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NAFhzA.png", Love Nature
-http://177.20.208.58:8000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NAFhzA.png", Love Nature
-https://origin-02.nxplay.com.br/LOVENATURE_NX/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Sansung Wild Life
-https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
 #EXTINF:-1, Saber Más
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMvMf72.png", Telemundo Internacional
 https://vp01-telemundosd.delivery.fuugo.com/ngrp:vp01-Telemundo_SD-147c97bb_all/playlist.m3u8
 #EXTINF:-1, Travel XP
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Travel XP
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Travel XP
+https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Planet Knowledge
 https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png", Smithsonian
@@ -623,7 +601,7 @@ http://difusorama.zoeweb.tv:1935/z438-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xi0HfHF.png", TV Difusora Sul - SBT
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmvyxQh.png", TV Serra Dourada - SBT
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-720p.m3u8
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WHjzxhm.png", TV Jornal - SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WHjzxhm.png", TV Jornal Caruaru- SBT
