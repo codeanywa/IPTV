@@ -552,6 +552,8 @@ https://b.pscdn.live/hls/bein-sports-2.m3u8
 https://b.pscdn.live/hls/bein-sports-3.m3u8
 #EXTINF:-1, Bein Sports 4
 https://b.pscdn.live/hls/bein-sports-4.m3u8
+#EXTINF:-1, Sky Sports F1
+http://5.147.3.82:8000/play/a076/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEVfAjy.jpg", Shopping
  
