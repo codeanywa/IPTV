@@ -79,15 +79,13 @@ https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Planet Knowledge
 https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png", Smithsonian
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png", Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aw0sPst.png", News
 #EXTINF:-1, Hechos Ecuador
 http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1, Aljazeera
-https://live-hls-web-aje.aj.net/AJE/index.m3u8
+https://live-hls-aje-ak.getaj.net/AJE/index.m3u8
 #EXTINF:-1, Aljazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1, Al Arabiya
