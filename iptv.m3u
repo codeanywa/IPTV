@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 01.05.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 02.05.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste1
@@ -544,10 +544,14 @@ http://170.79.233.222:8500/play/a0h3/index.m3u8
 http://31.220.41.88:8081/live/es-movistar-futbol.stream/playlist.m3u8
 #EXTINF:-1, Movistar La Liga
 http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
-#EXTINF:-1, Olympic Channel
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/624
-#EXTINF:-1, Formula 1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+#EXTINF:-1, Bein Sports 1
+https://b.pscdn.live/hls/bein-sports-1.m3u8
+#EXTINF:-1, Bein Sports 2
+https://b.pscdn.live/hls/bein-sports-2.m3u8
+#EXTINF:-1, Bein Sports 3
+https://b.pscdn.live/hls/bein-sports-3.m3u8
+#EXTINF:-1, Bein Sports 4
+https://b.pscdn.live/hls/bein-sports-4.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEVfAjy.jpg", Shopping
  
@@ -1796,6 +1800,8 @@ http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/telefe.playlist.m
 https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/fa7d9c49-2cb8-4da9-b6c1-214a26efdf1c/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5MDAzNTQ0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODYuMTU4LjU2LjExOSIsIjE3OS4wLjIzOC41OSIsIjE4Ni4xNDguODMuMjUzIiwiMjgwMDo4MTA6NDczOjllOTk6NzgyZjpkNzFmOmViNDE6N2EyNiJdfSwic2lnbmF0dXJlIjoiZmNmYjYwYjBhZjhkNTllYWQzOTUzZThiY2M3ZjJjNDAzMmM1OTM5NyJ9
 #EXTINF:-1, El Nueve
 http://45.170.40.2:8000/play/a007
+#EXTINF:-1, El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", El Trece Internacional
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8
 #EXTINF:-1, El Trece
