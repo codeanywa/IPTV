@@ -628,6 +628,8 @@ http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
 https://evpp.mm.uol.com.br/cultura1/cultura_720.sdp/playlist.m3u8
 #EXTINF:-1, TV Cultura
 https://canal1.proxy.tokplay.com.br/videos/event5/auto.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7YlFBb.png", TV Brasil Central
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
 #EXTINF:-1, UPF TV - TV Cultura
 https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FmNb_zE9kZs)r(fVR9ug)a(uxqALQ)p(d(2xc)k(q8U)m(d1KEYKFjt2nwEJ6fY5pTog)n(a(_jsc1Q)s(21I)'a(kmTiWQ)s(yAQ)))s(s(n7Q)b(9yyZrWYfDUcrcOoRd0kF9cPx6o5gsww6t35NuAun8ju4gzTkU3VGzcqDuKhdRpgUvDEKCb2cxZoxLIX3JA)'s(_HQ)b(ekN74TC2NQqsJWB4Vp1NtqWkdpB2brH5UVXQVSltCdhGvNhrq_6pGyk0fBuTeKb6sNWN5L7lHgRZSBdDA5mxPPfHF1NsZSg2e4bbr1E6)'s(KOA)b(QLg-X20X))m(0))/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YBuHNaj.png", TVE Cultura MS
@@ -786,7 +788,7 @@ https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 https://livefocamundo.com:8081/tvdiariomacapa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a49c0b589b2e88a6309229910204bbb.png", SIC TV - Rede Brasil
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a49c0b589b2e88a6309229910204bbb.png", RSCTV - Rede Brasil
 http://177.11.96.110:9080/hls/sictv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3x76zeE.png", TV Marajoara - Rede Brasil
 https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
