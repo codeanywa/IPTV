@@ -4,20 +4,6 @@
 https://www.youtube.com/embed/RITTVOficial/live
 #EXTINF:-1, RIT 4
 https://www.youtube.com/embed/RITTVOficial/live&f=.m3u8
-#EXTINF:-1, iTV 3
-https://fra10.tvmucho.com/flslive/itv3/tracks-v2a1/2021/05/08/14/41/41-06000.ts?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
-#EXTINF:-1, BBC One
-https://fra10.tvmucho.com/flslive/bbc-one-hd/tracks-v3a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
-#EXTINF:-1, BBC Two
-https://fra10.tvmucho.com/flslive/bbc-two-hd/tracks-v1a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
-#EXTINF:-1, CBEEBIES
-https://fra10.tvmucho.com/flslive/cbeebies-hd/tracks-v3a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
-#EXTINF:-1, BBC Four
-https://fra10.tvmucho.com/flslive/bbc-four-hd/tracks-v2a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
-#EXTINF:-1, Channel 4
-https://fra10.tvmucho.com/flslive/ch4-hd/tracks-v1a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
-#EXTINF:-1, Channel 5
-https://fra10.tvmucho.com/flslive/channel-5-hd/tracks-v3a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -620,8 +606,14 @@ http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N74rBUQ.png", TV Difusora - SBT
 http://difusorama.zoeweb.tv:1935/z438-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N74rBUQ.png", TV Difusora - SBT
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N74rBUQ.png", TV Difusora - SBT
+https://diulq15o39.zoeweb.tv/z438-live/stream/chunklist_w684997800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xi0HfHF.png", TV Difusora Sul - SBT
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xi0HfHF.png", TV Difusora Sul - SBT
+https://diulq15o39.zoeweb.tv/z437-live/stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmvyxQh.png", TV Serra Dourada - SBT
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WHjzxhm.png", TV Jornal - SBT
@@ -664,6 +656,10 @@ http://200.189.113.201/hls/tve.m3u8
 https://5c483b9d1019c.streamlock.net/8238/8238/playlist.m3u8
 #EXTINF:-1, TV Diário
 https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x7txn7q&f=.m3u8
+#EXTINF:-1, TV Diário
+https://dai.ly/x7txn7q
+#EXTINF:-1, TV Diário
+https://dai.ly/x7txn7q&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
 https://origin-02.nxplay.com.br/IDEAL_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
@@ -859,9 +855,11 @@ https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0uIilxL.png", TV Evangelizar
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 #EXTINF:-1, Canção Nova
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/chunklist_w1781839972.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Logo_rede_aparecida_comunicacao.png", Rede Aparecida
 https://origin-02.nxplay.com.br/TV_APARECIDA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Logo_rede_aparecida_comunicacao.png", Rede Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Sn8I7b.png", PUC TV - Rede Aparecida
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", Rede Vida
