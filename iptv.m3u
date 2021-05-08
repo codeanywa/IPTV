@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 08.05.2021
-#EXTINF:-1, RIT 3
-https://www.youtube.com/embed/RITTVOficial/live
-#EXTINF:-1, RIT 4
-https://www.youtube.com/embed/RITTVOficial/live&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -1650,7 +1646,7 @@ http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1, Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1, Canal 22
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/201/12?f=.m3u8
+https://5fe2654d6127d.streamlock.net/canal22/videocanal22/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", Multimedios Ciudad de Mexico
 http://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", Multimedios
@@ -2495,8 +2491,6 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1, Bolivia TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1, Bolivia TV
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1, Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 #EXTINF:-1, Unitel
@@ -2607,11 +2601,11 @@ https://upload.wikimedia.org/wikipedia/commons/2/2b/United_States_Navy_Band_-_Na
 http://chromecast.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Canal4_URU.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal10_Logo_Actual.jpg", Canal 10 Uruguay
 http://cdn.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/Canal10_URU.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal10_Logo_Actual.jpg/200px-Canal10_Logo_Actual.jpg", Saeta Canal 10
+https://edge-live14-hr.cvattv.com.ar:443/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU-audio_20000=144800-video=1480000.m3u8
 #EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2018/06/logo-latele-2016-2-1-3.png", TELEDOCE
-http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png", VTV
-http://ad.mysisli.com/live/vtvuru/tracks-v1a1/mono.m3u8
- 
+https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU-audio_20000=144800-video=1726000.m3u8
+
 EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Guyana-Flag-icon.png", Guiana
 https://upload.wikimedia.org/wikipedia/commons/8/85/National_Anthem_of_Guyana.ogg
 #EXTINF:-1, CNS 6
