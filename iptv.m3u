@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 08.05.2021
-#EXTINF:-1,Rede Meio Norte
+#EXTINF:-1, Las Estrellas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livestream.com
-https://playback2.akamaized.net/streams/3332377_9532430_lsifuqq375j0ny42lq9_1/exp=1613723777~acl=%2f*~data=hdntl~hmac=2dd95bc8048de1c3183e6635ec27634146e7ea93276ba90a93fa8177525054f4/media/3332377_9532430_lsifuqq375j0ny42lq9_1@446000pb.m3u8
+https://playback2.akamaized.net/streams/26891487_8338033_lsi9sqyrotkzpe6kgmj_1/master.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
