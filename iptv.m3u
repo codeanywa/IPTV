@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 08.05.2021
+#EXTINF:-1,Rede Meio Norte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livestream.com
+https://playback2.akamaized.net/streams/3332377_9532430_lsifuqq375j0ny42lq9_1/exp=1613723777~acl=%2f*~data=hdntl~hmac=2dd95bc8048de1c3183e6635ec27634146e7ea93276ba90a93fa8177525054f4/media/3332377_9532430_lsifuqq375j0ny42lq9_1@446000pb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -569,6 +573,8 @@ https://cdn1-europe.smartcast.tv/mediashop/mediashop1/playlist.m3u8
 https://youtube.com/embed/ZC0_rKob80I?autoplay=1&rel=0&showinfo=1&controls=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6ev3xC.png", Polishop
 http://187.120.222.12:8000/play/PolishopTV/index.m3u8
+#EXTINF:-1, 1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
 #EXTINF:-1, Mega TV
 https://www.youtube.com/embed/3Z-K958GtSY?controls=1&enablejsapi=1&rel=0&showinfo=0&autoplay=0&mute=0&modestbranding=1&embed_config=%7B%22autonavRelatedVideos%22%3Afalse%2C%22disableRelatedVideos%22%3Atrue%2C%22hideInfoBar%22%3Atrue%2C%22primaryThemeColor%22%3A%22%22%2C%22relatedChannels%22%3A%5B%5D%2C%22relatedVideos%22%3A%5B%5D%2C%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F1011235%2FSBT_Videos%2FEspeciais%2FSBT_Live%2Fvideo%22%2C%22cust_params%22%3A%22%22%2C%22ppid%22%3A%22%22%2C%22pp%22%3A%22%22%7D%2C%22disableAds%22%3Afalse%2C%22nonPersonalizedAd%22%3Afalse%7D%7D&origin=https%3A%2F%2Fwww.sbt.com.br&widgetid=1
  
