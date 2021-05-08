@@ -1,9 +1,23 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 08.05.2021
-#EXTINF:-1, Las Estrellas 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-#EXTVLCOPT:http-referrer=https://livestream.com
-http://api.new.livestream.com/accounts/26891487/events/8338033/live.m3u8
+#EXTINF:-1, iTV
+https://fra10.tvmucho.com/flslive/itv-one-hd/tracks-v3a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
+#EXTINF:-1, iTV 2
+https://fra10.tvmucho.com/flslive/itv2/tracks-v1a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
+#EXTINF:-1, iTV 3
+https://fra10.tvmucho.com/flslive/itv3/tracks-v2a1/2021/05/08/14/41/41-06000.ts?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
+#EXTINF:-1, BBC One
+https://fra10.tvmucho.com/flslive/bbc-one-hd/tracks-v3a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
+#EXTINF:-1, BBC Two
+https://fra10.tvmucho.com/flslive/bbc-two-hd/tracks-v1a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
+#EXTINF:-1, CBEEBIES
+https://fra10.tvmucho.com/flslive/cbeebies-hd/tracks-v3a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
+#EXTINF:-1, BBC Four
+https://fra10.tvmucho.com/flslive/bbc-four-hd/tracks-v2a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
+#EXTINF:-1, Channel 4
+https://fra10.tvmucho.com/flslive/ch4-hd/tracks-v1a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
+#EXTINF:-1, Channel 5
+https://fra10.tvmucho.com/flslive/channel-5-hd/tracks-v3a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -337,6 +351,8 @@ https://video-auth7.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 subtitles="000", CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, CNNi
+https://fra10.tvmucho.com/flslive/cnn-int-europe-hd/tracks-v2a1/mono.m3u8?token=eb93419e-e7b6-4452-bd80-a1901152a5e3
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png", Reuters Now
 https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/e4ac1198-a0dc-4d0b-a1bd-1cc26638d42c/7.m3u8
 #EXTINF:-1, Estrella News
