@@ -2032,6 +2032,8 @@ https://upload.wikimedia.org/wikipedia/commons/a/a6/Paraguayan_National_Anthem.o
 http://hidraplay.tv/live/Cubill/123457/43471.m3u8
 #EXTINF:-1 tvg-logo="https://www.abc.com.py/pf/resources/images/OG-Image-ABC-TV.png?d=507", ABC TV
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
+#EXTINF:-1 tvg-logo="https://www.abc.com.py/pf/resources/images/OG-Image-ABC-TV.png?d=507", ABC TV
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1-218x150.png", Paravision
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-video=3000000-audio_20000=144800.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/latele_m.jpg", La Tele
@@ -2323,7 +2325,7 @@ https://ott.streann.com/loadbalancer/services/public/channels-secure/5d6821172cd
 #EXTINF:-1, Azteca
 http://aztecalive-lh.akamaihd.net/i/0j674ifgl_1@500584/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6pIEhlL.png", Canal Antigua
-http://143.208.59.12:1935/CanalAntigua/myStream/chunklist.m3u8
+https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/plalist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jWea8Rk.png", Antigua Sports
 http://143.208.59.12:1935/AntiguaSports/myStream/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WL9VoIV.png", Canal Plus Guatemala
@@ -2420,7 +2422,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1, Senal Institucional
 https://live-edge-bhs-1.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/live-1500/index.m3u8
 #EXTINF:-1, Teleantioquia
-http://api.new.livestream.com/accounts/9427524/events/8459038/live.m3u8
+https://hdvideo2.cdn.net.co/live01/ta.m3u8
 #EXTINF:-1, Tele VID
 http://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8 
 #EXTINF:-1, Telecafé
@@ -2463,15 +2465,13 @@ http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:-1, UCSG TV
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.onesignal.com/t/f88b1c5c-a930-48b3-a779-06660dc6a572.png", TC
-https://wowzaprod260-i.akamaihd.net/hls/live/804701/98cfd23e/playlist.m3u8
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 #EXTINF:-1, Teleamazonas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1, Teleamazonas
 http://173.212.247.99/hls/tvec4.m3u8
 #EXTINF:-1, Oromar TV
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-#EXTINF:-1, TC
-https://5d4837686f698.streamlock.net/tctelevision/tctelevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8D1LrKO.png", Canela TV
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://centroecuador.ec/wp-content/uploads/2017/07/CENTRO-mueve-tu-vida-06.png", Centro Ecuador
