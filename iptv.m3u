@@ -1,9 +1,27 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 14.05.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 16.05.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
+#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:0,RTP Internacional (Backup)
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png", Pluto TV Guide
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png", Pluto TV Series
@@ -92,32 +110,22 @@ https://live-hls-aje-ak.getaj.net/AJE/index.m3u8
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1, Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.universfreebox.com/IMG/artoff34756.png", Africanews
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KkXq8sv.png", Jakarta Globe
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DXamgky.png", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png", CNN Filipinas
-http://54.251.134.121:1935/live/15273.sdp/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1200px-CNN_T%C3%BCrk_logo.svg.png", CNN Turk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKuV5VY.png", CNN News 18
-https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, Times Now
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 #EXTINF:-1, NDTV
 http://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8 
 #EXTINF:-1, India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1, CNBC India
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MjIMmPo.png", Negocios TV
 https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qXUZTd6.png", 24h TVE
-https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXUZTd6.png", 24h TVE Canárias
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4vJyy9.png", The Weather Channel
@@ -167,42 +175,26 @@ https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1, 3 News
 http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master.m3u8
 #EXTINF:-1, BBC World News
-http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
-#EXTINF:-1, BBC World News
-http://2.58.193.34:8080/streaming/clients_live.php?username=Dgb1jCxCwT&password=ZrDM7trF2l&stream=242493.&extension=m3u8&play_token=56SoZdwdP6&token=HkQLUxZRRl5BAwsHAAgBCwlQBAZSAlcOAgkKAFdSDlNdA1oHUFsGBgUTHhcQRUtXWV9oWlcVWQhbDgxQBU8UERYDEW0MXUZeQQQGAFIBDxAUEENaXlJBA1IMAFEDUAZTXVJPEBVQAEZZX0dZDx0bV0BGUkFdVg9mB1xPClAGFF4LEw9eSRsLCjxVV1gCX10QAhAGER8VCkoTGwMNRg9aSEcECkYXWBABQQtcQA9dFRBbXUJdR0UaG1kbfDARTxQBHRIGXBZQCwpBCxBBEBMVEFFBaEFWRBdLBlhUBkFBDEZVRE8QCFgcOwBeXFsGUk1bV1xEEQkVUhtPG1QMXQpCCxc5E1sBG14KFl1eSA==
-#EXTINF:-1, BBC World News
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1, BBC News
 http://51.52.156.22:8888/http/004
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png", BBC News Japan
-https://bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oFGPG9Y.png", BBC Arabic
-http://95.170.215.107/hls/m3u8/BBCArabic-Backup.m3u8
-#EXTINF:-1 tvg-logo="http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg", BBC Persian
-https://vs-dash-ww-live.bbcfmt.hs.llnwd.net/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/pc_hd_abr_v2_dash.mpd
 #EXTINF:-1, ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1, MSNBC
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596
-#EXTINF:-1, CBSN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1q3qEqF.png", CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1q3qEqF.png", CBSN
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1q3qEqF.png", CBSN Los Angeles
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
-#EXTINF:-1, CBSN Los Angeles
 https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1q3qEqF.png", CBSN New York
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-#EXTINF:-1, CBSN New York
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1q3qEqF.png", CBSN New York
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1q3qEqF.png", CBSN Boston
-https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
-#EXTINF:-1, CBSN Boston
 https://cbsn-bos-cedexis.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1q3qEqF.png", CBSN
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1, CBSN Bay Area
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1q3qEqF.png", CBSN Bay Area
 https://cbsn-sf-cedexis.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
-#EXTINF:-1, CBSN Minnesota
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1q3qEqF.png", CBSN Minnesota
 https://cbsn-min-cedexis.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
 #EXTINF:-1, RAI News
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
@@ -650,6 +642,8 @@ http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
 https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FmNb_zE9kZs)r(fVR9ug)a(uxqALQ)p(d(2xc)k(q8U)m(d1KEYKFjt2nwEJ6fY5pTog)n(a(_jsc1Q)s(21I)'a(kmTiWQ)s(yAQ)))s(s(n7Q)b(9yyZrWYfDUcrcOoRd0kF9cPx6o5gsww6t35NuAun8ju4gzTkU3VGzcqDuKhdRpgUvDEKCb2cxZoxLIX3JA)'s(_HQ)b(ekN74TC2NQqsJWB4Vp1NtqWkdpB2brH5UVXQVSltCdhGvNhrq_6pGyk0fBuTeKb6sNWN5L7lHgRZSBdDA5mxPPfHF1NsZSg2e4bbr1E6)'s(KOA)b(QLg-X20X))m(0))/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YBuHNaj.png", TVE Cultura MS
 https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/936282502616047616/IkMTa4c8_400x400.jpg", TV Universo - Cultura
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/a3DCqDqdap-tm4QxcZHv2AJMDhuCV41ISyHyGUxL6dyq9j_Atyg9Cvh2686jHPnu68tVMmyFk_R7cpbXk7ZH4g/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/playlist_16895834484809748651.m3u8?type=replay
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBuIEyp.jpg", TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/5b0b07_41d4255f96d04a7d9c03d69a1b44da68~mv2.png/v1/fill/w_210,h_217,al_c,q_85,usm_0.66_1.00_0.01/LOGOMARCA%20TV%20LIBERDADE_edited.webp", TV Liberdade
