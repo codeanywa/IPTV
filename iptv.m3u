@@ -276,7 +276,7 @@ http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/lntv.playlist.m3u
 #EXTINF:-1, LN
 https://www.youtube.com/watch?v=Lnsp9CFTIh4
 #EXTINF:-1, C9N
-http://181.15.110.6/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4.m3u8
+http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=3900000.m3u8
 #EXTINF:-1, Noticias Paraguay
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
 #EXTINF:-1, Franceinfo
@@ -829,7 +829,7 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c
 #EXTINF:-1, TV Brusque - Rede Brasil
 https://59f1cbe63db89.streamlock.net:1443/tvbrusque/_definst_/tvbrusque/playlist.m3u8
 #EXTINF:-1, TVC - Rede Brasil
-https://59f1cbe63db89.streamlock.net:1443/tvc21/_definst_/tvc21/playlist.m3u8
+https://video01.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1KDq7TC.png", TV Vitória PE - TV Evangelizar
 https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://portal.tvdopovo.com/wp-content/uploads/2019/02/tv1.png", TV do Povo - Meio Norte
