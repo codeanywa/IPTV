@@ -4,11 +4,11 @@
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="ARGENTINA", TN NOTICIAS1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png", TN NOTICIAS1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https:https://sv.tsnt2.xyz/cv.php
 https://cdn.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="ARGENTINA", C5N1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png", C5N1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https:https://sv.tsnt2.xyz/cv.php
 https://edge-live11-hr.cvattv.com.ar/live/live/C5N/SA_Live_dash_enc_2A/C5N.mpd
