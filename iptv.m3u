@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 19.05.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 28.05.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -463,10 +463,6 @@ https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8?sd=10&rebase=o
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8?sd=10&rebase=on
 #EXTINF:-1, ESPN Extra
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8?sd=10&rebase=on
-#EXTINF:-1, ESPN Deportes
-http://38.18.238.42:2095/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1, Fox Deportes
-http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png", Canal 11 
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 #EXTINF:-1, Claro Sports
@@ -667,9 +663,9 @@ https://dai.ly/x7txn7q
 #EXTINF:-1, TV Diário
 https://dai.ly/x7txn7q&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
-https://origin-02.nxplay.com.br/IDEAL_TV_HD/tracks-v1a1/mono.m3u8
+https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
-https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
 https://canal1.proxy.tokplay.com.br/videos/event3/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ytaP7P.png", RBA - Band
@@ -2403,6 +2399,8 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Colombia-Flag-icon.png", Colômbia
 https://upload.wikimedia.org/wikipedia/commons/5/55/United_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg
+#EXTINF:-1, Trece Colombia
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1, City TV
 http://190.122.96.187:8888/http/004
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C8xGQ7FXcAA3qcV.png", Caracol
