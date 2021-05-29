@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 28.05.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 29.05.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -1023,12 +1023,8 @@ http://91.126.141.13:1935/live/11/playlist.m3u8
 http://forocable2.webcindario.com/mitele.php?ch=cuatro&amp;f=.m3u8?
 #EXTINF:-1, Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8 
-#EXTINF:-1, Telecinco
-http://forocable2.webcindario.com/mitele.php?ch=telecinco&amp;f=.m3u8?
-#EXTINF:-1, Telecinco
-http://cdn2.interlibre.net/hls/190/index.m3u8
 #EXTINF:-1, La Sexta
-http://cdn2.interlibre.net/hls/151/index.m3u8
+http://91.126.141.13:1935/live/21/playlist.m3u8
 #EXTINF:-1, Hollywood
 http://84.120.59.138:8001/1:0:19:750C:420:1:C00000:0:0:0:
 #EXTINF:-1, El Toro TV
@@ -1039,22 +1035,12 @@ http://media.profesionalhosting.com:1935/8201/8201/chunklist_w1047512158.m3u8
 http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1060324053.m3u8
 #EXTINF:-1, PTV Granada
 https://streamer.zapitv.com/GRANADA/tracks-v2a1/mono.m3u8
-#EXTINF:-1, Telecrimen
-https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, Teledrama
-https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Rakuten
 http://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHPsFsf.png", Sony Canal Comedia
-https://219f175197464379a9c71feb7682f207.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalComedias/playlist.m3u8?ads.wurl_channel=510&ads.wurl_name=SonyCanalComedias&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=vX2gxiT5Q_vtARVYwbZa&ads.plex_id=5f5132e262fe160040f26c05&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.135+Safari%2F537.36+OPR%2F70.0.3728.189&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHPsFsf.png", Sony Canal Comedia
 https://sony-comedias-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHPsFsf.png", Sony Canal Competencias
-https://5ee6dc9413fb4a298356339ba8356ca3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalCompetencias/playlist.m3u8?ads.wurl_channel=509&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=vX2gxiT5Q_vtARVYwbZa&ads.plex_id=5f5132e362fe160040f26c0a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.135+Safari%2F537.36+OPR%2F70.0.3728.189&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHPsFsf.png", Sony Canal Competencias
 https://sony-competencias-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHPsFsf.png", Sony Canal Novelas
-https://c19ff234e2524151a46e0e13d0e3f3fa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas/playlist.m3u8?ads.wurl_channel=577&ads.wurl_name=SonyCanalNovelas&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=vX2gxiT5Q_vtARVYwbZa&ads.plex_id=5f5132e362fe160040f26c0f&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.135+Safari%2F537.36+OPR%2F70.0.3728.189&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xWSsZqj.png", Runtime Español
 https://ammo-espanol-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f5132e362fe160040f26c15
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tNvDq8c.png", Canela TV
@@ -1065,8 +1051,6 @@ https://sony-competencias-1.plex.wurl.com/manifest/playlist.m3u8
 https://sony-novelas-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RunTimeEspanol_120x120.png?raw=true", Runtime Español
 https://ammo-espanol-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DLdZ5OM.png", A3S
-http://cdn2.interlibre.net/hls/101/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vC8DyKv.png", A3Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RRdBdIw.jpg", ¡Hola! TV
@@ -1082,25 +1066,13 @@ http://cdn2.interlibre.net/hls/154/index.m3u8
 #EXTINF:-1, Mega
 http://cdn2.interlibre.net/hls/155/index.m3u8
 #EXTINF:-1, FDF
-http://forocable2.webcindario.com/mitele.php?ch=fdf&amp;f=.m3u8?
-#EXTINF:-1, FDF
 http://91.126.141.201:1935/live/fdf/playlist.m3u8
-#EXTINF:-1, FDF
-http://cdn2.interlibre.net/hls/188/index.m3u8
-#EXTINF:-1, Energy
-http://forocable2.webcindario.com/mitele.php?ch=energy&amp;f=.m3u8?
 #EXTINF:-1, Energy
 http://91.126.138.142:1935/live/smil:energy-Stream.smil/playlist.m3u8
 #EXTINF:-1, Be Mad
-http://forocable2.webcindario.com/mitele.php?ch=bemad&amp;f=.m3u8?
-#EXTINF:-1, Be Mad
 http://91.126.138.140:1935/live/bemad/playlist.m3u8
 #EXTINF:-1, Boing
-http://forocable2.webcindario.com/mitele.php?ch=boing&amp;f=.m3u8?
-#EXTINF:-1, Boing
 http://cdn2.interlibre.net/hls/193/index.m3u8
-#EXTINF:-1, Divinity
-http://forocable2.webcindario.com/mitele.php?ch=divinity&amp;f=.m3u8?
 #EXTINF:-1, Divinity
 http://cdn2.interlibre.net/hls/189/index.m3u8
 #EXTINF:-1, DMax
@@ -1117,8 +1089,6 @@ http://91.126.141.201:1935/live/cosmoHD.smil/playlist.m3u8
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/TEN", Ten
 http://91.126.141.201:1935/live/ten/index.m3u8
-#EXTINF:-1, Trece España
-http://cdn2.interlibre.net/hls/170/index.m3u8
 #EXTINF:-1, Trece España
 http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 #EXTINF:-1, ETB 1
@@ -1153,10 +1123,6 @@ http://events1-crtvg.flumotion.com/playlist.m3u8
 http://events2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chHorgF.png", Galicia TV Eventual 3
 http://events3-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/tvferrol/picture?width=320&height=320", TV Ferrol
-https://directo.tvferrol.es/tv.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200", Televigo
-http://95.216.150.122:1935/gcm4/gcm4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/491789551017784/picture?width=200&height=200", Hermes TV Vigo
 https://cdn01.yowi.tv/1H23S04G4M/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/747qLjC.png", Beteve
@@ -1282,6 +1248,8 @@ https://cdn008.teleuptv.net/JnVLClgyvD/playlist.m3u8
 http://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1, Food
 http://food.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1, Tastemade
+https://tastemadeintl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemadeinternational-brightcove/CDN/1920x1080_5055600/index.m3u8
 #EXTINF:1, Tastemade
 http://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1, Tastemade GB
