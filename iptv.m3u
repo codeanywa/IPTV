@@ -88,6 +88,8 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NAFhzA.png", Love Nature
 http://status.tehw00t.net/miniProxy.php/https://blueantmediausa-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Love_Nature_4K_190x190_circle.png?raw=true",Love Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1, Saber Más
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMvMf72.png", Telemundo Internacional
@@ -351,6 +353,10 @@ https://nxplay-srv1.nxplay.com.br/BAND_NEWS/index.m3u8
 https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w722149607.m3u8
 #EXTINF:-1, CNN en Español
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/300/12?f=.m3u8
+#EXTINF:-1, Euronews
+https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mv2-production-hub.s3.amazonaws.com/uploads/company/logo/menu_dc6a70712a252123c40d2adba6a11d84.png", Bloomberg Brasil
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Record News
 https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Record News
@@ -638,6 +644,18 @@ http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/seyJFq1.png", TV Conquista - Record
 http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
+#EXTINF:-1, InWonder
+https://inwonder-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1, Insight TV
+https://insight-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1, Tastemade
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1, MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1, Demand Africa
+https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+#EXTINF:-1, Runtime
+https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1, TV Cultura
 https://evpp.mm.uol.com.br/cultura1/cultura_720.sdp/playlist.m3u8
 #EXTINF:-1, TV Cultura
