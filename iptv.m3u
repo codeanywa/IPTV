@@ -4,14 +4,6 @@
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png", TN NOTICIAS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/dtv1_widevine.php
-https://cdn.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png", C5N
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https:https://tucumantvdigital.xyz/dtv1_widevine.php
-https://edge-live11-hr.cvattv.com.ar/live/live/C5N/SA_Live_dash_enc_2A/C5N.mpd
 #EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -88,6 +80,8 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=15896717
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8?hdnts=st=1589671774~exp=1589758174~acl=/i/*~hmac=29c9bfdffe78b980782305038aa3dcb39aeae0fa7646d0a5a3ba690859928db3&mux_audio=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true",Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?hdnts=st=1589671793~exp=1589758193~acl=/i/*~hmac=64f4d865b9e99fbd79b8a24a4a49d12d87c0550a131c39cc206bc22ad1ffae39&mux_audio=true
+#EXTINF:-1, Televisa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg", Tastemade en Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NAFhzA.png", Love Nature
