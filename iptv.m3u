@@ -216,6 +216,8 @@ http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1, Foro TV
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
+#EXTINF:-1 tvg-logo="https://mv2-production-hub.s3.amazonaws.com/uploads/company/logo/menu_dc6a70712a252123c40d2adba6a11d84.png", Bloomberg México
+https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Imagen Multicast
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/excelsior.playlist.m3u8
 #EXTINF:-1, Imagen Multicast
@@ -349,6 +351,8 @@ https://nxplay-srv1.nxplay.com.br/BAND_NEWS/index.m3u8
 https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w722149607.m3u8
 #EXTINF:-1, CNN en Español
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/300/12?f=.m3u8
+#EXTINF:-1, Record News
+https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?sd=10&rebase=on
 #EXTINF:-1, Record News
