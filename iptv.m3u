@@ -1249,6 +1249,8 @@ http://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1, Food
 http://food.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1, Tastemade
+https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:1, Tastemade
 https://tastemadeintl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemadeinternational-brightcove/CDN/1920x1080_5055600/index.m3u8
 #EXTINF:1, Tastemade
 http://tastemade.samsung.wurl.com/manifest/playlist.m3u8
