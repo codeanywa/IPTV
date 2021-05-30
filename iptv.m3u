@@ -1792,6 +1792,8 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/Playlist.m3u8
 #EXTINF:-1, Telefe Internacional
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/20-hls/live-media.m3u8
+#EXTINF:-1, Canal 7 Santiago del Estero
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
 #EXTINF:-1, Telefe
 http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/telefe.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", El Nueve
