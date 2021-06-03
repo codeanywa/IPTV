@@ -630,7 +630,7 @@ https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 https://canal1.proxy.tokplay.com.br/videos/event2/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record Distrito Federal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record Brasília
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record BA
  https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8 
