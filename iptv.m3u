@@ -344,7 +344,7 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, CNN Chile
 http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1, Globo News
-http://187.32.214.221:8003/play/a03h/index.m3u8
+http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_2359/playlist.m3u8
 #EXTINF:-1, Band News
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1, Band News
@@ -3853,3 +3853,5 @@ https://strm.yandex.ru/kal/1hd/ysign1=f3b3942f9d58789b8c8279fedc09877997cad88ba9
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png", VH1 Classics
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f910c0-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2ca9adf-1aa0-45dd-bb41-6a8fc0a3f5c9&userId=&serverSideAds=true
+#EXTINF:-1, VH1
+http://50.7.34.155:2200/BR/VH1_HD-br/tracks-v1a1/mono.m3u8
