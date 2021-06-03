@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 29.05.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 03.06.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -679,7 +679,11 @@ https://dai.ly/x7txn7q
 #EXTINF:-1, TV Diário
 https://dai.ly/x7txn7q&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
-https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987.m3u8
+https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
+https://google.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
+https://akamai.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
@@ -712,8 +716,10 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mc6SOi8.png", TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="https://i.imgur.com/JGrxDs5.png", TV Pantanal - RedeTV!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGrxDs5.png", TV Pantanal - RedeTV!
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4f563c177e1e58ba1c8b24528e0714f4.webp", TV Angelim - RedeTV!
+https://stmv1.srvstm.com/rommel6055/rommel6055/playlist.m3u8
 #EXTINF:-1, RBI
 https://skyfire.vimeocdn.com/1619287624-0xf2a2721b31e8f4cfba6029f448c8bf917e4ee2c2/e2450176-5865-45fe-ba43-e3abf23ec70e/parcel/live-archive/720p.mp4?range=173534-2028487
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT
