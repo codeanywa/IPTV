@@ -1766,6 +1766,8 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/20-hls/live-media.m3u8
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
 #EXTINF:-1, Telefe
 http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/telefe.playlist.m3u8
+#EXTINF:-1, Telesol - Telefe
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", El Nueve
 https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/fa7d9c49-2cb8-4da9-b6c1-214a26efdf1c/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5MDAzNTQ0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODYuMTU4LjU2LjExOSIsIjE3OS4wLjIzOC41OSIsIjE4Ni4xNDguODMuMjUzIiwiMjgwMDo4MTA6NDczOjllOTk6NzgyZjpkNzFmOmViNDE6N2EyNiJdfSwic2lnbmF0dXJlIjoiZmNmYjYwYjBhZjhkNTllYWQzOTUzZThiY2M3ZjJjNDAzMmM1OTM5NyJ9
 #EXTINF:-1, El Nueve
