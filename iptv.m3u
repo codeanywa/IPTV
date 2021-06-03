@@ -604,35 +604,33 @@ https://www.youtube.com/embed/ABVQXgr2LW4?controls=1&enablejsapi=1&rel=0&showinf
 https://5a1c76baf08c0.streamlock.net/sbtinterior/0gh8as9q0gkf7w0ij03rtulx041cwpn0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oJsGK5r.png", Rede Massa
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FLSEJFp.png", Bem TV - SBT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLSEJFp.png", Bem TV
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WX07l7V.png", TV Cidade Verde - SBT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WX07l7V.png", TV Cidade Verde
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N74rBUQ.png", TV Difusora - SBT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N74rBUQ.png", TV Difusora
 http://difusorama.zoeweb.tv:1935/z438-live/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N74rBUQ.png", TV Difusora - SBT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N74rBUQ.png", TV Difusora
 https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N74rBUQ.png", TV Difusora - SBT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N74rBUQ.png", TV Difusora
 https://diulq15o39.zoeweb.tv/z438-live/stream/chunklist_w684997800.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xi0HfHF.png", TV Difusora Sul - SBT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xi0HfHF.png", TV Difusora Sul
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xi0HfHF.png", TV Difusora Sul - SBT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xi0HfHF.png", TV Difusora Sul
 https://diulq15o39.zoeweb.tv/z437-live/stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmvyxQh.png", TV Serra Dourada - SBT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmvyxQh.png", TV Serra Dourada
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WHjzxhm.png", TV Jornal - SBT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHjzxhm.png", TV Jornal
 https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WHjzxhm.png", TV Jornal Caruaru- SBT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHjzxhm.png", TV Jornal Caruaru
 https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TSq3WMY.png", TV Guajara - SBT
-https://5e36c064a2f6a.streamlock.net:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1wpZMBm.png", TV Cidade Verde MT
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TSq3WMY.png", TV Guajara
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record
 https://canal1.proxy.tokplay.com.br/videos/event2/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record DF
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record Distrito Federal
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record BA
  https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8 
