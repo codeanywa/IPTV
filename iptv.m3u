@@ -740,7 +740,7 @@ https://22722d.ha.azioncdn.net:443/hls/STsEBCLIVE_720/index.m3u8
 https://video02.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?t=
 #EXTINF:-1 tvg-logo="http://www.tvplan.com.br/img/logo_tvplan.png", TV Plan - TV Brasil
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xR6mnRJ.png", TVE BA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xR6mnRJ.png", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1, TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
