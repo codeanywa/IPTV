@@ -4,6 +4,8 @@
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?token=1623038400_135468392824b13f665e4533ae312622f0a311a7
 #EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -855,7 +857,7 @@ https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png", Canal do Criador
 https://5fa18afd2e74c.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/SescTV_%282013%29.png", SescTV
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index.m3u8
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index71080p.m3u8
 #EXTINF:-1 tvg-logo="http://tvmar.tv.br/img/logo.png", TV Mar
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
 #EXTINF:-1, TV Mar Rio Grande
