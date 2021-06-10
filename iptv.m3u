@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 05.06.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 10.06.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -668,6 +668,8 @@ https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1, TV Diário
 https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb_4pDbWlG9srcGXK7ASTOSUx_cvS9kQlWQV9MPfC6YpqY4dxv7RzhS8zaGRsqADztA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMuGR4R.png", RBI
+https://live-ak.vimeocdn.com/exp=1623363604~acl=%2F5937c11f-3d7a-4ee2-b41a-ee7152272ec3%2F%2A~hmac=a3af2ec8511d68de3b90fbb2bceb0fd53db1e8c3576b47b4c94f44344cce6d80/5937c11f-3d7a-4ee2-b41a-ee7152272ec3/chunklist_b6256000.m3u8?max_segments=10
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
 https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
