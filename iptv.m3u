@@ -207,7 +207,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m
 #EXTINF:-1, TGCOM24
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
 #EXTINF:-1, Milenio Television
-https://www.youtube.com/watch?v=Wi0pEULGi5I
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHprPPD.png", Canal 44 México
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHprPPD.png", Canal 44 Chihuahua
@@ -1158,16 +1158,18 @@ http://status.tehw00t.net/miniProxy.php/https://cwseedlive.cwtv.com/ingest/playl
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 #EXTINF:1, MyNetwork Texas (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:1, iON
-http://c2.gunsnrose.club:8880/ice12m0702/20720860/59215
+#EXTINF:1, K38IZ-D
+https://v-px.mybtv.net/event/32/640x480.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1 subtitles="eng", iON Plus
 http://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 subtitles="eng", Get TV
-https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
-#EXTINF:-1 subtitles="eng", Grit
-https://bozztv.com/teleyupp/teleup-grit/playlist.m3u8
-#EXTINF:-1 subtitles="eng", Laff
-https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2MvTovK.png", Kofy TV
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kofy-dt1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2MvTovK.png", Kofy TV
+https://v-ca.mybtv.net/event/125/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
+#EXTINF:-1, KEJR - Azteca America
+https://v-px.mybtv.net/event/41/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NianAsR.png", KRCB - Create
+https://v-ca.mybtv.net/event/719/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1 subtitles="eng", Qubo
 http://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Mhz
@@ -1569,18 +1571,26 @@ https://blackghost.live/play/wistream-330.php?cat=latinos&ch=azteca7&k=black-gho
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GziXSha.png", Nu9ve
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GziXSha.png", Nu9ve
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/196/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png", XETW-TDT - Televisa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fJxVALh.png", XHUAA-TDT - Las Estrellas
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhuaa-tdt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrmloHU.png", XETV-TDT - Canal 5
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png", XEWT-TDT
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wEn9Nyq.png", XHTJB-TDT - Once
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtjb-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4ELZjo.png", XHJK - Azteca Uno
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LS1GpYa.png", XHTIT - Azteca 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/enZuhy9.png", XHAS - Azteca America
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
-#EXTINF:-1 tvg-logo="", XHCTTI - Imagen Television
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N3ZwfrR.png", XHCTTI - Imagen Television
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSoeHJ1.png", XHBJ - Multimedios
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HMPaG0I.png", XHDTV - Milenio Television
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 #EXTINF:-1, Heraldo Television
 https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x792196&f=.m3u8
 #EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/05/canal-once.jpg", Once TV
