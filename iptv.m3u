@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 10.06.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 12.06.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -383,8 +383,8 @@ http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9tXsTxp.png", Canais Internacionais
-#EXTINF:-1 tvg-logo="https://www.earthtvnet.com/wp-content/uploads/earthTV-white-branding.png", Earth TV
-https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/playlist.m3u8?token=EAIY6wE4pLPCM0CIHUgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.YE1oJeFxeQTEwNJF76wj-l8dC0iktjimlGyNABb-20lwLnLv2lDrV6AqWhi7v2K-xDVUwCAKNK39-Q8tz2Y1bQ&domain=www.earthtv.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWj3dQP.jpg", Brut.
+https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
 #EXTINF:-1, Earth TV
 https://www.youtube.com/watch?v=Wt5M-1LAKDQ
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png", El Gourmet
@@ -1571,6 +1571,16 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GziXSha.png", Nu9ve
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/196/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png", XETW-TDT - Televisa
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4ELZjo.png", XHJK - Azteca Uno
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LS1GpYa.png", XHTIT - Azteca 7
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/enZuhy9.png", XHAS - Azteca America
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
+#EXTINF:-1 tvg-logo="", XHCTTI - Imagen Television
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
 #EXTINF:-1, Heraldo Television
 https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x792196&f=.m3u8
 #EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/05/canal-once.jpg", Once TV
