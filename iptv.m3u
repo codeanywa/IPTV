@@ -244,6 +244,8 @@ http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/Globovision.playl
 https://www.youtube.com/embed/wHn1_QVoXGM
 #EXTINF:-1, TN
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/tn.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0xQEtfe.png", America Tucuman
+http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:-1, A24
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/a24.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", A24
@@ -1137,13 +1139,17 @@ http://194.158.80.31:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/USA-Flag-icon.png", EUA
 https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Spangled_Banner_instrumental.ogg
 #EXTINF:-1, ABC
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kgo-dt1.m3u8
 #EXTINF:-1, CBS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497
 #EXTINF:-1, CBS 57 Kentucky (WYMT)
 https://dai2-playlistserver.aws.syncbak.com/playlist/893557/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAwMDc1MDQsImlzcyI6IldMUyIsIm1kNSI6IjMyMjE4MzNhYzRiOTJkOTRiMDBjMDFjZjY5MDM2NmY1IiwibWlkIjoiODkzNTU3In0.arYOsp9fiM8UzYcTRIxI7GlDdA3RAgQUCX6JRb88wxQ
 #EXTINF:-1, NBC
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kntv-dt1.m3u8
+#EXTINF:-1, NBC
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/knsd-dt1.m3u8 
+#EXTINF:-1, NBC
+https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
 #EXTINF:-1, FOX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b67Gft0.png", WTGS FOX 28
@@ -1152,16 +1158,26 @@ https://dai2-playlistserver.aws.syncbak.com/playlist/893553/master.m3u8?access_t
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
 #EXTINF:-1, KTLA - The CW
 https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8
+#EXTINF:-1, iON
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kkpx-dt1.m3u8
+#EXTINF:-1 subtitles="eng", iON Plus
+http://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Cozi
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/knsd-dt2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/caaZ2Aq.png", The CW Seed
 http://status.tehw00t.net/miniProxy.php/https://cwseedlive.cwtv.com/ingest/playlist.m3u8
 #EXTINF:-1, My 9
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCu9kdt.jpg", 11 My TV - KOTR
+https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_hq4vlk40/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:1, MyNetwork Texas (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xw9mbhZ.png", KRON - My Network TV
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kron-dt1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wGw7ZhS.png", WPHL - My Network TV
+https://streams.the6tv.duckdns.org:2443/locals/Philadelphia/wphl-dt1.m3u8
 #EXTINF:1, K38IZ-D
 https://v-px.mybtv.net/event/32/640x480.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-#EXTINF:-1 subtitles="eng", iON Plus
-http://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2MvTovK.png", Kofy TV
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kofy-dt1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2MvTovK.png", Kofy TV
@@ -1181,31 +1197,11 @@ http://208.88.246.11:2095/eventox3/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9Wx
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true", Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1, Univisión
-http://38.18.238.42:2095/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 subtitles="spa", Univisión
-https://dai.google.com/ssai/event/pa2-p-dKTaCqDOi0eFyHXw/master.m3u8
-#EXTINF:-1, Univisión
-http://contentheinentv.ddns.net/Contenido/xtreamcodes/iptv_xtream_codes/streams/5238_.m3u8
-#EXTINF:-1, Univisión
-https://dai.google.com/ssai/event/Ro39zBR6R2CqZgos61n6LA/master.m3u8
-#EXTINF:-1, Univisión
-https://pubads.g.doubleclick.net/ssai/event/Ro39zBR6R2CqZgos61n6LA/master.m3u8
-#EXTINF:-1, Univisión
-https://dai.google.com/ssai/event/I-MZw2EuTHKSwZ9ZU2pd9Q/master.m3u8
-#EXTINF:-1, Univisión
-https://pubads.g.doubleclick.net/ssai/event/I-MZw2EuTHKSwZ9ZU2pd9Q/master.m3u8
-#EXTINF:-1, Univisión
-https://dai.google.com/ssai/event/Fiw4iaQ6RXu4iWOVh8eTZg/master.m3u8
-#EXTINF:-1, Univisión
-https://pubads.g.doubleclick.net/ssai/event/Fiw4iaQ6RXu4iWOVh8eTZg/master.m3u8
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
 #EXTINF:-1, Unimás
-https://dai.google.com/ssai/event/fQCAqHLkSPeYW0FmDm7aOQ/master.m3u8
-#EXTINF:-1, Unimás
-https://dai.google.com/ssai/event/D8RY01WsRv6SMK6X3AoWAg/master.m3u8
-#EXTINF:-1, Unimás
-https://pubads.g.doubleclick.net/ssai/event/fQCAqHLkSPeYW0FmDm7aOQ/master.m3u8
-#EXTINF:-1, Galavision
-https://dai.google.com/ssai/event/SIvlK2VmTsqL_hgyKeFIPg/master.m3u8
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
+#EXTINF:-1, Telexitos
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kuan-ld2.m3u8 
 #EXTINF:-1, Galavision
 https://pubads.g.doubleclick.net/ssai/event/SIvlK2VmTsqL_hgyKeFIPg/master.m3u8
 #EXTINF:-1, NBC Universo
@@ -1573,26 +1569,34 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fJxVALh.png", XHUAA-TDT - Las Estrellas
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhuaa-tdt.m3u8
+#EXTINF:-1, Foro TV
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhuaa-tdt2m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GrmloHU.png", XETV-TDT - Canal 5
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png", XEWT-TDT
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wEn9Nyq.png", XHTJB-TDT - Once
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtjb-tdt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/03bMqFX.png", XHTJB 2 - Once Niñas y Niños
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtjb-tdt2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4ELZjo.png", XHJK - Azteca Uno
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LS1GpYa.png", XHTIT - Azteca 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+#EXTINF:-1, A+
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/enZuhy9.png", XHAS - Azteca America
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N3ZwfrR.png", XHCTTI - Imagen Television
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N3ZwfrR.png", XHCTTI 2 - Imagen Multicast
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt2m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSoeHJ1.png", XHBJ - Multimedios
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HMPaG0I.png", XHDTV - Milenio Television
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
-#EXTINF:-1, Heraldo Television
-https://m3ukodi.com/servicios/dailymotion/dailymotion.php?x792196&f=.m3u8
+#EXTINF:-1, MVS TV
+https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 #EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/05/canal-once.jpg", Once TV
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/05/canal-once.jpg", Once TV Internacional
@@ -3695,7 +3699,7 @@ rtmp://3xhtut.live1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQKaYs7.jpg", Music
 #EXTINF:-1, Videorola
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1, MTV Live HD
 https://origin-02.nxplay.com.br/MTVNI_HD_NX/index.m3u8
 #EXTINF:-1, VH1
@@ -3715,13 +3719,9 @@ https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channe
 #EXTINF:-1, Alb Music
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1, MTV Biggest Pop
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
-#EXTINF:-1, MTV Yo!
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e150921e2191900097c4c23/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
-#EXTINF:-1, MTV Yo!teste
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e150921e2191900097c4c23/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=true&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1, MTV Block Party
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1, VH1
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1, Zapping Music
