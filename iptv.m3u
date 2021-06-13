@@ -129,15 +129,11 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1, Times Now
 https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 #EXTINF:-1, NDTV
-http://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8 
+https://pubads.g.doubleclick.net/ssai/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8
 #EXTINF:-1, India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MjIMmPo.png", Negocios TV
-https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qXUZTd6.png", 24h TVE Canárias
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4vJyy9.png", The Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HlkGhi9.png", Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HlkGhi9.png", Weather Nation
@@ -208,6 +204,10 @@ https://cbsn-min-cedexis.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1, TGCOM24
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MjIMmPo.png", Negocios TV
+https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qXUZTd6.png", 24h TVE Canárias
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
 #EXTINF:-1, Milenio Television
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHprPPD.png", Canal 44 México
