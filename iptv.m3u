@@ -4,8 +4,10 @@
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?token=1623038400_135468392824b13f665e4533ae312622f0a311a7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Doc
+https://ia801002.us.archive.org/9/items/johnkennedytresdisparosdecisivos2de3jfk3shotsthatchangedamerica/John%20Kennedy%20-%20Tr%C3%AAs%20Disparos%20Decisivos%20-%20%5B2%20de%203%5D%20-%20JFK%203%20Shots%20That%20Changed%20America.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Doc
+https://ia803005.us.archive.org/27/items/johnkennedytresdisparosdecisivos3de3jfk3shotsthatchangedamerica/John%20Kennedy%20-%20Tr%C3%AAs%20Disparos%20Decisivos%20-%20%5B3%20de%203%5D%20-%20JFK%203%20Shots%20That%20Changed%20America.mp4
 #EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
