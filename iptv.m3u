@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 12.06.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 13.06.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -238,6 +238,8 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/playlist.m3u8
+#EXTINF:-1, ATV+ Peru
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNjc2MDA1LCJzZXNzaW9uIjoiMTg3LjczLjE1Ny4xNDUiLCJ3aGl0ZWxpc3QiOlsiMTg3LjczLjE1Ny4xNDUiXX0sInNpZ25hdHVyZSI6ImUxMTMyYmQ0OWRhMTM4ZWRkZjM1MDY4NzdhOGI3Zjc5YjQ1ZTEyMmEifQ==
 #EXTINF:-1, Globovision
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/Globovision.playlist.m3u8
 #EXTINF:-1, TN
@@ -1565,36 +1567,10 @@ http://api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Mexico-Flag-icon.png", México
 https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg
-#EXTINF:-1, Azteca Uno
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
-#EXTINF:-1, Las Estrellas
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
-#EXTINF:-1, Las Estrellas
-https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
-#EXTINF:-1, Las Estrellas
-https://pubads.g.doubleclick.net/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
-#EXTINF:-1, Imagen Television
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
 #EXTINF:-1, Imagen Television
 http://201.168.205.12:8000/play/a0d5/index.m3u8
-#EXTINF:-1, Imagen Television
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/598/12?f=.m3u8
-#EXTINF:-1, Imagen Television
-http://contentheinentv.ddns.net/Contenido/xtreamcodes/iptv_xtream_codes/streams/10786_.m3u8
-#EXTINF:-1, Canal 5
-https://blackghost.live/play/wistream-330.php?cat=latinos&ch=canal5televisa&k=black-ghost&f=.m3u8
-#EXTINF:-1, Canal 5
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
-#EXTINF:-1, Canal 5
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/192/12?f=.m3u8
 #EXTINF:-1, Foro TV
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
-#EXTINF:-1, Azteca 7
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/194/12?f=.m3u8
-#EXTINF:-1, Azteca 7
-https://blackghost.live/play/wistream-330.php?cat=latinos&ch=azteca7&k=black-ghost&f=.m3u8
-#EXTINF:-1, Azteca 7
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GziXSha.png", Nu9ve
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fJxVALh.png", XHUAA-TDT - Las Estrellas
@@ -2122,13 +2098,13 @@ https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO56Hm59KdX9oPhbG2Xw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/juukQO4.png", Canal UCR
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://visionzn.com/images/canal21.png", Repretel 2
-http://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal2/smil:live.smil/playlist.m3u8
+https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNjc2NDAxLCJzZXNzaW9uIjoiMTQzLjIwMi4xNjIuNzgiLCJ3aGl0ZWxpc3QiOlsiMTQzLjIwMi4xNjIuNzgiXX0sInNpZ25hdHVyZSI6IjliNWY3MGVmOGI5Y2JjN2M4ZWQ5NjA0ZDZjYmNlZjNhNTkwY2U1MzkifQ==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/600px-Repretel_4_logo.png", Repretel 4
-https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNjc2MzQ0LCJzZXNzaW9uIjoiMTQzLjIwMi4xNjIuNzgiLCJ3aGl0ZWxpc3QiOlsiMTQzLjIwMi4xNjIuNzgiXX0sInNpZ25hdHVyZSI6ImQxNmRlZWMyYWEyZTg2NjU3NDk5ZjNkNjBjZTZkYjY4MWE4NTRiZWEifQ==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/1024px-Repretel_6_logo.png", Repretel 6
-https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNjc2MTk5LCJzZXNzaW9uIjoiMTQzLjIwMi4xNjIuNzgiLCJ3aGl0ZWxpc3QiOlsiMTQzLjIwMi4xNjIuNzgiXX0sInNpZ25hdHVyZSI6ImVlZWI2MjYyZDRhN2M2NTY3ZDJkYmE5OWMxNzEyMTE0ZDMxZWE5YzYifQ==
 #EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/1901843.jpg", Repretel 11
-http://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNjc2MTk5LCJzZXNzaW9uIjoiMTQzLjIwMi4xNjIuNzgiLCJ3aGl0ZWxpc3QiOlsiMTQzLjIwMi4xNjIuNzgiXX0sInNpZ25hdHVyZSI6ImVlZWI2MjYyZDRhN2M2NTY3ZDJkYmE5OWMxNzEyMTE0ZDMxZWE5YzYifQ==
 #EXTINF:-1 tvg-logo="http://teleredtelevision.com/images/logo.png", Telered 
 http://k4.usastreams.com/ARBtv/teleplus/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oKCe1fC.png", Telesur Costa Rica
