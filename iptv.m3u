@@ -215,18 +215,16 @@ http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IC46hyc.png", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RnQJ0Bc.png", Cronica TV
-https://g1.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/playlist.m3u8
-#EXTINF:-1, ATV+ Peru
-https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNjc2MDA1LCJzZXNzaW9uIjoiMTg3LjczLjE1Ny4xNDUiLCJ3aGl0ZWxpc3QiOlsiMTg3LjczLjE1Ny4xNDUiXX0sInNpZ25hdHVyZSI6ImUxMTMyYmQ0OWRhMTM4ZWRkZjM1MDY4NzdhOGI3Zjc5YjQ1ZTEyMmEifQ==
 #EXTINF:-1, Globovision
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/Globovision.playlist.m3u8
 #EXTINF:-1, TN
 https://www.youtube.com/embed/wHn1_QVoXGM
 #EXTINF:-1, TN
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/tn.playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0xQEtfe.png", America Tucuman
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0xQEtfe.png", America Tucumán
 http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:-1, A24
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/a24.playlist.m3u8
@@ -241,14 +239,12 @@ https://pubads.g.doubleclick.net/ssai/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/c5n.playlist.m3u8
 #EXTINF:-1, LN
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/lntv.playlist.m3u8
-#EXTINF:-1, LN
-https://www.youtube.com/watch?v=Lnsp9CFTIh4
 #EXTINF:-1, C9N
 http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=3900000.m3u8
 #EXTINF:-1, Noticias Paraguay
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
-#EXTINF:-1, Franceinfo
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/franceinfo-14390660/hls/index.m3u8
+#EXTINF:-1, Franceinfo1
+https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/LCI_-_Logo_%28Ao%C3%BBt_2017%29.png", LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png", LN24
