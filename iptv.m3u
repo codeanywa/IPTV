@@ -243,8 +243,10 @@ http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/lntv.playlist.m3u
 http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=3900000.m3u8
 #EXTINF:-1, Noticias Paraguay
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
-#EXTINF:-1, Franceinfo1
-https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
+#EXTINF:-1, Franceinfo
+https://www.youtube.com/watch?v=cKw79MI2ZLc
+#EXTINF:-1, Franceinfo
+https://simulcast.ftven.fr/ZXhwPTE2MjM2MjA5MTh+YWNsPSUyZip+aG1hYz1hNGRhNzQ3NGY1MjFmY2E5OTg5NjUzMDhiMjQ0MmY3YjBhYjE2NDcwMzZhMTZjZGIyMTY0MDRhYTZlY2Q0YzQ4/simulcast/France_Info/hls_monde_frinfo/France_Info-mp4a_98400_fra=20000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/LCI_-_Logo_%28Ao%C3%BBt_2017%29.png", LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png", LN24
