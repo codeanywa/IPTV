@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 14.06.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 19.06.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -208,6 +208,10 @@ https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/udgnot.png", Canal 44 Noticias
 https://stream.oursnetworktv.com/latin/encoder84/playlist.m3u8
+#EXTINF:-1, Teleformula
+https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1, Teleformula
+https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1, 324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IC46hyc.png", Canal 26
@@ -263,6 +267,8 @@ https://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 https://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8
 #EXTINF:-1, TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1, TRT World
+http://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oa9b877.png", Newsmax TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1, Telesur
@@ -362,7 +368,9 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1, VE Plus
 http://190.122.96.187:8888/http/006
 #EXTINF:-1, NHK World
-https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8 
+https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1, NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg", NHK 华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1, Cubavision Internacional
@@ -492,6 +500,8 @@ https://b.pscdn.live/hls/bein-sports-3.m3u8
 https://b.pscdn.live/hls/bein-sports-4.m3u8
 #EXTINF:-1, Sky Sports F1
 http://5.147.3.82:8000/play/a076/index.m3u8
+#EXTINF:-1, TDP
+http://prox.x86.co.uk/index.php/https://rtvelivestream.akamaized.net/tdp_main_dvr.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEVfAjy.jpg", Shopping
  
@@ -968,7 +978,7 @@ http://stream.tvtap.live:8081/live/es-la1.stream/playlist.m3u8
 #EXTINF:-1, La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1, La 1
-https://rtvelivestream.akamaized.net/la1_main_dvr_1080.m3u8
+http://prox.x86.co.uk/index.php/rtvelivestream.akamaized.net/la1_main_dvr.m3u8
 #EXTINF:-1, La 1
 http://cdn2.interlibre.net/hls/464/index.m3u8
 #EXTINF:-1, La 1
@@ -976,11 +986,11 @@ https://rtvelivestream.akamaized.net/la1.m3u8
 #EXTINF:-1, La 2
 http://stream.tvtap.live:8081/live/es-la2.stream/playlist.m3u8 
 #EXTINF:-1, La 2
-https://rtvelivestream.akamaized.net/la2.m3u8
+http://prox.x86.co.uk/index.php/rtvelivestream.akamaized.net/la2.m3u8
 #EXTINF:-1, La 2
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 #EXTINF:-1, La 2
-https://rtvelivestream.akamaized.net/la2_main_dvr_1080.m3u8
+http://prox.x86.co.uk/index.php/rtvelivestream.akamaized.net/la2_main_dvr.m3u8
 #EXTINF:-1, La 2
 http://cdn2.interlibre.net/hls/468/index.m3u8
 #EXTINF:-1, Antena 3 
