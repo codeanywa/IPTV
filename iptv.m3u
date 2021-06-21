@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 19.06.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 21.06.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -108,6 +108,8 @@ https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8
 https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png", Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmDtPwJ.png", Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aw0sPst.png", News
 #EXTINF:-1, Hechos Ecuador
