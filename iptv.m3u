@@ -1,31 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 21.06.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 24.06.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Doc
-https://ia801002.us.archive.org/9/items/johnkennedytresdisparosdecisivos2de3jfk3shotsthatchangedamerica/John%20Kennedy%20-%20Tr%C3%AAs%20Disparos%20Decisivos%20-%20%5B2%20de%203%5D%20-%20JFK%203%20Shots%20That%20Changed%20America.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Doc
-https://ia803005.us.archive.org/27/items/johnkennedytresdisparosdecisivos3de3jfk3shotsthatchangedamerica/John%20Kennedy%20-%20Tr%C3%AAs%20Disparos%20Decisivos%20-%20%5B3%20de%203%5D%20-%20JFK%203%20Shots%20That%20Changed%20America.mp4
-#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:0,RTP Internacional (Backup)
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:0,#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:0,#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png", Pluto TV Guide
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png", Pluto TV Series
@@ -513,7 +491,17 @@ https://b.pscdn.live/hls/bein-sports-4.m3u8
 http://5.147.3.82:8000/play/a076/index.m3u8
 #EXTINF:-1, TDP
 http://prox.x86.co.uk/index.php/https://rtvelivestream.akamaized.net/tdp_main_dvr.m3u8
- 
+#EXTINF:-1, SPORT TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1, SPORT TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1, SPORT TV 3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1, SPORT TV 4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1, SPORT TV 5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEVfAjy.jpg", Shopping
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC
@@ -1760,8 +1748,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 #EXTINF:-1, TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/Playlist.m3u8
-#EXTINF:-1, Canal 7 Santiago del Estero
-https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg", Canal 10 San Rafael - TV Publica
+https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 #EXTINF:-1, Telefe
 http://138.118.215.255:888/Live/7181fe1dc0224d123f75d1a872d5b7ed/telefe.playlist.m3u8
 #EXTINF:-1, Telesol - Telefe
