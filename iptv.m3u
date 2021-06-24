@@ -1003,7 +1003,9 @@ http://stream.tvtap.live:8081/live/es-antenna-3.stream/playlist.m3u8
 #EXTINF:-1, Antena 3 
 http://91.126.141.13:1935/live/11/playlist.m3u8
 #EXTINF:-1, Cuatro
-http://forocable2.webcindario.com/mitele.php?ch=cuatro&amp;f=.m3u8?
+https://live.mitele.es/hls/live/2004102/cuatro/bitrate_1.m3u8
+#EXTINF:-1, Telecinco
+https://live.mitele.es/hls/live/2004101/telecinco/bitrate_1.m3u8
 #EXTINF:-1, Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8 
 #EXTINF:-1, La Sexta
@@ -1050,14 +1052,18 @@ http://cdn2.interlibre.net/hls/154/index.m3u8
 http://stream.tvtap.live:8081/live/es-mega.stream/playlist.m3u8
 #EXTINF:-1, FDF
 http://91.126.141.201:1935/live/fdf/playlist.m3u8
+#EXTINF:-1, FDF
+https://live.mitele.es/hls/live/2005336/fdf/01.m3u8
+#EXTINF:-1, Energy
+https://live.mitele.es/hls/live/2005337/energy/bitrate_1.m3u8
 #EXTINF:-1, Energy
 http://91.126.138.142:1935/live/smil:energy-Stream.smil/playlist.m3u8
 #EXTINF:-1, Be Mad
 http://91.126.138.140:1935/live/bemad/playlist.m3u8
 #EXTINF:-1, Boing
-http://cdn2.interlibre.net/hls/193/index.m3u8
+https://live.mitele.es/hls/live/2005334/boing/01.m3u8
 #EXTINF:-1, Divinity
-http://cdn2.interlibre.net/hls/189/index.m3u8
+https://live.mitele.es/hls/live/2005335/divinity/01.m3u8
 #EXTINF:-1, DMax
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 #EXTINF:-1, DMax
