@@ -729,8 +729,8 @@ https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GYhYaZ2.png", TV UFG - TV Brasil
 http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c4e1b2a6-2a55-4f89-8001-1c1a5a97562f-profile_image-70x70.png", Rede América
-https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/redeamericaetelevisao
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c4e1b2a6-2a55-4f89-8001-1c1a5a97562f-profile_image-70x70.png", Rede América1
+https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/redeamericaetelevisao/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede Brasil
 https://video01.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a49c0b589b2e88a6309229910204bbb.png", RSCTV - Rede Brasil
