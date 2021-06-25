@@ -3802,3 +3802,5 @@ https://xite-samsung-de.amagi.tv/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f910c0-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2ca9adf-1aa0-45dd-bb41-6a8fc0a3f5c9&userId=&serverSideAds=true
 #EXTINF:-1, VH1
 http://50.7.34.155:2200/BR/VH1_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/I8c1wzx.png", Classic Hits
+http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8
