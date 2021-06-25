@@ -1522,12 +1522,20 @@ http://api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Mexico-Flag-icon.png", México
 https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg
+#EXTINF:-1, Azteca Uno
+http://201.168.205.12:8000/play/a0cc/index.m3u8
+#EXTINF:-1, Las Estrellas
+http://201.168.205.12:8000/play/a0d4/index.m3u8
 #EXTINF:-1, Imagen TV
 http://201.168.205.12:8000/play/a0d5/index.m3u8
 #EXTINF:-1, Imagen TV
 https://www.youtube.com/watch?v=MZR4B4DQgFo
 #EXTINF:-1, Foro TV
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
+#EXTINF:-1, Canal 5
+http://201.168.205.12:8000/play/a0fl/index.m3u8
+#EXTINF:-1, Azteca 7
+http://201.168.205.12:8000/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GziXSha.png", Nu9ve
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fJxVALh.png", XHUAA-TDT - Las Estrellas
