@@ -519,6 +519,8 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendti
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWD6kWX.png", Look Sport+
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mf5E7OI.png", Arryadia 3
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEVfAjy.jpg", Shopping
  
@@ -2387,12 +2389,12 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 https://upload.wikimedia.org/wikipedia/commons/6/6e/Anthem_of_Ecuador.ogg
 #EXTINF:-1, Ecuavisa
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
+#EXTINF:-1 tvg-logo="https://img.onesignal.com/t/f88b1c5c-a930-48b3-a779-06660dc6a572.png", TC
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 #EXTINF:-1, UCSG TV
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:-1, UCSG TV
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.onesignal.com/t/f88b1c5c-a930-48b3-a779-06660dc6a572.png", TC
-https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 #EXTINF:-1, Teleamazonas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1, Oromar TV
