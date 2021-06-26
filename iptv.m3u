@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 25.06.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 26.06.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -392,6 +392,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
 http://18.168.248.67/webdav/UHDSpain.mpd
 #EXTINF:-1, UHD Spain
 http://18.168.248.67/webdav/UHDSpain_SDR.mpd
+#EXTINF:-1, A3S
+https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XXxJf8.png", Sports
 #EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg", Tigo Sports
@@ -1002,6 +1004,8 @@ http://prox.x86.co.uk/index.php/rtvelivestream.akamaized.net/la1_main_dvr.m3u8
 http://stream.tvtap.live:8081/live/es-la2.stream/playlist.m3u8 
 #EXTINF:-1, La 2
 http://prox.x86.co.uk/index.php/rtvelivestream.akamaized.net/la2_main_dvr.m3u8
+#EXTINF:-1, Antena 3
+https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1, Antena 3 
 http://stream.tvtap.live:8081/live/es-antenna-3.stream/playlist.m3u8
 #EXTINF:-1, Antena 3 
@@ -2381,6 +2385,8 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Ecuador-Flag-icon.png", Equador
 https://upload.wikimedia.org/wikipedia/commons/6/6e/Anthem_of_Ecuador.ogg
+#EXTINF:-1, Ecuavisa
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
 #EXTINF:-1, UCSG TV
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:-1, UCSG TV
