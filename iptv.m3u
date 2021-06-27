@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 26.06.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 27.06.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -733,6 +733,8 @@ https://d1s664t39qub1o.cloudfront.net/live/cnt-belem.m3u8
 https://edge-sp-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(D1TEJc6YeGoHzvDtAjFuCw)n(a(DxioRnmXZXQYKOcq2k9k0lMsXHjdvyuE)s(mg0)'a(Qldt4E_WaLg9RxIp_d3nHOoG)s(Ip8)))s(t(Pn4)b(vDhniGwxnXsJkJFcdmu8iydlkppOxm1AcEyuHstXltWq0RU0Zo4P5RvzTxAkNBSnR2kdYNn1Exzv0vIbyc4QwaHqxoi_hmjwDPQesnR3vo5p_nsv2wdNlANBHQqgjEmNSKWolPMjLvr4hLxfax19MeTQ2Pt0jCuSnjfv3Zg)'t(U-c)b(VNgRbfXOpTxHFGQ4nc7nVAJTjhJMOn-_3Yo)))/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkUutYJ.png", TV Brasil 2
 https://22722d.ha.azioncdn.net:443/hls/STsEBCLIVE_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkUutYJ.png", TV Brasil 2
+http://tvbrasil-stream.ebc.com.br/STsEBCLIVE_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGKyAWT.png", Diário do Brasil TV Preve - TV Brasil
 https://video02.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?t=
 #EXTINF:-1 tvg-logo="http://www.tvplan.com.br/img/logo_tvplan.png", TV Plan - TV Brasil
@@ -2287,6 +2289,10 @@ http://184.173.181.2:1935/8114/8114/playlist.m3u8
 http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0EO51L.png", Telemicro
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0EO51L.png", Telemicro
+https://api.new.livestream.com/accounts/28126860/events/ls051644/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BEBbPzj.png", Telecentro
+https://api.new.livestream.com/accounts/28126860/events/9438854/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BEBbPzj.png", Telecentro
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rGeYfAC.png", Digital 15
