@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 27.06.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 01.07.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -908,8 +908,8 @@ https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Portugal-Flag-icon.png", Portugal
 https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
-#EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png", RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?token=1619496000_5c2e5a1f416018bfbcc3cdeabd9fa9738496989e
+#EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png", RTP 1 Teste
+https://streaming-live.rtp.pt/liverepeater/rtp1HD_FPS.smil/manifest.mpd|referer=http://www.rtp.pt/play/
 #EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png", RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LzqmBLQ.png", RTP 2
@@ -1758,10 +1758,12 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 #EXTINF:-1, TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/Playlist.m3u8
+#EXTINF:-1, TV Publica
+http://cdn.stg.cvattv.com.ar/live/live2/Canal7/SA_Live_fta/Canal7-audio_20000=144800-video=3900000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg", Canal 10 San Rafael - TV Publica
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 #EXTINF:-1, Telefe
-http://138.118.215.255:888/Live/7181fe1dc0224d123f75d1a872d5b7ed/telefe.playlist.m3u8
+http://cdn.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/TelefeHD-audio_20000=144800-video=3000000.m3u8
 #EXTINF:-1, Telesol - Telefe
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", El Nueve
