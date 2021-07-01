@@ -1033,7 +1033,7 @@ https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tuJMNzd.png", Life TV España
 http://media.profesionalhosting.com:1935/8201/8201/chunklist_w1047512158.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vC8DyKv.png", A3Cine
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RRdBdIw.jpg", ¡Hola! TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1, Paramount Network
@@ -1060,6 +1060,8 @@ https://live.mitele.es/hls/live/2005335/divinity/01.m3u8
 http://91.126.141.12:1935/live/smil:discoverymax.smil/playlist.m3u8
 #EXTINF:-1, DKiss
 http://91.126.141.201:1935/live/kiss/index.m3u8
+#EXTINF:-1, DKiss
+http://91.126.141.201:1935/live/kiss/playlist.m3u8
 #EXTINF:-1, DKiss
 http://91.126.141.201:1935/live/smil:kiss.smil/index.m3u8
 #EXTINF:-1, Cosmo
@@ -1201,8 +1203,8 @@ https://circle-xumo.amagi.tv/playlist.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
 #EXTINF:-1, Unimás
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
-#EXTINF:-1, Telexitos
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kuan-ld2.m3u8 
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-88536.png", teleXitos
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kuan-ld2.m3u8
 #EXTINF:-1, Galavision
 https://pubads.g.doubleclick.net/ssai/event/SIvlK2VmTsqL_hgyKeFIPg/master.m3u8
 #EXTINF:-1, NBC Universo
@@ -1548,6 +1550,8 @@ https://www.youtube.com/watch?v=MZR4B4DQgFo
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF:-1, Canal 5
 http://201.168.205.12:8000/play/a0fl/index.m3u8
+#EXTINF:-1, Canal 5
+https://v-sd.mybtv.net/event/486/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1, Azteca 7
 http://201.168.205.12:8000/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GziXSha.png", Nu9ve
@@ -1778,6 +1782,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 #EXTINF:-1, El Trece
 http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD_Mauro/SA_Live_fta/ArtearHD_Mauro.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png", Magic Kids
+https://live.admefy.com/live/clean_peach_ef224.m3u8
 #EXTINF:-1, Unirio TV
 https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/playlist.m3u8
 #EXTINF:-1, Ciudad Magazine
