@@ -234,6 +234,8 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 #EXTINF:-1, Globovision
 http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/Globovision.playlist.m3u8
 #EXTINF:-1, TN
@@ -908,8 +910,7 @@ https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Portugal-Flag-icon.png", Portugal
 https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
-#EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png", RTP 1 Teste 2
-#EXTVLCOPT:http-referrer=http://www.rtp.pt/play/
+#EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png", RTP 1 Teste 3
 https://streaming-live.rtp.pt/liverepeater/rtp1HD_FPS.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png", RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/.m3u8
