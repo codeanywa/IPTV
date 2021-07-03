@@ -728,21 +728,21 @@ https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeKwZOS.gif", TV Alternativa - Gazeta Maranhão
 https://stmv4.srvstm.com/wagner1168/wagner1168/playlist.m3u8?wowzasessionid=408470504
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT Americana
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT Rio
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-rio.m3u8
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_240p414k/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT Londrina
-https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina.m3u8
+https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT RS
-https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias.m3u8
+https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_240p414k/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT Bahia
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador.m3u8
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_240p414k/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT Cuiabá
-https://d1s664t39qub1o.cloudfront.net/live/cnt-cuiaba.m3u8
+https://d1s664t39qub1o.cloudfront.net/live/cnt-cuiaba_240p414k/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT Belém
-https://d1s664t39qub1o.cloudfront.net/live/cnt-belem.m3u8
+https://d1s664t39qub1o.cloudfront.net/live/cnt-belem_240p414k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eeGsuH.png", TV Brasil
 https://edge-sp-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(D1TEJc6YeGoHzvDtAjFuCw)n(a(DxioRnmXZXQYKOcq2k9k0lMsXHjdvyuE)s(mg0)'a(Qldt4E_WaLg9RxIp_d3nHOoG)s(Ip8)))s(t(Pn4)b(vDhniGwxnXsJkJFcdmu8iydlkppOxm1AcEyuHstXltWq0RU0Zo4P5RvzTxAkNBSnR2kdYNn1Exzv0vIbyc4QwaHqxoi_hmjwDPQesnR3vo5p_nsv2wdNlANBHQqgjEmNSKWolPMjLvr4hLxfax19MeTQ2Pt0jCuSnjfv3Zg)'t(U-c)b(VNgRbfXOpTxHFGQ4nc7nVAJTjhJMOn-_3Yo)))/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkUutYJ.png", TV Brasil 2
@@ -860,7 +860,7 @@ https://5e36c064a2f6a.streamlock.net:1936/8616/8616/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sba1.com/img/canais/canaldoboi.jpg", Canal do Boi
 https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png", Agro Canal
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/798304914679493065280297.m3u8
+http://177.20.208.58:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.flixtv.com.br/player/agromixtv/player.jpg", Agro Brasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png", Terra Viva
