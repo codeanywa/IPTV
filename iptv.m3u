@@ -4,6 +4,9 @@
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", WJS® Teste 2
+#EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
+https://streaming-live.rtp.pt/liverepeater/rtp1HD_FPS.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png", Pluto TV Guia de Canais
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/6k7cOAE.png.png", Pluto TV Cine Sucessos
@@ -72,8 +75,6 @@ http://status.tehw00t.net/miniProxy.php/https://blueantmediausa-vizio.amagi.tv/p
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1, Saber Más
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMvMf72.png", Telemundo Internacional
-https://vp01-telemundosd.delivery.fuugo.com/ngrp:vp01-Telemundo_SD-147c97bb_all/playlist.m3u8
 #EXTINF:-1, Travel XP
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Travel XP
@@ -122,8 +123,6 @@ https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 http://movie.mcas.jp/mcas/smil:wn1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png", Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png", Newsy
-https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
 #EXTINF:-1, ABC News 24
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tx2wcWt.png", Australia Channel
@@ -142,8 +141,6 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 http://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Euronews
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, Bloomberg
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1, Bloomberg
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1, BBC World News
@@ -174,8 +171,6 @@ https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1, Franceinfo
 https://www.youtube.com/watch?v=cKw79MI2ZLc
-#EXTINF:-1, Franceinfo
-https://simulcast.ftven.fr/ZXhwPTE2MjM2MjA5MTh+YWNsPSUyZip+aG1hYz1hNGRhNzQ3NGY1MjFmY2E5OTg5NjUzMDhiMjQ0MmY3YjBhYjE2NDcwMzZhMTZjZGIyMTY0MDRhYTZlY2Q0YzQ4/simulcast/France_Info/hls_monde_frinfo/France_Info-mp4a_98400_fra=20000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/LCI_-_Logo_%28Ao%C3%BBt_2017%29.png", LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png", LN24
@@ -236,31 +231,15 @@ https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-#EXTINF:-1, Globovision
-http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/Globovision.playlist.m3u8
 #EXTINF:-1, TN
 https://www.youtube.com/embed/wHn1_QVoXGM
-#EXTINF:-1, TN
-http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/tn.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0xQEtfe.png", America Tucumán
 http://45.6.4.154/americatuc/vivo.m3u8
-#EXTINF:-1, A24
-http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/a24.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", A24
 #EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
 https://g2.mc-slo.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 #EXTINF:-1 tvg-logo="", A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
-#EXTINF:-1 tvg-logo="", A24
-https://pubads.g.doubleclick.net/ssai/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
-#EXTINF:-1, C5N
-http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/c5n.playlist.m3u8
-#EXTINF:-1, LN
-http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/lntv.playlist.m3u8
-#EXTINF:-1, C9N
-http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=3900000.m3u8
-#EXTINF:-1, Noticias Paraguay
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
 #EXTINF:-1, Milenio Television
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 #EXTINF:-1, Milenio Television
@@ -398,7 +377,6 @@ http://18.168.248.67/webdav/UHDSpain_SDR.mpd
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true", noovo1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XXxJf8.png", Sports
