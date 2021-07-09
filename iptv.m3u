@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 04.07.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 09.07.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -85,13 +85,19 @@ https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8
 https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png", Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PFJydKG.png", Smithsonian
+http://origin-02.nxplay.com.br/SMITHSONIAN_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jmDtPwJ.png", Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjZf/CrimeTime_600x600.png", CrimeTime
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjkyMjJf/RealCrime_800x800.png", Real Crime
 http://status.tehw00t.net/miniProxy.php/https://lds-realcrime-vizio.amagi.tv/playlist.m3u8
- 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DdSRZfx.png", M6 Internacional
+https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pjtRpMJ.png", Star Channel
+https://content-asae1-up-1.uplynk.com/channel/33ca31585a694bcba633e1316070d9c0/d.m3u8?exp=1608283116&ct=c&cid=33ca31585a694bcba633e1316070d9c0&expand=drmOff&iph=c5051e0751b170a332c97db5214bb2877e0a037e6ae113ee5b69104a24f16772&euid=8A73B25D-7678-4E61-8B49-32B6C2FD8C0C_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=84be66ae437b7c8a7cfef9cc9a764c721be48b5838748c2701157543f9589654&pbs=ac3447fcaa1a492698871aa3cac4eaed 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aw0sPst.png", News
 #EXTINF:-1, Hechos Ecuador
 http://37.187.7.106/hechostv/live.m3u8
@@ -402,8 +408,8 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/master.m3u8
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1, Band Sports teste
-http://evc-servers.uol.com.br:1935/geobband/operadora/playlist.m3u8 
+#EXTINF:-1, Band Sports
+http://origin-02.nxplay.com.br/band_spor_9913/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8?sd=10&rebase=on
 #EXTINF:-1, ESPN
@@ -565,6 +571,8 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1, Globo
 https://canal1.proxy.tokplay.com.br/videos/event1/auto.m3u8
+#EXTINF:-1, Globo
+http://origin-02.nxplay.com.br/Glob_131313/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRb8CaM.png", TV Santa Cruz
 http://177.20.208.58:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tkqCU8t.png", TV Sudoeste
@@ -767,6 +775,8 @@ https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/in
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1KDq7TC.png", TV Vitória PE - TV Evangelizar
 https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XqZCYLY.png", Canção Nova
+http://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Canção Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/chunklist_w1781839972.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Logo_rede_aparecida_comunicacao.png", Rede Aparecida
