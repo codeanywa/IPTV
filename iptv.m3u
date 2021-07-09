@@ -4,9 +4,8 @@
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", WJS® Teste 2
-#EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
-https://streaming-live.rtp.pt/liverepeater/rtp1HD_FPS.smil/manifest.mpd
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", WJS® Teste 3
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/TVMariaLIVE/live
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png", Pluto TV Guia de Canais
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/6k7cOAE.png.png", Pluto TV Cine Sucessos
