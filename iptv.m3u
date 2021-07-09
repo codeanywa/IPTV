@@ -559,7 +559,9 @@ http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Snau0u.png", Mediashop TV
 https://cdn1-europe.smartcast.tv/mediashop/mediashop1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hYyH5Io.jpg", HSE 24 Extra
-https://www.filmon.com/vr-streams/4730.high/playlist.m3u8 
+https://www.filmon.com/vr-streams/4730.high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qcepcxB.png", Openshop
+https://medialive.openshop.com.au/asn-live_1.m3u8
 #EXTINF:-1, Shoptime
 https://youtube.com/embed/ZC0_rKob80I?autoplay=1&rel=0&showinfo=1&controls=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6ev3xC.png", Polishop
