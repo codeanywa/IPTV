@@ -176,7 +176,11 @@ https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
 #EXTINF:-1, 324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1, Franceinfo
+https://www.filmon.com/vr-streams/3887.high/playlist.m3u8 
+#EXTINF:-1, Franceinfo
 https://www.youtube.com/watch?v=cKw79MI2ZLc
+#EXTINF:-1, CNews
+https://dsh-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/dash-fhd-clair/cnews-clair-hd.mpd 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/LCI_-_Logo_%28Ao%C3%BBt_2017%29.png", LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png", LN24
@@ -273,7 +277,7 @@ https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1, Teleformula
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cv6678c.png", Imagen Multicast
-http://181.80.15.122:9001/Live/9f731084a5b4f72ed9c31d7642143a03/excelsior.playlist.m3u8
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt2.m3u8
 #EXTINF:-1, Estrella News
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, CNN Chile
@@ -554,13 +558,15 @@ https://media.streambrothers.com:1936/8038/8038/playlist.m3u8
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Snau0u.png", Mediashop TV
 https://cdn1-europe.smartcast.tv/mediashop/mediashop1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hYyH5Io.jpg", HSE 24 Extra
+https://www.filmon.com/vr-streams/4730.high/playlist.m3u8 
 #EXTINF:-1, Shoptime
 https://youtube.com/embed/ZC0_rKob80I?autoplay=1&rel=0&showinfo=1&controls=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6ev3xC.png", Polishop
 http://187.120.222.12:8000/play/PolishopTV/index.m3u8
 #EXTINF:-1, 1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
-#EXTINF:-1, Mega TV
+#EXTINF:-1, Mega TVF
 https://www.youtube.com/embed/3Z-K958GtSY?controls=1&enablejsapi=1&rel=0&showinfo=0&autoplay=0&mute=0&modestbranding=1&embed_config=%7B%22autonavRelatedVideos%22%3Afalse%2C%22disableRelatedVideos%22%3Atrue%2C%22hideInfoBar%22%3Atrue%2C%22primaryThemeColor%22%3A%22%22%2C%22relatedChannels%22%3A%5B%5D%2C%22relatedVideos%22%3A%5B%5D%2C%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F1011235%2FSBT_Videos%2FEspeciais%2FSBT_Live%2Fvideo%22%2C%22cust_params%22%3A%22%22%2C%22ppid%22%3A%22%22%2C%22pp%22%3A%22%22%7D%2C%22disableAds%22%3Afalse%2C%22nonPersonalizedAd%22%3Afalse%7D%7D&origin=https%3A%2F%2Fwww.sbt.com.br&widgetid=1
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Brazil-Flag-icon.png", Brasil
@@ -2871,8 +2877,10 @@ https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/master_4000000.m3u8
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/master_4000000.m3u8
 #EXTINF:-1, France 2
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
-#EXTINF:-1, France 3
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france3live-12472/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kx6Yfrl.png", France 3 Alpes
+https://www.filmon.com/vr-streams/3893.high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LTYugtx.png", France 3 Rhône-Alpes
+https://www.filmon.com/vr-streams/3890.high/playlist.m3u8 
 #EXTINF:-1, France 4
 http://51.15.3.161:8080/france4/index.m3u8?token=test
 #EXTINF:-1, France 4
