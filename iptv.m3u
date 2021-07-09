@@ -978,7 +978,9 @@ http://177.52.221.214:8000/play/a0e0/index.m3u8
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Angola-Flag-icon.png", Angola
 https://upload.wikimedia.org/wikipedia/en/d/d0/Angola%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band_%28March_1996_arrangement%29.ogg
 #EXTINF:-1 tvg-logo="http://haitiantvchannel.com/wp-content/uploads/2015/03/TPA-ANGOLA.jpg", TPA
-http://api.new.livestream.com/accounts/1181452/events/9496693/live.m3u8
+https://iptv-all.lanesh4d0w.codes/angola/tpa1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGkQhkl.jpg", Zimbo 
+https://iptv-all.lanesh4d0w.codes/angola/tv-zimbo
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Cape-Verde-Flag-icon.png", Cabo Verde
 https://upload.wikimedia.org/wikipedia/commons/b/b6/C%C3%A2ntico_da_Liberdade_%28instrumental%29.ogg
@@ -1549,7 +1551,7 @@ http://201.168.205.12:8000/play/a0d4/index.m3u8
 #EXTINF:-1, Imagen TV
 http://201.168.205.12:8000/play/a0d5/index.m3u8
 #EXTINF:-1, Imagen TV
-https://www.youtube.com/watch?v=MZR4B4DQgFo
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
 #EXTINF:-1, Foro TV
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF:-1, Canal 5
