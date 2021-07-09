@@ -1961,6 +1961,8 @@ https://livestream.streamingconnect.com/hls/vtvweb.m3u8
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SKXwxpj.png", Televen
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LaTeleTuya/picture?width=350&height=350", TLT
+https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8
 #EXTINF:-1, Venevision
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xHzLMi.png", TVEs
