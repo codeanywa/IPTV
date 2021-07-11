@@ -279,6 +279,8 @@ https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt2.m3u8
 #EXTINF:-1, Estrella News
 https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1, CNN en Español
+http://190.61.37.173:8000/play/a01q/index.m3u8
 #EXTINF:-1, CNN Chile
 http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1, Globo News
@@ -384,25 +386,17 @@ http://18.168.248.67/webdav/UHDSpain.mpd
 http://18.168.248.67/webdav/UHDSpain_SDR.mpd
 #EXTINF:-1, A3S
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true", noovo1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true", noovo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0.12; SM-G550T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.912 Mobile Safari/537.36 Vinebre Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XXxJf8.png", Sports
-#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg", Tigo Sports
-https://d107hql7o7vd84.cloudfront.net/out/v1/ce38156ea93a47709cec829647e9b0ce/index.m3u8
-#EXTINF:-1, Tigo Sports
-https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg", Tigo Sports
-https://canal01gt.pxt.onl/out/v1/88e67fc9be954233a769f97bada38a56/index_33.m3u8 
 #EXTINF:-1, Eurosport 1
 http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
 #EXTINF:-1, Eurosport 1
 http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 #EXTINF:-1, Eurosport 2
 http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7lKXcM8.png", Jordan Sports
-https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 #EXTINF:-1, Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1, Bahrain Sports
@@ -413,44 +407,26 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1, Band Sports
 http://origin-02.nxplay.com.br/band_spor_9913/tracks-v1a1/mono.m3u8
-#EXTINF:-1, ESPN Brasil
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8?sd=10&rebase=on
-#EXTINF:-1, ESPN
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8?sd=10&rebase=on
-#EXTINF:-1, ESPN 2
-https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8?sd=10&rebase=on
-#EXTINF:-1, ESPN Extra
-https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png", Canal 11 
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 #EXTINF:-1, Claro Sports
 http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
-#EXTINF:-1, FS 2
-https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066077184048152576/jemQ8FEk_200x200.jpg", DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1, America Sports
 https://www.youtube.com/embed/1SmKEIpmcLU
-#EXTINF:-1, NBCSN
-http://38.18.238.35:2095/9466NBCSP/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iLKKNQf.png", ESPNEWS
-https://gma2.blab.email/espnews.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlJHXXQ.png", ESPN 2 USA
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UnO5Bif.png", ESPNU
-https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mZKxIBA.jpg", ERT Sports HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png", EPT Sports 1
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png", EPT Sports 2
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png", EPT Sports 3
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png", EPT Sports 4
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png", EPT Sports 5
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ytmwqy2.png", YAS TV
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnJCCYn.png", AD Sports 1
@@ -461,39 +437,17 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ubFT00C.png", AD Sports 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1, WAPA Deportes
-http://38.18.238.35:2095/0000/CH=%C2%A0PR-%C2%A0WAPA2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710549_ico.png?v=1", Setanta Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0.12; SM-G550T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.912 Mobile Safari/537.36 Vinebre Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
 http://ott-cdn.ucom.am/s82/index.m3u8
-#EXTINF:-1, Gol TV
-http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/CanalPlusSport.pl.png", Canal+ Sports
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Diema_Sport_HD_logo.png/revision/latest/scale-to-width-down/340?cb=20150207141244", Diema Sport
-http://136.243.177.164/DIEMASPORT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Diema_Sport_HD_logo.png/revision/latest/scale-to-width-down/340?cb=20150207141244", Diema Sport 2
-http://136.243.177.164/DIEMASPORT2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png", Sky Sport 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/263iWYY.png", Meridiano Television
-http://170.79.233.222:8500/play/a0h3/index.m3u8
-#EXTINF:-1, Movistar Futbol
-http://31.220.41.88:8081/live/es-movistar-futbol.stream/playlist.m3u8
 #EXTINF:-1, Movistar La Liga
 http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
-#EXTINF:-1, Bein Sports 1
-https://b.pscdn.live/hls/bein-sports-1.m3u8
-#EXTINF:-1, Bein Sports 2
-https://b.pscdn.live/hls/bein-sports-2.m3u8
-#EXTINF:-1, Bein Sports 3
-https://b.pscdn.live/hls/bein-sports-3.m3u8
-#EXTINF:-1, Bein Sports 4
-https://b.pscdn.live/hls/bein-sports-4.m3u8
-#EXTINF:-1, Sky Sports F1
-http://5.147.3.82:8000/play/a076/index.m3u8
 #EXTINF:-1, TDP
-http://prox.x86.co.uk/index.php/https://rtvelivestream.akamaized.net/tdp_main_dvr.m3u8
+http://prox.x86.co.uk/index.php/https://rtvelivestream.akamaized.net/tdp_main_dvr_1080.m3u8
 #EXTINF:-1, SPORT TV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1, SPORT TV 2
@@ -514,10 +468,10 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendti
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mf5E7OI.png", Arryadia 3
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png", CBS Sports
-http://status.tehw00t.net/miniProxy.php/https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzk5Mjg4ODBf/OlympicChannel.png", Olympic Channel
 https://dai.google.com/linear/hls/event/uL3iZD6rQoC4Bg8fWkD56g/master.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzk5Mjg4ODBf/OlympicChannel.png", Olympic Channel
+https://pubads.g.doubleclick.net/ssai/event/uL3iZD6rQoC4Bg8fWkD56g/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true",beIN Sports Xtra
 http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 
@@ -667,7 +621,7 @@ https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1, TV Diário
 https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb_4pDbWlG9srcGXK7ASTOSUx_cvS9kQlWQV9MPfC6YpqY4dxv7RzhS8zaGRsqADztA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fMuGR4R.png", RBI
-https://live-ak.vimeocdn.com/exp=1623363604~acl=%2F5937c11f-3d7a-4ee2-b41a-ee7152272ec3%2F%2A~hmac=a3af2ec8511d68de3b90fbb2bceb0fd53db1e8c3576b47b4c94f44344cce6d80/5937c11f-3d7a-4ee2-b41a-ee7152272ec3/chunklist_b6256000.m3u8?max_segments=10
+http://45.182.225.67:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
 https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
@@ -882,24 +836,8 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/master.m3u
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 #EXTINF:-1, TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1, BET Pluto TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png", Pluto TV Retrô
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png", Pluto TV - Os Três Patetas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png", Pluto TV Investiga
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png", Pluto TV Natureza
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png", Pluto TV Fashionbox
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png", Pluto TV Cine Sucessos
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png", Pluto TV Séries
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hG2O9XX.png", TLN Network
-https://emdhn5hr4n.singularcdn.net.br/Content/HLS_HLS_Clear/Live/channel(Telenovelas)/index.m3u8
+#EXTINF:-1, TV Senado
+http://45.182.225.67:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png", Urban Doc
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDYwNDc0NzIsIm5iZiI6MTYwNjA0NzQ3MiwiZXhwIjoxNjA2MDQ3NzcyLCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTAyNzA0MDUzMDVmYmE1NmYwYzg5NWYwLjEyNTc5MDM4IiwiY2xpZW50ZSI6IjE3Mi4zMS40Ny41MSJ9.3hi2AFdknbtCRXhjWRpMjkfHPbSKGpKpqCyMdqsOtVI 
 #EXTINF:-1, InWonder
@@ -3840,6 +3778,8 @@ https://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png", VH1 Classics
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f910c0-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2ca9adf-1aa0-45dd-bb41-6a8fc0a3f5c9&userId=&serverSideAds=true
 #EXTINF:-1, VH1
-http://50.7.34.155:2200/BR/VH1_HD-br/tracks-v1a1/mono.m3u8
+http://190.61.37.173:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/I8c1wzx.png", Classic Hits
 http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MTV 80's
+http://190.61.37.173:8000/play/a01m/index.m3u8
