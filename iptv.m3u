@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 10.07.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 11.07.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -548,11 +548,11 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WX07l7V.png", TV Cidade Verde
 https://59e4b6c1beddc.streamlock.net/cidadeverde2021/cidadeverde2021/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N74rBUQ.png", TV Difusora
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4VIq1w.png", TV Difusora
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xi0HfHF.png", TV Difusora Sul
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lpbO7Ku.png", TV Difusora Sul
 https://stream.amsolution.net.br:8443/live/60dceaa0637fb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xi0HfHF.png", TV Difusora Leste
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdJIbjw.png", TV Difusora Leste
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmvyxQh.png", TV Serra Dourada
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
