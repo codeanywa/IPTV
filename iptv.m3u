@@ -476,6 +476,13 @@ https://dai.google.com/linear/hls/event/uL3iZD6rQoC4Bg8fWkD56g/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/uL3iZD6rQoC4Bg8fWkD56g/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true",beIN Sports Xtra
 http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1, Sportv
+http://www.pjtiptv.tk/canaisgplay.php?canal=sportv
+#EXTINF:-1, Sportv 2
+http://www.pjtiptv.tk/canaisgplay.php?canal=sportv2
+#EXTINF:-1, Sportv 3
+http://www.pjtiptv.tk/canaisgplay.php?canal=sportv3
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEVfAjy.jpg", Shopping
  
