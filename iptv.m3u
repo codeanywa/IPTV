@@ -620,12 +620,6 @@ https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb_4pDbWlG9srcGXK7ASTOSUx_cvS9kQlWQV9MPfC6YpqY4dxv7RzhS8zaGRsqADztA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fMuGR4R.png", RBI
 http://45.182.225.67:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
-https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
-https://google.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YR4IpfK.png", Loading
-https://akamai.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
