@@ -277,6 +277,8 @@ https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cv6678c.png", Imagen Multicast
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt2.m3u8
+#EXTINF:-1, ATV+
+https://qlobbidev.s.llnwi.net/bpk-tv/ATVHD/hls/index.m3u8
 #EXTINF:-1, Estrella News
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, CNN en Español
@@ -1483,6 +1485,8 @@ https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_inst
 http://201.168.205.12:8000/play/a0cc/index.m3u8
 #EXTINF:-1, Las Estrellas
 http://201.168.205.12:8000/play/a0d4/index.m3u8
+#EXTINF:-1, Las Estrellas
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 #EXTINF:-1, Imagen TV
 http://201.168.205.12:8000/play/a0d5/index.m3u8
 #EXTINF:-1, Imagen TV
@@ -1495,6 +1499,8 @@ http://201.168.205.12:8000/play/a0fl/index.m3u8
 https://v-sd.mybtv.net/event/486/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1, Azteca 7
 http://201.168.205.12:8000/play/a0fm/index.m3u8
+#EXTINF:-1, Azteca 7
+http://195.181.163.39/LAT_Azteca_7_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GziXSha.png", Nu9ve
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fJxVALh.png", XHUAA-TDT - Las Estrellas
