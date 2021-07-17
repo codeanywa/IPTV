@@ -533,7 +533,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1, Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1, Globo
-https://canal1.proxy.tokplay.com.br/videos/event1/auto.m3u8
+https://canal1.proxy.tokplay.com.br/videos/event11/auto.m3u8
 #EXTINF:-1, Globo
 http://origin-02.nxplay.com.br/Glob_131313/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRb8CaM.png", TV Santa Cruz
@@ -622,8 +622,6 @@ https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8T
 http://45.182.225.67:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/42Ym1GS.png", Band
-https://canal1.proxy.tokplay.com.br/videos/event3/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ytaP7P.png", RBA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhdEHgA.png", Rede 21
@@ -643,7 +641,7 @@ http://177.20.208.58:8000/play/a03x/index.m3u8
 #EXTINF:-1, Rede TV!
 https://canal1.proxy.tokplay.com.br/videos/event6/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TdeTg4F.png", TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZ5O9Dw.png", Rede TV! Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TGVdBGB.png", Rede TV! ES
