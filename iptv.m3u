@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 11.07.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 17.07.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -662,6 +662,8 @@ https://stmv1.srvstm.com/rommel6055/rommel6055/playlist.m3u8
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TV_Gazeta.svg", Rede Gazeta
 https://canal1.proxy.tokplay.com.br/videos/event4/auto.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/syUaw76.png", TVC - Rede Gazeta
+https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TV_Gazeta.svg", Rede Gazeta
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeKwZOS.gif", TV Alternativa - Gazeta Maranhão
@@ -718,8 +720,6 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1, TV Brusque - Rede Brasil
 https://59f1cbe63db89.streamlock.net:1443/tvbrusque/_definst_/tvbrusque/playlist.m3u8
-#EXTINF:-1, TVC - Rede Brasil
-https://video01.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Tvescolalogo2014.jpg", TV Escola
 https://edge-rj-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(I9Lm-HD8blXi1UeG-bZQWg)n(a(DxioRnmXZXQYKOcq2k9k0lMsXHjdvyuE)s(mg0)'a(Qldt4E_Xcrg9RxIp_d3nHOoG)s(Ip8)))s(t(Pn4)b(vDhniGwxnXsJkJFcdmu8iydlkppOxm1AcEyuHstXltWq0RU0Zo4P5RvzTxAkNBSnR2kdYNn1Exzv0vIbyc4QwamoxKazz2mrWfEmmHAvl6Bs8FJI6Wx441QAGjTKwU2fSL-YrdlCAPrWm7tdPytLMcbn2J1wsx_1oEbby9J6)'t(5yQ)b(gFxs5Mu5MV9ELnPWxe5bAliHTUQ4f7PDkZTn)))/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J8stcFd.png", TV8 Brasil
