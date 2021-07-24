@@ -3618,18 +3618,8 @@ http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 rtmp://3xhtut.live1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQKaYs7.jpg", Music
-#EXTINF:-1, Videorola
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1, MTV Live HD
-https://origin-02.nxplay.com.br/MTVNI_HD_NX/index.m3u8
-#EXTINF:-1, VH1
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32302
 #EXTINF:-1, VH1
 https://d3pu3hnym3eusd.cloudfront.net/VH1.m3u8
-#EXTINF:-1, VH1
-http://187.32.214.221:8003/play/a01x/index.m3u8
-#EXTINF:-1, VH1 HD
-http://187.32.214.221:8003/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1203580988699414529/X-BrNawy_200x200.jpg", Radio Monte Carlo TV
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1214687460011192321/2S4PFFlr_200x200.jpg", Radio 105 TV
@@ -3644,12 +3634,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1, VH1
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1, Zapping Music
-https://zapping.04.cl.cdnz.cl/zappingtvmusic/zappingmusic.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sC9UIwe.png", MM
-http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
-#EXTINF:-1, NRJ Hits
-https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1, M2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1, Radio Italia TV
@@ -3660,8 +3644,6 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k3qgnnl.jpg", Radio Capital TV
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmxfdmy.png", RTL
-https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CXoannD.jpg", Retro
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CXoannD.jpg", Retro
@@ -3670,8 +3652,8 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w822962013.m3u8
 http://status.tehw00t.net/miniProxy.php/https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/chunklist_b1000000_slde.m3u8
 #EXTINF:-1, Deluxe Music
 https://www.fishbeam.com/mediaComponents/showcase/proxy.php/https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
-#EXTINF:-1, Otto FM TV
-http://streaming.bitonlive.net:8080/hls/ottofmtv/42_41/index.m3u8?sessId=164468
+#EXTINF:-1 tvg-logo="http://ottofm.com/wp-content/uploads/2017/06/01fmtv.png", Otto FM TV
+http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
 #EXTINF:-1, Music Box
 http://94.43.239.178:8080/CHANNEL470/BITRATE1/playlist.m3u8
 #EXTINF:-1, Simply TV
