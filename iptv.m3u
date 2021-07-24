@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 17.07.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 24.07.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -222,6 +222,10 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR
 #EXTINF:-1, TVi 24
 https://video-auth7.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8?
+#EXTINF:-1, TVi 24 teste
+https://video-auth4.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+#EXTINF:-1, TVi 24 teste
+https://video-auth4.iol.pt/live_tvi24/live_tvi24/edge_servers/tvi24-720_passthrough/chunks.m3u8?nimblesessionid=118851204&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDE6NDU6NDIgUE0maGFzaF92YWx1ZT1hZHRPaDVSRUc4OFlqR1kyYWpCcjlnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzBhMjMwZjctMzZjNS00MjcxLTllZGYtYzg4OTc4OTEzZjA4
 #EXTINF:-1, Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 subtitles="000", CNN
@@ -849,7 +853,7 @@ https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Portugal-Flag-icon.png", Portugal
 https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
 #EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png", RTP 1
-https://streaming-live.rtp.pt/liverepeater/rtp1HDdvr.smil/playlist.m3u8?DVR
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8?pxt_rtp
 #EXTINF:-1 tvg-logo="https://imgur.com/LzqmBLQ.png", RTP 2
 https://streaming-live.rtp.pt/liverepeater/rtp2.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LzqmBLQ.png", RTP 2
@@ -866,18 +870,12 @@ https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8?pxt_rtp
 #EXTINF:-1 tvg-logo="https://imgur.com/3cDYXmE.png", RTP ACORES
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8?pxt_rtp
-#EXTINF:-1 tvg-logo="https://imgur.com/XQcFVoD.png",RTP AFRICA
+#EXTINF:-1 tvg-logo="https://imgur.com/XQcFVoD.png",RTP ÁFRICA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8?pxt_rtp
-#EXTINF:-1 tvg-logo="https://imgur.com/EL4Pstl.png",TV DE BRAGA
-https://5cf4a2c2512a2.streamlock.net:443/canalb/canalb/playlist.m3u8
-#EXTINF:-1, Canção Nova Portugal
-https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+#EXTINF:-1, TVi
+https://video-auth5.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDE6NDU6NDIgUE0maGFzaF92YWx1ZT1hZHRPaDVSRUc4OFlqR1kyYWpCcjlnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzBhMjMwZjctMzZjNS00MjcxLTllZGYtYzg4OTc4OTEzZjA4
 #EXTINF:-1, Porto Canal
 http://213.13.26.13:1935/live/portocanal/master.m3u8
-#EXTINF:-1, Leiria TV
-http://tv02.logicahost.com.br:1935/tvnovus/tvnovus/live.m3u8
-#EXTINF:-1, Leiria TV
-https://59f2354c05961.streamlock.net:1443/tvnovus/_definst_/tvnovus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Cuba-Flag-icon.png", Cuba
 #EXTINF:-1, Cubavision
