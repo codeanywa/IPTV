@@ -677,6 +677,8 @@ https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeKwZOS.gif", TV Alternativa - Gazeta Maranhão
 https://stmv4.srvstm.com/wagner1168/wagner1168/playlist.m3u8?wowzasessionid=408470504
+#EXTINF:-1 tvg-logo="https://www.tvgraopara.com.br/wp-content/uploads/2018/11/loggazeta.png", TV Grão Pará - Rede Gazeta
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT Americana
@@ -707,6 +709,8 @@ http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1, TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1, TV Cidade 10 - TVE RS
+https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel39285/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQuZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDM5Mjg1L2luZGV4Lm0zdTg_eD0xJm09TDNuSnB1MExfSElNUXJzcVVTU2ZCUQ&x=1&p=0&m=fJBj9KECe89AAgtORoJgug&nr=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MnBhGlC.jpg", Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1f0mAFz.png", Rede Atividade - TV Brasil
@@ -715,8 +719,12 @@ https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GYhYaZ2.png", TV UFG - TV Brasil
 http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c4e1b2a6-2a55-4f89-8001-1c1a5a97562f-profile_image-70x70.png", Rede América1
-https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/redeamericaetelevisao/master.m3u8
+#EXTINF:-1, TV Opinião Araras - TV Brasil
+https://livefocamundo.com:8081/opiniaoplay/index.m3u8
+#EXTINF:-1, TV Gazeta Norte Mineira - TV Brasil
+https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvredepaulista.com.br/tvrp.png", Rede Paulista - TV Brasil
+https://stream.amsolution.net.br:8443/live/60d63bd713fe0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede Brasil
 https://video01.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a49c0b589b2e88a6309229910204bbb.png", RSCTV - Rede Brasil
