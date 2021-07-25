@@ -1,13 +1,17 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 24.07.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 25.07.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", WJS® Teste 4
-https://vk.com/video593748258_456239056
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", WJS® Nova Bebedouro FM
+https://5a57bda70564a.streamlock.net/novafmlive/novafmlive.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", WJS® Teste 5
-https://vk.com/video593748258_456239056.m3u8
+https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
+https://iptvtucuman.com/dtv1_widevine.php
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", WJS® Teste 6
+https://iptvtucuman.com/dtv1_widevine.php
+https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png", Pluto TV Guia de Canais
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/6k7cOAE.png.png", Pluto TV Cine Sucessos
@@ -3656,8 +3660,6 @@ https://www.fishbeam.com/mediaComponents/showcase/proxy.php/https://1000338copo-
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
 #EXTINF:-1, Music Box
 http://94.43.239.178:8080/CHANNEL470/BITRATE1/playlist.m3u8
-#EXTINF:-1, Simply TV
-http://flash7.streaming.xdevel.com:80/simplytv/simplytv/master.m3u8
 #EXTINF:-1, RN1 TV
 http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1, Canale 51
