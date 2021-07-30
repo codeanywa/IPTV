@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 25.07.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 30.07.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -726,7 +726,7 @@ https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvredepaulista.com.br/tvrp.png", Rede Paulista - TV Brasil
 https://stream.amsolution.net.br:8443/live/60d63bd713fe0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8d3S2E.png", Rede Brasil
-https://video01.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a49c0b589b2e88a6309229910204bbb.png", RSCTV - Rede Brasil
 http://177.11.96.110:9080/hls/sictv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wA42e8J.png", TV Varzea Grande - Rede Brasil
