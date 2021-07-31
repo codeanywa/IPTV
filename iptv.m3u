@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 30.07.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 31.07.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -581,6 +581,8 @@ https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u
 https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tOtQ1C1.png", TV Floresta
 https://srv-mc.sistemafloresta.com.br/sbt_live/index.m3u8?token=76f9ee988810fdea7c0007cf8ddf3dd0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATTPfEX.png", TV Paraense
+https://streaming.portaltvparaense.com.br:50176/rtp_live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record
 https://canal1.proxy.tokplay.com.br/videos/event2/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQMsqrr.png", Record
@@ -655,6 +657,8 @@ https://cast.cdnseguro.com:19360/8012/8012.m3u8
 http://177.20.208.58:8000/play/a03x/index.m3u8
 #EXTINF:-1, Rede TV!
 https://canal1.proxy.tokplay.com.br/videos/event6/auto.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIfI0oS.png", Rede TV! Paraná
+http://5953e7f9ae845.streamlock.net/id84/id84/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TdeTg4F.png", TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZ5O9Dw.png", Rede TV! Tocantins
@@ -1489,11 +1493,15 @@ http://api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Mexico-Flag-icon.png", México
 https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg
 #EXTINF:-1, Azteca Uno
+http://fixed-189-203-8-121.totalplay.net:8000/playlist.m3u8
+#EXTINF:-1, Azteca Uno
 http://201.168.205.12:8000/play/a0cc/index.m3u8
 #EXTINF:-1, Las Estrellas
 http://201.168.205.12:8000/play/a0d4/index.m3u8
 #EXTINF:-1, Las Estrellas
 https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
+#EXTINF:-1, Las Estrellas teste
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1784&format=HLSAD&f=.m3u8
 #EXTINF:-1, Imagen TV
 http://201.168.205.12:8000/play/a0d5/index.m3u8
 #EXTINF:-1, Imagen TV
@@ -1508,8 +1516,10 @@ https://v-sd.mybtv.net/event/486/1920x1080.m3u8?start_time=2021-05-16&end_time=2
 http://201.168.205.12:8000/play/a0fm/index.m3u8
 #EXTINF:-1, Azteca 7
 http://195.181.163.39/LAT_Azteca_7_HD/index.m3u8
+#EXTINF:-1, Azteca 7
+http://balancer1.iptvmx.com:8081/tecno/azteca7.TecnoByte/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GziXSha.png", Nu9ve
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+http://balancer1.iptvmx.com:8081/tecno/GalaTV.TecnoByte/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fJxVALh.png", XHUAA-TDT - Las Estrellas
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhuaa-tdt.m3u8
 #EXTINF:-1, Foro TV
