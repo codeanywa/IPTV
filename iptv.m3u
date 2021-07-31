@@ -343,7 +343,6 @@ http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sraK3ID.png", Antenne Réunion 
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
-
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9tXsTxp.png", Canais Internacionais
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWj3dQP.jpg", Brut.
@@ -484,14 +483,41 @@ https://dai.google.com/linear/hls/event/uL3iZD6rQoC4Bg8fWkD56g/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/uL3iZD6rQoC4Bg8fWkD56g/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true",beIN Sports Xtra
 http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1, Sportv
-http://www.pjtiptv.tk/canaisgplay.php?canal=sportv
-#EXTINF:-1, Sportv 2
-http://www.pjtiptv.tk/canaisgplay.php?canal=sportv2
-#EXTINF:-1, Sportv 3
-http://www.pjtiptv.tk/canaisgplay.php?canal=sportv3
-
-
+#EXTINF:-1, Mosaico
+https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/deportes.mpd
+#EXTINF:-1,OLIMPIC 1
+http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+#EXTINF:-1,OLIMPIC 2
+http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+#EXTINF:-1,OLIMPIC 3
+http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+#EXTINF:-1,OLIMPIC 4
+http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+#EXTINF:-1,OLIMPIC 5
+http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+#EXTINF:-1,OLIMPIC 6
+http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+#EXTINF:-1,OLIMPIC 7
+http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+#EXTINF:-1,OLIMPIC 8
+http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+#EXTINF:-1,OLIMPIC 9
+http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+#EXTINF:-1,OLIMPIC 10
+http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+#EXTINF:-1,OLIMPIC 11
+http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+#EXTINF:-1,OLIMPIC 12
+http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+#EXTINF:-1,OLIMPIC 13
+http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+#EXTINF:-1,OLIMPIC 14
+http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+#EXTINF:-1,OLIMPIC 15
+http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
+#EXTINF:-1,OLIMPIC 16
+http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
+    
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEVfAjy.jpg", Shopping
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUSetsH.jpg", QVC
@@ -747,6 +773,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvbrusque/_definst_/tvbrusque/playlist
 https://edge-rj-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(I9Lm-HD8blXi1UeG-bZQWg)n(a(DxioRnmXZXQYKOcq2k9k0lMsXHjdvyuE)s(mg0)'a(Qldt4E_Xcrg9RxIp_d3nHOoG)s(Ip8)))s(t(Pn4)b(vDhniGwxnXsJkJFcdmu8iydlkppOxm1AcEyuHstXltWq0RU0Zo4P5RvzTxAkNBSnR2kdYNn1Exzv0vIbyc4QwamoxKazz2mrWfEmmHAvl6Bs8FJI6Wx441QAGjTKwU2fSL-YrdlCAPrWm7tdPytLMcbn2J1wsx_1oEbby9J6)'t(5yQ)b(gFxs5Mu5MV9ELnPWxe5bAliHTUQ4f7PDkZTn)))/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J8stcFd.png", TV8 Brasil
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J8stcFd.png", TV8 Brasil - Rondonia
+https://stmv3.samcast.com.br/jose8272/jose8272/playlist.m3u8
 #EXTINF:-1, Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tcmhd.com.br/wp-content/uploads/2016/08/143-rede-seculo21.png", Rede Século 21
