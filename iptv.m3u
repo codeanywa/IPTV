@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 31.07.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 01.08.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -359,6 +359,8 @@ http://5.101.140.110:8000/play/a00m/index.m3u8
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1, VE Plus
 http://190.122.96.187:8888/http/006
+#EXTINF:-1, NHK
+http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1, NHK World
 https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1, NHK World
@@ -2422,6 +2424,10 @@ https://59d39900ebfb8.streamlock.net/canelatv/canelatv/playlist.m3u8
 https://upload.wikimedia.org/wikipedia/commons/5/54/Himno_Nacional_de_Bolivia_instrumental.ogg
 #EXTINF:-1, ATB
 http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1, ATB
+https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
+#EXTINF:-1, ATB
+https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
 #EXTINF:-1, Bolivision
 http://136.243.3.70:1935/Bolivision/Bolivision/playlist.m3u8
 #EXTINF:-1, PAT (La Paz)
