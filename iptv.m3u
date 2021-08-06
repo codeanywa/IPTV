@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 05.08.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 06.08.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -250,6 +250,10 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/playlist.m3u8
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 #EXTINF:-1, TN
 https://www.youtube.com/embed/wHn1_QVoXGM
+#EXTINF:-1, TN
+http://195.181.163.39/ARG_TN/index.m3u8
+#EXTINF:-1, C5N
+http://195.181.163.39/ARG_C5N/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0xQEtfe.png", America Tucumán
 http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", A24
@@ -1766,10 +1770,14 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/Playlist.m3u8
 #EXTINF:-1, TV Publica
 http://cdn.stg.cvattv.com.ar/live/live2/Canal7/SA_Live_fta/Canal7-audio_20000=144800-video=3900000.m3u8
+#EXTINF:-1, TV Publica
+http://195.181.163.39/ARG_TV_PUBLICA/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg", Canal 10 San Rafael - TV Publica
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 #EXTINF:-1, Telefe
 http://cdn.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/TelefeHD-audio_20000=144800-video=3000000.m3u8
+#EXTINF:-1, Telefe
+http://195.181.163.39/ARG_TELEFE/index.m3u8
 #EXTINF:-1, Telesol - Telefe
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", El Nueve
