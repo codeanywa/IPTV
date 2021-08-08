@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 07.08.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 08.08.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -1821,7 +1821,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 #EXTINF:-1, Canal 10 General Roca
 https://59c5c86e10038.streamlock.net/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1j9qL9O.png", America Tucumán
-http://45.6.4.50:50601/America_Tucuman/video.m3u8
+http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGuqcse.png", America
 https://g1.vxral-hor.transport.edge-access.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGuqcse.png", America
@@ -1908,9 +1908,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uUlPG8a.png", Multivision Federal
 https://59c5c86e10038.streamlock.net/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://logos.wikia.com/wiki/File:Canal-9-litoral-2010-2013.png", Canal 9 Litoral - Artear
-https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/1.m3u8
-#EXTINF:-1 tvg-logo="http://logos.wikia.com/wiki/File:Canal-9-litoral-2010-2013.png", Canal 9 Litoral - Artear
-https://5975e06a1f292.streamlock.net:4443/ahora/ahora/playlist.m3u8
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1, Canal 3 La Pampa
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uIybnaG.png", Canal 13 La Rioja
