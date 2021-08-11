@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 08.08.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 11.08.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -247,7 +247,7 @@ http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IC46hyc.png", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RnQJ0Bc.png", Cronica TV
-https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronic_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
@@ -294,13 +294,13 @@ https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cv6678c.png", Imagen Multicast
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt2.m3u8
 #EXTINF:-1, ATV+
-https://qlobbidev.s.llnwi.net/bpk-tv/ATVHD/hls/index.m3u8
+https://pe-atv-atv-mas-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4ODA5MDI3LCJzZXNzaW9uIjoiMTg3LjczLjE1Ny4xNDUiLCJ3aGl0ZWxpc3QiOlsiMTg3LjczLjE1Ny4xNDUiXX0sInNpZ25hdHVyZSI6ImY0NzMyMzFkMDJlNjYwYTBjYzE0MDk4MTVmMGRmNmQxOTJmNDNlYzUifQ==
 #EXTINF:-1, Estrella News
 https://estrellanews-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1, CNN en Español
-http://190.61.37.173:8000/play/a01q/index.m3u8
 #EXTINF:-1, CNN Chile
 http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1, CNN Chile
+http://unlimited1-cl.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 #EXTINF:-1, Globo News
 http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_2359/playlist.m3u8
 #EXTINF:-1, Band News
