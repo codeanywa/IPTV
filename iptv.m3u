@@ -2,11 +2,6 @@
 #EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 14.08.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/lhdigital/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV L'Hospitalet",TV L'Hospitalet
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/lhdigital/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV L'Hospitalet",TV L'Hospitalet
-https://liveingesta119.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", WJS® Nova Bebedouro FM
@@ -3833,3 +3828,39 @@ http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8
 http://tv.dansk.live:8080/zXZHvtAw4x/EdTd9uvmq5/105
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIL1ho006Jea_Lf0E91i8HE9TZjeKXIkmm2Ygqo2p6ZO3JAOwYALJ56UPiax7h1rGOFw&usqp=CAU", Deluxe Lounge
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo-radio-bandeirantes.png/150px-Logotipo-radio-bandeirantes.png" group-title="Rádio", Rádio Bandeirantes São Paulo/SP
+https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo-radio-bandeirantes.png/150px-Logotipo-radio-bandeirantes.png" group-title="Rádio", Rádio Bandeirantes Ribeirão Preto/SP
+https://evpp.mm.uol.com.br/band/radiobandeirantes_ribeirao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo-radio-bandeirantes.png/150px-Logotipo-radio-bandeirantes.png" group-title="Rádio", Rádio Bandeirantes Campinas/SP
+https://evpp.mm.uol.com.br/band/radiobandeirantes_camp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_odiarioindependente.png" group-title="Rádio", Rádio O Diário Independente - Bandeirantes - Barretos/SP
+https://r15.ciclano.io:14361/live
+#EXTINF:-1 tvg-logo="http://www.portalrealidade.com.br/index_htm_files/3.jpg" group-title="Rádio", Rádio Real - Bandeirantes - São Carlos/SP
+https://servidor33.brlogic.com:8498/live
+#EXTINF:-1 tvg-logo="https://aovivo.bandvalefm.com.br/1029/uploads/1/1/9/6/119632159/logo-rede-band-vale-fm-1029.png" group-title="Rádio", Rádio Band Vale São José dos Campos/SP
+https://centova5.transmissaodigital.com:20061/;
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo-radio-bandeirantes.png/150px-Logotipo-radio-bandeirantes.png" group-title="Rádio", Rádio Bandeirantes Porto Alegre/RS
+https://evpp.mm.uol.com.br/band/radiobandeirantes_poa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo-radio-bandeirantes.png/150px-Logotipo-radio-bandeirantes.png" group-title="Rádio", Rádio Bandeirantes Goiania/GO
+http://suaradio2.dyndns.ws:13633/stream
+#EXTINF:-1 tvg-logo="https://www.620am.com.br/img/logo.png" group-title="Rádio", Rádio Assunção Cearense - Bandeirantes - Fortaleza/CE
+https://str.7br.com.br/radio/8170/stream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/ed/Logotipo_R%C3%A1dio_Clube_do_Par%C3%A1.jpg/200px-Logotipo_R%C3%A1dio_Clube_do_Par%C3%A1.jpg" group-title="Rádio", Rádio Clube - Bandeirantes - Belém/PA
+http://ice01.kshost.com.br:8000/live
+#EXTINF:-1 tvg-logo="https://estudio92.com.br/wp-content/uploads/2019/10/logo-branca.png" group-title="Rádio", Estudio 92 - Bandeirantes - Cascavel/PR
+https://sonicpanel.oficialserver.com/8026/stream
+#EXTINF:-1 tvg-logo="https://i2.wp.com/semprerci.com.br/wp-content/uploads/2021/06/cropped-logo.png?fit=236%2C74" group-title="Rádio", Rede Comunicadora Iguassu - Bandeirantes - Foz do Iguaçu/PR
+http://icecast.sistemaplug.com:18287/radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_R%C3%A1dio_Difusora_Teresina.png/200px-Logo_R%C3%A1dio_Difusora_Teresina.png" group-title="Rádio", Rádio Difusora - Bandeirantes - Teresina/PI
+http://177.87.45.5:8000/;
+#EXTINF:-1 tvg-logo="https://www.tuaradio.com.br/image/resize?w=90&h=71&q=90&src=intranet/userfiles/unidades/3ff7db3e70f7ba1d73fc4a4791f4682c.png" group-title="Rádio", Rádio São Francisco - Bandeirantes - Caxias do Sul/RS
+https://play.radio.br:8089/saofrancisco/saofrancisco/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fvcp6-1.fna.fbcdn.net/v/t1.18169-9/15232122_1194905127270018_7767854136536697311_n.png?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG_5UrkLpJ9-AEWw5bKNFY4-xKxOtQMlA37ErE61AyUDU9Hcweb_pQ4WVMSvdO-ZzcW87ZBwINwlG5lFNMmpSii&_nc_ohc=fBQBjGCabjoAX_hh435&_nc_ht=scontent.fvcp6-1.fna&oh=f156bc4bbaa7ef26e3f2e1361819f9dd&oe=613EC68F" group-title="Rádio", Rádio Minuano - Bandeirantes - Rio Grande/RS
+http://stm7.xcast.com.br:7876/;
+#EXTINF:-1 tvg-logo="http://www.am570.com.br/images/logo.png" group-title="Rádio", Rádio Eldorado - Bandeirantes - Criciuma/SC
+https://eldorado.jmvstream.com/stream
+#EXTINF:-1 tvg-logo="http://www.radioguaruja.com.br/logo.png" group-title="Rádio", Rádio Guarajá - Bandeirantes - Florianópolis/SC
+http://painel.localmidia.com.br:8038/aovivo
+
+
