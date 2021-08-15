@@ -246,8 +246,14 @@ https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IC46hyc.png", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IC46hyc.png", Canal 26
+https://delivery.cdn.rcs.net.ar/mnp/canal26/output.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RnQJ0Bc.png", Cronica TV
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronic_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnQJ0Bc.png", Cronica TV
+https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
+https://delivery.cdn.rcs.net.ar/mnp/ip/output.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
@@ -257,6 +263,8 @@ https://www.youtube.com/embed/wHn1_QVoXGM
 #EXTINF:-1, TN
 http://195.181.163.39/ARG_TN/index.m3u8
 #EXTINF:-1, C5N
+https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
+#EXTINF:-1, C5N
 http://195.181.163.39/ARG_C5N/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0xQEtfe.png", America Tucumán
 http://45.6.4.154/americatuc/vivo.m3u8
@@ -265,8 +273,10 @@ http://45.6.4.154/americatuc/vivo.m3u8
 https://g2.mc-slo.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 #EXTINF:-1 tvg-logo="", A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF:-1 tvg-logo="", A24
+https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
 #EXTINF:-1, Milenio Television
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
+https://v-sd.mybtv.net/event/521/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1, Milenio Television
 http://181.80.15.122:9001/Live/9f731084a5b4f72ed9c31d7642143a03/milenio.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHprPPD.png", Canal 44 México
@@ -467,10 +477,6 @@ http://ott-cdn.ucom.am/s82/index.m3u8
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png", Sky Sport 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-#EXTINF:-1, Movistar La Liga
-http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
-#EXTINF:-1, TDP
-http://prox.x86.co.uk/index.php/https://rtvelivestream.akamaized.net/tdp_main_dvr_1080.m3u8
 #EXTINF:-1, SPORT TV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1, SPORT TV 2
@@ -481,6 +487,12 @@ http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1, SPORT TV 5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1, Fox Sports Premium
+https://delivery.cdn.rcs.net.ar/mnp/foxpremium/output.mpd
+#EXTINF:-1, ESPN
+https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
+#EXTINF:-1, ESPN 2
+https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oU3NocA.png", Look Sport
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1617596874&wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=&wowzatokenstarttime=1617553674
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTVExq4.jpg", Look Sport 2
@@ -499,38 +511,6 @@ https://pubads.g.doubleclick.net/ssai/event/uL3iZD6rQoC4Bg8fWkD56g/master.m3u8
 http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1, Mosaico
 https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/deportes.mpd
-#EXTINF:-1,OLIMPIC 1
-http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
-#EXTINF:-1,OLIMPIC 2
-http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
-#EXTINF:-1,OLIMPIC 3
-http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
-#EXTINF:-1,OLIMPIC 4
-http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
-#EXTINF:-1,OLIMPIC 5
-http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
-#EXTINF:-1,OLIMPIC 6
-http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
-#EXTINF:-1,OLIMPIC 7
-http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
-#EXTINF:-1,OLIMPIC 8
-http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
-#EXTINF:-1,OLIMPIC 9
-http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
-#EXTINF:-1,OLIMPIC 10
-http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
-#EXTINF:-1,OLIMPIC 11
-http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
-#EXTINF:-1,OLIMPIC 12
-http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
-#EXTINF:-1,OLIMPIC 13
-http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
-#EXTINF:-1,OLIMPIC 14
-http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
-#EXTINF:-1,OLIMPIC 15
-http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
-#EXTINF:-1,OLIMPIC 16
-http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
     
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEVfAjy.jpg", Shopping
  
@@ -1136,21 +1116,17 @@ http://194.158.80.31:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/USA-Flag-icon.png", EUA
 https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Spangled_Banner_instrumental.ogg
 #EXTINF:-1, ABC
-https://streams.the6tv.duckdns.org:2443/locals/BayArea/kgo-dt1.m3u8
+http://stream.tvtap.live:8081/live/us-abc.stream/chunks.m3u8
 #EXTINF:-1, CBS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497
+https://v-ny.mybtv.net/event/545/1920x1080.m3u8?start_time=2021-05-29T19%3A45%3A00%2B00%3A00&end_time=2029-05-29T23%3A00%3A00%2B00%3A00&env=prd&uid=25110
 #EXTINF:-1, CBS 57 Kentucky (WYMT)
 https://dai2-playlistserver.aws.syncbak.com/playlist/893557/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAwMDc1MDQsImlzcyI6IldMUyIsIm1kNSI6IjMyMjE4MzNhYzRiOTJkOTRiMDBjMDFjZjY5MDM2NmY1IiwibWlkIjoiODkzNTU3In0.arYOsp9fiM8UzYcTRIxI7GlDdA3RAgQUCX6JRb88wxQ
 #EXTINF:-1, NBC
-https://streams.the6tv.duckdns.org:2443/locals/BayArea/kntv-dt1.m3u8
+https://v-ny.mybtv.net/event/548/1920x1080.m3u8?start_time=2021-05-29T19%3A45%3A00%2B00%3A00&end_time=2029-05-29T23%3A00%3A00%2B00%3A00&env=prd&uid=25110
 #EXTINF:-1, NBC
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/knsd-dt1.m3u8 
-#EXTINF:-1, NBC
-https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+http://stream.tvtap.live:8081/live/us-nbc.stream/chunks.m3u8
 #EXTINF:-1, FOX
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b67Gft0.png", WTGS FOX 28
-https://dai2-playlistserver.aws.syncbak.com/playlist/893553/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjcyMzUsImlzcyI6IldMUyIsIm1kNSI6IjM5YWE1ZjczMTgyYTg0NThiY2QzOTcxMjQzYzVhZDc1IiwibWlkIjoiODkzNTUzIn0.v4oZTq8PnYSg_UAfc_nt9tO2ThQy44A-F8-colQ2Ijg
+http://stream.tvtap.live:8081/live/us-fox.stream/chunks.m3u8
 #EXTINF:-1, The CW
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
 #EXTINF:-1, KTLA - The CW
@@ -1535,27 +1511,19 @@ http://api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Mexico-Flag-icon.png", México
 https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg
 #EXTINF:-1, Azteca Uno
-http://fixed-189-203-8-121.totalplay.net:8000/playlist.m3u8
+https://v-sd.mybtv.net/event/508/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1, Azteca Uno
-http://201.168.205.12:8000/play/a0cc/index.m3u8
+https://v-sd.mybtv.net/event/485/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1, Las Estrellas
 http://201.168.205.12:8000/play/a0d4/index.m3u8
-#EXTINF:-1, Las Estrellas
-https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
-#EXTINF:-1, Las Estrellas teste
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1784&format=HLSAD&f=.m3u8
-#EXTINF:-1, Imagen TV
-http://201.168.205.12:8000/play/a0d5/index.m3u8
 #EXTINF:-1, Imagen TV
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
 #EXTINF:-1, Foro TV
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF:-1, Canal 5
-http://201.168.205.12:8000/play/a0fl/index.m3u8
-#EXTINF:-1, Canal 5
 https://v-sd.mybtv.net/event/486/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1, Azteca 7
-http://201.168.205.12:8000/play/a0fm/index.m3u8
+https://v-sd.mybtv.net/event/502/1920x1080.m3u8?start_time=2021-05-16&end_time=2028-05-17&uid=33630 
 #EXTINF:-1, Azteca 7
 http://195.181.163.39/LAT_Azteca_7_HD/index.m3u8
 #EXTINF:-1, Azteca 7
@@ -1569,7 +1537,7 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhuaa-tdt2m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GrmloHU.png", XETV-TDT - Canal 5
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png", XEWT-TDT
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
+https://v-sd.mybtv.net/event/497/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wEn9Nyq.png", XHTJB-TDT - Once
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtjb-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/03bMqFX.png", XHTJB 2 - Once Niñas y Niños
@@ -1587,9 +1555,9 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N3ZwfrR.png", XHCTTI 2 - Imagen Multicast
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt2m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSoeHJ1.png", XHBJ - Multimedios
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HMPaG0I.png", XHDTV - Milenio Television
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
+https://v-sd.mybtv.net/event/515/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HMPaG0I.png", Milenio Television
+https://v-sd.mybtv.net/event/521/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1, MVS TV
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 #EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/05/canal-once.jpg", Once TV
@@ -1765,15 +1733,17 @@ http://38.18.238.42:2095/megatvpr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Argentina-Flag-icon.png", Argentina
 https://upload.wikimedia.org/wikipedia/commons/e/ef/United_States_Navy_Band_-_Himno_Nacional_Argentino.ogg
 #EXTINF:-1, America
-http://200.85.137.189:70/Live/e5e79c564707f74bacfe247cddb99be3/americatv.playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
 #EXTINF:-1, America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1, America
+https://g1.vxral-hor.transport.edge-access.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGuqcse.png", America
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1, TV Publica
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
 #EXTINF:-1, TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/Playlist.m3u8
-#EXTINF:-1, TV Publica
-http://cdn.stg.cvattv.com.ar/live/live2/Canal7/SA_Live_fta/Canal7-audio_20000=144800-video=3900000.m3u8
 #EXTINF:-1, TV Publica
 http://195.181.163.39/ARG_TV_PUBLICA/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg", Canal 10 San Rafael - TV Publica
@@ -1781,11 +1751,15 @@ https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 #EXTINF:-1, Telefe
 http://cdn.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/TelefeHD-audio_20000=144800-video=3000000.m3u8
 #EXTINF:-1, Telefe
+https://delivery.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-1, Telefe
 http://195.181.163.39/ARG_TELEFE/index.m3u8
+#EXTINF:-1, Telefe
+http://cdn.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/TelefeHD.m3u8
 #EXTINF:-1, Telesol - Telefe
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", El Nueve
-https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyODQzNDk2LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiIxZjk3MWE0MThmYmE1OTQ0ZDU2MTY1NTA4NGY5OTYyYTc3ZGRjMTI2In0=
+https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1, El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, El Trece
@@ -1814,6 +1788,8 @@ https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 #EXTINF:-1, Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+#EXTINF:-1, Encuentro
+https://delivery.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 #EXTINF:-1, Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg", Mirador
@@ -1822,14 +1798,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 https://59c5c86e10038.streamlock.net/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1j9qL9O.png", America Tucumán
 http://45.6.4.154/americatuc/vivo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGuqcse.png", America
-https://g1.vxral-hor.transport.edge-access.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGuqcse.png", America
-http://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGuqcse.png", America
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGuqcse.png", America
-https://dai.google.com/ssai/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1, Vorterix TV
 https://g1.vxral-hor.transport.edge-access.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 #EXTINF:-1, 24/7 Neuquén
