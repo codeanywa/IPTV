@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 15.08.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 21.08.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -489,6 +489,8 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1, Fox Sports Premium
 https://delivery.cdn.rcs.net.ar/mnp/foxpremium/output.mpd
+#EXTINF:-1, TDP
+http://91.126.141.13:1935/live/91/1800-def.m3u8
 #EXTINF:-1, ESPN
 https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-1, ESPN 2
@@ -1129,6 +1131,8 @@ http://stream.tvtap.live:8081/live/us-nbc.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/us-fox.stream/chunks.m3u8
 #EXTINF:-1, The CW
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/73/MNTV-KCWX_Custom_Logo_7-3.png/225px-MNTV-KCWX_Custom_Logo_7-3.png", KCWX
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1, KTLA - The CW
 https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8
 #EXTINF:-1, iON
