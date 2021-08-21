@@ -898,6 +898,12 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1, Runtime
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1, AXN
+http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index.m3u8
+#EXTINF:-1, History
+http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index.m3u8
+#EXTINF:-1, Lifetime
+http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Portugal-Flag-icon.png", Portugal
 https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
@@ -3845,178 +3851,163 @@ http://stm7.xcast.com.br:7876/;
 https://eldorado.jmvstream.com/stream
 #EXTINF:-1 tvg-logo="http://www.radioguaruja.com.br/logo.png" group-title="Rádio", Rádio Guarajá - Bandeirantes - Florianópolis/SC
 http://painel.localmidia.com.br:8038/aovivo
-#EXTINF:-1, Globo
+#EXTINF:-1, Discovery
 http://189.91.128.146:4444/udp/227.10.20.80:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.80:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.80:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.80:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.80:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.80:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.80:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.81:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.82:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.83:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.84:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.85:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, ESPN
 http://189.91.128.146:4444/udp/227.10.20.86:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.87:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.88:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.89:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.90:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.9:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, ESPN
+http://189.91.128.146:4444/udp/227.10.20.128:1234
+#EXTINF:-1, ESPN Brasil
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:-1, Fox Sports
+http://189.91.128.146:4444/udp/227.10.20.116:1234
+#EXTINF:-1, Fox Sports 2
+http://189.91.128.146:4444/udp/227.10.20.132:1234
+#EXTINF:-1, Discovery Turbo
+http://189.91.128.146:4444/udp/227.10.20.82:1234
+#EXTINF:-1, Discovery Kids
+http://189.91.128.146:4444/udp/227.10.20.83:1234
+#EXTINF:-1, TLC
+http://189.91.128.146:4444/udp/227.10.20.84:1234
+#EXTINF:-1, Discovery Home & Health
+http://189.91.128.146:4444/udp/227.10.20.85:1234
+#EXTINF:-1, Discovey Science
 http://189.91.128.146:4444/udp/227.10.20.92:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, ID
 http://189.91.128.146:4444/udp/227.10.20.93:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Animal Planet
+http://189.91.128.146:4444/udp/227.10.20.118:1234
+#EXTINF:-1, Telecine Pipoca
+http://189.91.128.146:4444/udp/227.10.20.87:1234
+#EXTINF:-1, Telecine Premium
+http://189.91.128.146:4444/udp/227.10.20.134:1234
+#EXTINF:-1, Telecine Action
+http://189.91.128.146:4444/udp/227.10.20.135:1234
+#EXTINF:-1, Telecine Touch
+http://189.91.128.146:4444/udp/227.10.20.136:1234
+#EXTINF:-1, Telecine Fun
+http://189.91.128.146:4444/udp/227.10.20.137:1234
+#EXTINF:-1, Studio Universal
+http://189.91.128.146:4444/udp/227.10.20.88:1234
+#EXTINF:-1, Megapix 
+http://189.91.128.146:4444/udp/227.10.20.89:1234
+#EXTINF:-1, Disney Channel
+http://189.91.128.146:4444/udp/227.10.20.90:1234
+#EXTINF:-1, Disney XD
+http://189.91.128.146:4444/udp/227.10.20.110:1234
+#EXTINF:-1, Gloob
+http://189.91.128.146:4444/udp/227.10.20.91:1234
+#EXTINF:-1, HBO
 http://189.91.128.146:4444/udp/227.10.20.94:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, HBO
+http://189.91.128.146:4444/udp/227.10.20.133:1234
+#EXTINF:-1, HBO 2
 http://189.91.128.146:4444/udp/227.10.20.95:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, HBO+
 http://189.91.128.146:4444/udp/227.10.20.96:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, HBO Family
 http://189.91.128.146:4444/udp/227.10.20.97:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, HBO?
 http://189.91.128.146:4444/udp/227.10.20.98:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, HBO Pop
 http://189.91.128.146:4444/udp/227.10.20.99:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, HBO Extreme
 http://189.91.128.146:4444/udp/227.10.20.100:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Cinemax
 http://189.91.128.146:4444/udp/227.10.20.101:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Premiere
 http://189.91.128.146:4444/udp/227.10.20.102:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.103:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Premiere
 http://189.91.128.146:4444/udp/227.10.20.104:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Premiere
 http://189.91.128.146:4444/udp/227.10.20.105:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Premiere
 http://189.91.128.146:4444/udp/227.10.20.106:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Premiere
 http://189.91.128.146:4444/udp/227.10.20.107:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Premiere
+http://189.91.128.146:4444/udp/227.10.20.123:1234
+#EXTINF:-1, Univale TV
+http://189.91.128.146:4444/udp/227.10.20.103:1234
+#EXTINF:-1, Rádio Ibituruna
 http://189.91.128.146:4444/udp/227.10.20.108:1234
 #EXTINF:-1, Globo
 http://189.91.128.146:4444/udp/227.10.20.109:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.110:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, CNT
 http://189.91.128.146:4444/udp/227.10.20.111:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Woohoo
 http://189.91.128.146:4444/udp/227.10.20.112:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.113:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Prime
 http://189.91.128.146:4444/udp/227.10.20.114:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Travel
 http://189.91.128.146:4444/udp/227.10.20.115:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.116:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Fish TV
 http://189.91.128.146:4444/udp/227.10.20.117:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.118:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.118:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Band Sports
+http://189.91.128.146:4444/udp/227.10.20.119:1234
+#EXTINF:-1, SBT
 http://189.91.128.146:4444/udp/227.10.20.120:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.121:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Rede TV!
 http://189.91.128.146:4444/udp/227.10.20.122:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.123:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, TCM
 http://189.91.128.146:4444/udp/227.10.20.124:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Canal Rural
 http://189.91.128.146:4444/udp/227.10.20.125:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Warner
 http://189.91.128.146:4444/udp/227.10.20.126:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Sony
 http://189.91.128.146:4444/udp/227.10.20.127:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.128:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, A&E
 http://189.91.128.146:4444/udp/227.10.20.129:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, History
 http://189.91.128.146:4444/udp/227.10.20.130:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Band News
 http://189.91.128.146:4444/udp/227.10.20.131:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.132:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.133:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.134:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.135:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.136:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.137:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, FX
 http://189.91.128.146:4444/udp/227.10.20.138:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Star Channel
 http://189.91.128.146:4444/udp/227.10.20.139:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Paramount Network
 http://189.91.128.146:4444/udp/227.10.20.140:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Rádio Super Sertaneja
 http://189.91.128.146:4444/udp/227.10.20.141:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Terra Viva
 http://189.91.128.146:4444/udp/227.10.20.142:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Loading
 http://189.91.128.146:4444/udp/227.10.20.143:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, CCTV 4
 http://189.91.128.146:4444/udp/227.10.20.144:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, TV Cultura
 http://189.91.128.146:4444/udp/227.10.20.145:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, RTPi
 http://189.91.128.146:4444/udp/227.10.20.146:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.147:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.148:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Nick
 http://189.91.128.146:4444/udp/227.10.20.149:1234
 #EXTINF:-1, Globo
 http://189.91.128.146:4444/udp/227.10.20.150:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Record
 http://189.91.128.146:4444/udp/227.10.20.151:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, ESPN
 http://189.91.128.146:4444/udp/227.10.20.152:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, ESPN 2
 http://189.91.128.146:4444/udp/227.10.20.153:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, HBO
 http://189.91.128.146:4444/udp/227.10.20.154:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, HBO 2
 http://189.91.128.146:4444/udp/227.10.20.155:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, HBO+
 http://189.91.128.146:4444/udp/227.10.20.156:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, HBO Family
 http://189.91.128.146:4444/udp/227.10.20.157:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, HBO Signature
 http://189.91.128.146:4444/udp/227.10.20.158:1234
-#EXTINF:-1, Globo
+#EXTINF:-1, Cinemax
 http://189.91.128.146:4444/udp/227.10.20.159:1234
-#EXTINF:-1, Globo
-http://189.91.128.146:4444/udp/227.10.20.160:1234
-
+#EXTINF:-1, Shoptime
+http://189.91.128.146:4444/udp/227.10.20.162:1234
+#EXTINF:-1, TV5 Monde
+http://189.91.128.146:4444/udp/227.10.20.163:1234
+#EXTINF:-1, Rede TV!
+http://189.91.128.146:4444/udp/227.10.20.164:1234
+#EXTINF:-1, TV Aparecida
+http://189.91.128.146:4444/udp/227.10.20.165:1234
