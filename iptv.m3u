@@ -320,6 +320,8 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1, CNN Chile
 http://unlimited1-cl.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+#EXTINF:-1, MSNBC
+http://stream.tvtap.live:8081/live/us-msnbc.stream/chunks.m3u8
 #EXTINF:-1, Globo News
 http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_2359/playlist.m3u8
 #EXTINF:-1, Band News
@@ -567,8 +569,6 @@ https://youtube.com/embed/ZC0_rKob80I?autoplay=1&rel=0&showinfo=1&controls=1
 http://187.120.222.12:8000/play/PolishopTV/index.m3u8
 #EXTINF:-1, 1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
-#EXTINF:-1, Mega TVF
-https://www.youtube.com/embed/3Z-K958GtSY?controls=1&enablejsapi=1&rel=0&showinfo=0&autoplay=0&mute=0&modestbranding=1&embed_config=%7B%22autonavRelatedVideos%22%3Afalse%2C%22disableRelatedVideos%22%3Atrue%2C%22hideInfoBar%22%3Atrue%2C%22primaryThemeColor%22%3A%22%22%2C%22relatedChannels%22%3A%5B%5D%2C%22relatedVideos%22%3A%5B%5D%2C%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F1011235%2FSBT_Videos%2FEspeciais%2FSBT_Live%2Fvideo%22%2C%22cust_params%22%3A%22%22%2C%22ppid%22%3A%22%22%2C%22pp%22%3A%22%22%7D%2C%22disableAds%22%3Afalse%2C%22nonPersonalizedAd%22%3Afalse%7D%7D&origin=https%3A%2F%2Fwww.sbt.com.br&widgetid=1
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Brazil-Flag-icon.png", Brasil
 https://upload.wikimedia.org/wikipedia/commons/0/0d/Hino-Nacional-Brasil-instrumental-mec.ogg
@@ -593,7 +593,7 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLSEJFp.png", Bem TV
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WX07l7V.png", TV Cidade Verde
-https://59e4b6c1beddc.streamlock.net/cidadeverde2021/cidadeverde2021/playlist.m3u8
+http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I4VIq1w.png", TV Difusora
 https://stream.amsolution.net.br:8443/live/60eef66583c80/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lpbO7Ku.png", TV Difusora Sul
@@ -3845,5 +3845,178 @@ http://stm7.xcast.com.br:7876/;
 https://eldorado.jmvstream.com/stream
 #EXTINF:-1 tvg-logo="http://www.radioguaruja.com.br/logo.png" group-title="Rádio", Rádio Guarajá - Bandeirantes - Florianópolis/SC
 http://painel.localmidia.com.br:8038/aovivo
-
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.80:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.80:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.80:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.80:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.80:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.80:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.80:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.82:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.83:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.84:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.85:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.86:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.87:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.88:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.89:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.90:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.9:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.92:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.93:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.94:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.95:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.96:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.97:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.98:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.99:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.100:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.101:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.102:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.103:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.104:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.105:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.106:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.107:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.108:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.109:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.110:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.111:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.112:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.113:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.114:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.115:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.116:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.117:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.118:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.118:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.120:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.121:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.122:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.123:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.124:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.125:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.126:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.127:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.128:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.129:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.130:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.131:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.132:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.133:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.134:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.135:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.136:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.137:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.138:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.139:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.140:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.141:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.142:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.143:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.144:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.145:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.146:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.147:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.148:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.149:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.150:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.151:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.152:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.153:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.154:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.155:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.156:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.157:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.158:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.159:1234
+#EXTINF:-1, Globo
+http://189.91.128.146:4444/udp/227.10.20.160:1234
 
