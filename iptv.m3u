@@ -1151,6 +1151,8 @@ https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_hq4vlk40/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:1, MyNetwork Texas (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/LAFF_logo.png/200px-LAFF_logo.png", Laff
+https://origin1.noisypeak.com/BrhEslnH5XKV2ASr5wXP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xw9mbhZ.png", KRON - My Network TV
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kron-dt1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wGw7ZhS.png", WPHL - My Network TV
