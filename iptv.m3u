@@ -4,9 +4,8 @@
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste 12
+https://www.dailymotion.com/embed/video/x29e3wg?autoplay=1)/dm/3/x29e3wg/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste 2
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/TVMariaLIVE/live
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", WJS® Nova Bebedouro FM
@@ -284,8 +283,6 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
 #EXTINF:-1, Milenio Television
 https://v-sd.mybtv.net/event/521/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1, Milenio Television
-http://181.80.15.122:9001/Live/9f731084a5b4f72ed9c31d7642143a03/milenio.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHprPPD.png", Canal 44 México
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHprPPD.png", Canal 44 Chihuahua
@@ -322,6 +319,8 @@ http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 http://unlimited1-cl.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 #EXTINF:-1, MSNBC
 http://stream.tvtap.live:8081/live/us-msnbc.stream/chunks.m3u8
+#EXTINF:-1, Ñanduti TV
+https://tvdatta.com:3839/live/nandutitvlive.m3u8
 #EXTINF:-1, Globo News
 http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_2359/playlist.m3u8
 #EXTINF:-1, Band News
@@ -2295,7 +2294,7 @@ https://ss2.domint.net:3132/teim_str/teleimpacto/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://entelevision.com/wp-content/themes/entelevision/imagenes/logo-principal.png", En Television
 http://184.173.181.2:1935/8114/8114/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X3tMvNk.png", Canal 4 República Dominicana 
-http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0EO51L.png", Telemicro
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0EO51L.png", Telemicro
