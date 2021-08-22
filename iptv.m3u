@@ -4,8 +4,8 @@
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
 http://190.122.96.187:8888/http/005
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste 2
-https://m3ukodi.com/iptv/yplay_beta.php?https://www.youtube.com/c/TVMariaLIVE/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste 3
+http://status.tehw00t.net/miniProxy.php/https://phi2.locastnet.org/proxy/phi2/variant/1AvvZH0ui01wfIgiXAeCOHRQDpRDf1m4972PT8kqv5Ni7IRNZg60suR864jQ52dwLX5SjSntXPsVKUIbZAcbRPmAmHsc9HJYsJzl4w4DBvUZ.m3u8
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", WJS® Nova Bebedouro FM
 https://5a57bda70564a.streamlock.net/novafmlive/novafmlive.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/12710719_ico.png?v=1", WJS® Teste 5
@@ -1639,7 +1639,7 @@ https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m
 #EXTINF:-1, ADN 40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J7nQy1v.png", Canal 66
-https://60417ddeaf0d9.streamlock.net/canal66/videocanal66/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIxIDEyOjUwOjAyIFBNJmhhc2hfdmFsdWU9Y3NMa1I2ZFlSeHhWbUt0bGlCR3ZqUT09JnZhbGlkbWludXRlcz01JmlkPQ==
+https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w934744979_b878000_sleng.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://tvt.mx/wp-content/uploads/2019/06/logo_tvt_2019_blanco.png", Television Tabasqueña
 https://liveingesta118.cdnmedia.tv/rtvtabascolive/smil:tvt.smil/chunklist_b750000.m3u8
 #EXTINF:-1, Mexico Travel Channel
