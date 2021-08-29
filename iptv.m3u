@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 28.08.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 29.08.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -1131,6 +1131,8 @@ http://194.158.80.31:1935/live/rtva/playlist.m3u8
 https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Spangled_Banner_instrumental.ogg
 #EXTINF:-1, ABC
 http://stream.tvtap.live:8081/live/us-abc.stream/chunks.m3u8
+#EXTINF:-1, ABC
+http://31.220.41.88:8081/live/us-abc.stream/playlist.m3u8
 #EXTINF:-1, CBS
 https://v-ny.mybtv.net/event/545/1920x1080.m3u8?start_time=2021-05-29T19%3A45%3A00%2B00%3A00&end_time=2029-05-29T23%3A00%3A00%2B00%3A00&env=prd&uid=25110
 #EXTINF:-1, CBS 57 Kentucky (WYMT)
