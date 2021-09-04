@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 29.08.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 04.09.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -428,6 +428,8 @@ https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_tok
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 #EXTINF:-1, IVC
 https://delivery.cdn.rcs.net.ar/mnp/ivc_hls/playlist.m3u8
+#EXTINF:-1, Disney Channel International
+https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8 
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XXxJf8.png", Sports
 #EXTINF:-1, Eurosport 1
@@ -2025,6 +2027,8 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 #EXTINF:-1 tvg-logo="http://cr04.critica.com.pa/sites/default/files/imagenes/2017/01/06/tvn2-3.jpg", TVN
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://www.mas23tv.com/wp-content/uploads/2020/02/logo-footer.png", Mas 23
+https://stmv1.panelzcast.com/mas23tve/mas23tve/playlist.m3u8
 #EXTINF:-1, Mall TV
 https://medcom-livechannel.akamaized.net/medcom-mobile-stream/mall-livetv/playlist.m3u8
 #EXTINF:-1, Ser TV
