@@ -575,10 +575,6 @@ https://upload.wikimedia.org/wikipedia/commons/0/0d/Hino-Nacional-Brasil-instrum
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1, Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1, Globo
-https://canal1.proxy.tokplay.com.br/streams/TV_BAHIA/auto.m3u8
-#EXTINF:-1, Globo
-http://origin-02.nxplay.com.br/Glob_131313/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRb8CaM.png", TV Santa Cruz
 http://177.20.208.58:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tkqCU8t.png", TV Sudoeste
