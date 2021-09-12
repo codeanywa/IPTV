@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 11.09.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 12.09.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -1132,6 +1132,8 @@ https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Spangled_Banner_instrum
 #EXTINF:-1, ABC
 http://stream.tvtap.live:8081/live/us-abc.stream/chunks.m3u8
 #EXTINF:-1, ABC
+http://71.187.29.220:8000/play/a08l/index.m3u8
+#EXTINF:-1, ABC
 http://31.220.41.88:8081/live/us-abc.stream/playlist.m3u8
 #EXTINF:-1, CBS
 https://v-ny.mybtv.net/event/545/1920x1080.m3u8?start_time=2021-05-29T19%3A45%3A00%2B00%3A00&end_time=2029-05-29T23%3A00%3A00%2B00%3A00&env=prd&uid=25110
@@ -1141,8 +1143,12 @@ https://dai2-playlistserver.aws.syncbak.com/playlist/893557/master.m3u8?access_t
 https://v-ny.mybtv.net/event/548/1920x1080.m3u8?start_time=2021-05-29T19%3A45%3A00%2B00%3A00&end_time=2029-05-29T23%3A00%3A00%2B00%3A00&env=prd&uid=25110
 #EXTINF:-1, NBC
 http://stream.tvtap.live:8081/live/us-nbc.stream/chunks.m3u8
+#EXTINF:-1, NBC
+http://71.187.29.220:8000/play/a07x/index.m3u8
 #EXTINF:-1, FOX
 http://stream.tvtap.live:8081/live/us-fox.stream/chunks.m3u8
+#EXTINF:-1, FOX
+http://71.187.29.220:8000/play/a075/index.m3u8
 #EXTINF:-1, The CW
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/73/MNTV-KCWX_Custom_Logo_7-3.png/225px-MNTV-KCWX_Custom_Logo_7-3.png", KCWX
@@ -1192,21 +1198,17 @@ http://208.88.246.11:2095/eventox3/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9Wx
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true", Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1, Univisión
-https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
+http://71.187.29.220:8000/play/a07t/index.m3u8
 #EXTINF:-1, Unimás
-https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
+http://71.187.29.220:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-88536.png", teleXitos
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kuan-ld2.m3u8
 #EXTINF:-1, Galavision
 https://pubads.g.doubleclick.net/ssai/event/SIvlK2VmTsqL_hgyKeFIPg/master.m3u8
-#EXTINF:-1, NBC Universo
-http://208.88.246.11:2095/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:-1, NBC Universo
-http://38.18.238.42:2095/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI1NDE0MTFf/RetroTV_v2_281x281.png", Retro TV 
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1, Telemundo
-http://contentheinentv.ddns.net/Contenido/xtreamcodes/iptv_xtream_codes/streams/10556_.m3u8
+http://71.187.29.220:8000/play/a07a/index.m3u8
 #EXTINF:-1, Telemundo New York
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
 #EXTINF:-1 type="closedcaptions", USA Network
