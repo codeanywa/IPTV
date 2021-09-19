@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 12.09.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 19.09.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -707,6 +707,8 @@ https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist.m3u8
 https://stmv4.srvstm.com/wagner1168/wagner1168/playlist.m3u8?wowzasessionid=408470504
 #EXTINF:-1 tvg-logo="https://www.tvgraopara.com.br/wp-content/uploads/2018/11/loggazeta.png", TV Grão Pará - Rede Gazeta
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:-1, CNT
+http://189.91.128.146:4444/udp/227.10.20.111:1234
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png", CNT Americana
@@ -1700,8 +1702,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RiGN4O1.png", Ingenio TV
 https://5e7aa30977cb7.streamlock.net/ingeniotv/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bDCHndQ.png", Telebachillerato
-https://5e7aa30977cb7.streamlock.net/telebach/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bDCHndQ.png", Telebachillerato Teste
+https://dgtve-usso.streaming.media.azure.net/f6d9bfec-5e3d-48fb-b42a-d2a233e261ce/ca87097a-e200-4702-b523-2dc1b6bbc40f.ism/manifest(format=mpd-time-csf)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOAKPJm.png", Telesecundaria
 https://5e7aa30977cb7.streamlock.net/telesec/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cbF92y.png", Telesecundaria+
@@ -2213,6 +2215,8 @@ https://cootv.cootel.com.ni/streams/d/SSLCH23-HD-HOV/playlist.m3u8
 https://upload.wikimedia.org/wikipedia/commons/b/b3/Honduras_National_Anthem.ogg
 #EXTINF:-1, Azteca Honduras
 http://190.122.96.187:8888/http/002
+#EXTINF:-1 tvg-logo="https://www.waldivision.tv/wp-content/uploads/2021/07/LOGO-CANAL.png", Waldivision Internacional
+https://tvdatta.com:3934/live/waldivisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RzgolVF.jpg", Canal 6
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5ba026492cdc1a7124d02fb7/playlist.m3u8
 #EXTINF:-1, Sotel Canal 11
@@ -3699,8 +3703,6 @@ http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 rtmp://3xhtut.live1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQKaYs7.jpg", Music
-#EXTINF:-1, VH1
-https://d3pu3hnym3eusd.cloudfront.net/VH1.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1203580988699414529/X-BrNawy_200x200.jpg", Radio Monte Carlo TV
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1214687460011192321/2S4PFFlr_200x200.jpg", Radio 105 TV
