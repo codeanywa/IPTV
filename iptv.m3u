@@ -774,7 +774,7 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 http://177.11.96.110:9080/hls/sictv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wA42e8J.png", TV Varzea Grande - Rede Brasil
 https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3x76zeE.png", TV Marajoara - Rede Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P1IhGqA.png", TV Marajoara - Rede Brasil
 https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YMrxHCv.png", TV Brasil Oeste - Rede Brasil
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
@@ -1803,8 +1803,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0235
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0093
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png", Telefe Salta
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0246
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png", Telefe Salta YT2
-https://waspish-brakes.000webhostapp.com/yoytu.php?channel=UCy-r-BQ5BQRU6rzGS73-WBQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png", Telefe Tucuman
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0316
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png", Telefe Cordoba
