@@ -265,10 +265,14 @@ https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/ip/output.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rw5GKyJ.jpg", Informacíon Periodistica
+https://sv.spliktv.xyz/live/caster/AR/IP.m3u8
 #EXTINF:-1, TN
 https://www.youtube.com/embed/wHn1_QVoXGM
 #EXTINF:-1, TN
 http://edge1.stg.cvattv.com.ar/live/live2/TodoNoticias/SA_Live_fta/index.m3u8
+#EXTINF:-1, TN
+https://sv.spliktv.xyz/live/caster/RA/TodoNoticias.m3u8
 #EXTINF:-1, C5N
 https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTINF:-1, C5N
@@ -308,6 +312,8 @@ https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cv6678c.png", Imagen Multicast
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NacOwRY.png", NTN 24
+https://sv.spliktv.xyz/live/caster/CO/ntn24_dx.m3u8
 #EXTINF:-1, ATV+
 https://pe-atv-atv-mas-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4ODA5MDI3LCJzZXNzaW9uIjoiMTg3LjczLjE1Ny4xNDUiLCJ3aGl0ZWxpc3QiOlsiMTg3LjczLjE1Ny4xNDUiXX0sInNpZ25hdHVyZSI6ImY0NzMyMzFkMDJlNjYwYTBjYzE0MDk4MTVmMGRmNmQxOTJmNDNlYzUifQ==
 #EXTINF:-1, Estrella News
@@ -2003,7 +2009,7 @@ https://upload.wikimedia.org/wikipedia/commons/a/a6/Paraguayan_National_Anthem.o
 #EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2014/12/logoParaguayTv.jpg", Paraguay TV
 http://hidraplay.tv/live/Cubill/123457/43471.m3u8
 #EXTINF:-1 tvg-logo="https://www.abc.com.py/pf/resources/images/OG-Image-ABC-TV.png?d=507", ABC TV
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 tvg-logo="https://www.abc.com.py/pf/resources/images/OG-Image-ABC-TV.png?d=507", ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1-218x150.png", Paravision
@@ -2381,32 +2387,22 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Colombia-Flag-icon.png", Colômbia
 https://upload.wikimedia.org/wikipedia/commons/5/55/United_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg
-#EXTINF:-1, Trece Colombia
-https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1, City TV
-http://190.122.96.187:8888/http/004
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C8xGQ7FXcAA3qcV.png", Caracol
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="http://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/Canal_RCN_logo-1.jpg", RCN 
 http://status.tehw00t.net/miniProxy.php/https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
-#EXTINF:-1 tvg-logo="http://www.redmas.com.co/wp-content/themes/RedMas/img/logoredmas.jpg", Red Mas
-http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
 #EXTINF:-1, Cosmovision
 https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8
 #EXTINF:-1, Canal Capital
 http://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1, Canal 1
-http://mdstrm.com/live-stream-playlist/5a1dafd63910b04010338038.m3u8
-#EXTINF:-1, Canal 1
-http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/202063
+https://sv.spliktv.xyz/live/caster/CO/canal_uno_sd.m3u8
 #EXTINF:-1, Canal TRO
 https://liveingesta118.cdnmedia.tv//canaltro2live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vFEpZW.png", Canal Trece
 https://liveingesta119.cdnmedia.tv/canaltrecelive/smil:live.smil/playlist.m3u8
-#EXTINF:-1, Cali TV
-http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1, Senal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+https://sv.spliktv.xyz/live/caster/CO/SE-CO.m3u8
 #EXTINF:-1, Senal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1, Teleantioquia
@@ -2420,7 +2416,7 @@ https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lgfR2WI.jpg", Telemedellin
 https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FfSefA.jpg", Telecaribe
-https://dcs-live.apis.anvato.net/server/play/d3zrDTGrqagTNWJGr/manifest.m3u8?encp=MOM7pv-4YOGMEsK0oAidhA:pcXPMbWH8QdAf6dngYAnR5Tk0mVjpj1xdwQ0aXAWVQQ-HjI0LCDn1MMA6mdsXJm1qaeaHwdMURroNETekEy5gEVcLEpiHNN-REtx2j9bovKJdwboXv3P_vWmNCylJFMnzjmlPdknitzKyd70IUCcDbhsNXLNDQQLMIQuHnqW06fSfzEh7sYEqOzqOuajJ46AlS1XyyTfn1wTMfADUfj0Prv5xsTgaXwtgCKPhstI0nD6w1ZdXnoHra7fevIwJ3HrrZkEuaMPYfB_j5GVxbXR2XGyyo3sglE2deFPOFxSJ0TQ-LWB1cuenEcUrxOqK08T9c1hs3p8mrCarg7yxXHa-oTkC8vv3vzquFPbFHYosRAjMRtW8ap1MJu-yX6dPthMpxTIO7O9g84vq86JGj6B63d26265iFbTHVJYUUiHze5QEgGYRwYqZ-yL0VGGqY7hE-3dnblkNT6w3--aMDbLGtyB0lAMWomf5lZ0KYOoZK175ABSlUIwi-pZ1b7CNT2lEm4SB-yz4H85rqOepy5hi5nT_f3xUKeAzCzfNyQQF1hin-dTKtLO1ONgpJET2J1PRq4YcjZWwOlLJujF0zvFtAXMfzYxy-4hwW_DHAhe6G2Dzgux0VmWGSy3N5gs7XRkGyYqZna-fEPdMEXa3oBplHq6eugJpZ_yOavrppybbxkTeWkGJjvjOa624iFOG9CMVyTlbnjUIe9353EpI6R1hq4-O_1VoqrvtumSc-Y956Y&anvtrid=w5741a7f2e694ed92ec9c36a0be84649&anvauth=tb=0~te=1627940116~sgn=0abaf22897fb9220b54e2ee63f88e9ce03facd062965d86e85d3694384919d69&t=1627940026&_vpng=0
+https://sv.spliktv.xyz/live/caster/CO/TELECARIBE.m3u8
 #EXTINF:-1, Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telepasto.tv/wp-content/uploads/2019/11/TELEPASTO-1-150x150.png", Telepasto
@@ -2435,7 +2431,7 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Ecuador-Flag-icon.png", Equador
 https://upload.wikimedia.org/wikipedia/commons/6/6e/Anthem_of_Ecuador.ogg
 #EXTINF:-1, Ecuavisa
-https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
+http://b7489-g9.hd2.cdn.spliktv.xyz/hls/ecutv1.m3u8
 #EXTINF:-1 tvg-logo="https://img.onesignal.com/t/f88b1c5c-a930-48b3-a779-06660dc6a572.png", TC
 https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 #EXTINF:-1, UCSG TV
@@ -2443,7 +2439,7 @@ http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:-1, UCSG TV
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:-1, Teleamazonas
-http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+http://b7489-g9.hd2.cdn.spliktv.xyz/hls/ecutv2.m3u8
 #EXTINF:-1, Oromar TV
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8D1LrKO.png", Canela TV
