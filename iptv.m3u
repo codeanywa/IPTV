@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 25.09.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 26.09.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -1130,9 +1130,9 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YkAEkOM.png", Aragon TV
 http://91.126.138.140:1935/live/aragontv-streamnntv/playlist.m3u8
 #EXTINF:-1, Canárias TV
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8
-#EXTINF:-1, Canárias TV
 https://rtvc-live1-rm.flumotion.com/playlist.m3u8
+#EXTINF:-1, Canárias TV
+https://rtvc-live1.flumotion.com/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/09/Vatican-City-icon.png", Vaticano
 https://upload.wikimedia.org/wikipedia/commons/d/d1/United_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg
