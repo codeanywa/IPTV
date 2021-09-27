@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 26.09.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 27.09.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -81,6 +81,8 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NAFhzA.png", Love Nature
 http://status.tehw00t.net/miniProxy.php/https://blueantmediausa-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NAFhzA.png", Love Nature
+http://185.255.212.33:8635
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Love_Nature_4K_190x190_circle.png?raw=true",Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1, Saber Más
@@ -1026,7 +1028,9 @@ http://91.126.141.13:1935/live/11/playlist.m3u8
 #EXTINF:-1, Cuatro
 https://live.mitele.es/hls/live/2004102/cuatro/bitrate_1.m3u8
 #EXTINF:-1, Telecinco
-http://91.126.141.13:1935/live/61/playlist.m3u8 
+http://91.126.141.13:1935/live/61/playlist.m3u8
+#EXTINF:-1, La Sexta
+http://45.14.248.11:6666
 #EXTINF:-1, La Sexta
 http://91.126.141.13:1935/live/21/playlist.m3u8
 #EXTINF:-1, Hollywood
