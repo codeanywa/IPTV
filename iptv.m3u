@@ -401,7 +401,11 @@ http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u
 #EXTINF:-1, NHK World
 https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1, NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/es/playlist.m3u8
+#EXTINF:-1, NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1, NHK World
+https://nhkwlive-burnin.webcdn.stream.ne.jp/vtt/es_A/webvtt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg", NHK 华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1, Cubavision Internacional
