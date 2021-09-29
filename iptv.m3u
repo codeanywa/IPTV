@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 27.09.2021
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Updated 29.09.2021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS®
 https://archive.org/download/untitled_201908/Untitled.MP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoxH1ph.png", WJS® Teste
@@ -445,6 +445,8 @@ https://delivery.cdn.rcs.net.ar/mnp/ivc_hls/playlist.m3u8
 https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8
 #EXTINF:-1, Peru Magico
 https://live.spliktv.xyz/RB/PERU-MAGICO.m3u8
+#EXTINF:-1, RCN +
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XXxJf8.png", Sports
 #EXTINF:-1, Eurosport 1
